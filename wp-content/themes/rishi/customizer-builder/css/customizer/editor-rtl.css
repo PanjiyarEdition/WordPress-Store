@@ -1,0 +1,14 @@
+/**
+ * Rishi - v1.7.62
+ * 
+ * Copyright (c) 2021
+ * Licensed GPLv2+
+ */
+
+body.rtl .rt-panel-options-header {
+  padding-right: 16px;
+}
+body.rtl .rt-panel-options-header .components-button {
+  margin-left: initial;
+  margin-right: auto;
+}

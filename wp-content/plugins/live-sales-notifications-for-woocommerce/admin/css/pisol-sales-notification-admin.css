@@ -1,0 +1,28 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+ .select2-container--default .select2-selection--multiple .select2-selection__choice{
+     background:#ee6443!important;
+     color:#fff;
+     padding:5px !important;
+     border:0px !important;
+ }
+
+ .select2-container--default .select2-selection--multiple .select2-selection__choice__remove{
+    color:#fff !important;
+ }
+
+.pisol-pro-feature-list{
+    background:rgba(0,0,0,0.7);
+    border-radius:10px;
+}
+
+.pisol-pro-feature-list li{
+    padding:10px;
+}
+
+#bootstrap-wrapper.pisol-setting-wrapper.pisol-container-wrapper  .pisol-pro-feature-list li:first-child{
+    border-top:0px !important;
+}

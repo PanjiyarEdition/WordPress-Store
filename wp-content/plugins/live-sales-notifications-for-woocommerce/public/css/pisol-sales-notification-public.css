@@ -1,0 +1,55 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+.pi-popup {
+  position: fixed;
+  display: inline-flex;
+  z-index: 100000;
+  overflow:hidden;
+  box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.4);
+}
+
+
+.pi-popup-content {
+  padding: 10px;
+  padding-right:25px;
+  flex: 1;
+}
+
+.pi-popup-close{
+  width:15px;
+  height:15px;
+  position:absolute;
+  display:block;
+  top:10px;
+  right:10px;
+}
+
+.pi-popup-image{
+  display:flex;
+  align-items: center;
+}
+
+.pi-popup-image img{
+  max-width:100% !important;
+}
+
+.pi-popup-close img{
+  max-width:100%;
+  display:block;
+}
+
+@media (max-width:768px){
+  .pi-popup{
+    bottom:0px !important;
+    left:0px !important;
+    width:100% !important;
+    border-radius:0 !important;
+  }
+
+  .pi-popup-image{
+    width:50% !important;
+  }
+}

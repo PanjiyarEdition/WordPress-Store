@@ -1,0 +1,54 @@
+#wpdreams .tabs {
+  overflow: hidden;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+#wpdreams .tabs li {
+  display: block;
+  float: left;
+}
+
+#wpdreams .tabs a {
+  float: left;
+  position: relative;
+  text-transform: none;
+  text-decoration: none;
+  font-size: 13px;
+  color: #fff;
+  padding: 5px 10px;
+  margin: 0 10px;
+}
+
+#wpdreams .tabs a:hover {
+  border-bottom-color: #2ac7e1;
+}
+
+#wpdreams .tabs a:focus {
+  outline: 0;
+}
+
+#wpdreams .tabs .current {
+  z-index: 3;
+  border-bottom-color: #3d3d3d;
+  opacity: 1;
+  box-shadow: 0px 10px 9px -12px #000000;
+  -webkit-box-shadow: 0px 10px 9px -12px #000000;
+}
+
+
+#wpdreams .tabs a {
+  border-radius: 3px;
+  cursor: pointer;
+  display: block;
+}
+
+#wpdreams .tabscontent {
+    margin-top: 12px;
+}
+
+#wpdreams fieldset .tabscontent {
+    margin-top: 18px;
+}

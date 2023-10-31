@@ -1,0 +1,1714 @@
+# Copyright (C) 2023 Rishi Theme
+# This file is distributed under the GPLv3.
+msgid ""
+msgstr ""
+"Project-Id-Version: Rishi Companion 1.2.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-06-29 04:28:27+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2023-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Rishi Theme\n"
+"Language-Team: \n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"Language: en_US\n"
+"X-Poedit-SearchPath-0: ../../rishi-companion\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: includes/functions/ConditionsManager.php:444
+msgid "404"
+msgstr ""
+
+#: framework/extensions/cookies-consent/config.php:4
+msgid "Cookies Consent"
+msgstr ""
+
+#: framework/extensions/cookies-consent/config.php:5
+msgid "Enable this extension in order to comply with the GDPR regulations."
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:4
+#: framework/extensions/cookies-consent/customizer.php:14
+msgid "Cookie Consent"
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:18
+#: framework/extensions/progress-bar/customizer.php:18
+#: framework/extensions/socialshare/customizer.php:18
+msgid "General"
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:31
+msgid "Type 1"
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:36
+msgid "Type 2"
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:41
+msgid "Type 3"
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:52
+#: framework/extensions/cookies-consent/customizer.php:88
+#: framework/extensions/progress-bar/customizer.php:41
+msgid "Position"
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:58
+#: framework/extensions/socialshare/customizer.php:71
+msgid "Left"
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:59
+#: framework/extensions/socialshare/customizer.php:72
+msgid "Right"
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:72
+#: framework/extensions/cookies-consent/customizer.php:108
+msgid "Maximum Width"
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:94
+#: framework/extensions/progress-bar/customizer.php:46
+#: framework/extensions/socialshare/customizer.php:139
+msgid "Top"
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:95
+#: framework/extensions/progress-bar/customizer.php:47
+#: framework/extensions/socialshare/customizer.php:140
+msgid "Bottom"
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:121
+msgid "Cookie period"
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:129
+msgid "One hour"
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:130
+msgid "One day"
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:131
+msgid "One week"
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:132
+msgid "One month"
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:133
+msgid "Three months"
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:134
+msgid "Six months"
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:135
+msgid "One year"
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:136
+msgid "Forever"
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:143
+msgid "Delay"
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:146
+msgid "1 second"
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:147
+msgid "2 seconds"
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:148
+msgid "3 seconds"
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:149
+msgid "4 seconds"
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:150
+msgid "5 seconds"
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:151
+msgid "10 seconds"
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:152
+msgid "30 seconds"
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:153
+msgid "60 seconds"
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:154
+msgid "No Delay"
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:160
+msgid "Content"
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:162
+#: framework/extensions/cookies-consent/helpers.php:47
+msgid ""
+"We use cookies on our website to give you the most relevant experience. By "
+"continuing to use the site, you agree to the use of cookies."
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:174
+msgid "Accept Button text"
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:177
+#: framework/extensions/cookies-consent/helpers.php:20
+msgid "Accept"
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:187
+msgid "Decline Button text"
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:190
+#: framework/extensions/cookies-consent/helpers.php:30
+msgid "Decline"
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:202
+#: framework/extensions/progress-bar/customizer.php:53
+#: framework/extensions/socialshare/customizer.php:419
+msgid "Design"
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:207
+msgid "Font"
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:222
+msgid "Font Color"
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:235
+#: framework/extensions/cookies-consent/customizer.php:256
+#: framework/extensions/cookies-consent/customizer.php:280
+#: framework/extensions/cookies-consent/customizer.php:308
+#: framework/extensions/cookies-consent/customizer.php:336
+#: framework/extensions/cookies-consent/customizer.php:364
+#: framework/extensions/cookies-consent/customizer.php:392
+#: framework/extensions/cookies-consent/customizer.php:417
+#: framework/extensions/cookies-consent/customizer.php:437
+#: framework/extensions/socialshare/customizer.php:439
+#: framework/extensions/socialshare/customizer.php:498
+#: framework/extensions/socialshare/customizer.php:527
+msgid "Initial"
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:243
+#: framework/extensions/socialshare/customizer.php:464
+msgid "Icon Color"
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:264
+msgid "Link Color"
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:284
+#: framework/extensions/cookies-consent/customizer.php:313
+#: framework/extensions/cookies-consent/customizer.php:341
+#: framework/extensions/cookies-consent/customizer.php:369
+#: framework/extensions/cookies-consent/customizer.php:397
+#: framework/extensions/socialshare/customizer.php:503
+#: framework/extensions/socialshare/customizer.php:532
+msgid "Hover"
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:292
+msgid "Primary Button Color"
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:320
+msgid "Primary Button Text Color"
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:348
+msgid "Secondary Button Color"
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:376
+msgid "Secondary Button Text Color"
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:404
+msgid "Border Color"
+msgstr ""
+
+#: framework/extensions/cookies-consent/customizer.php:424
+#: framework/extensions/progress-bar/customizer.php:73
+#: framework/extensions/socialshare/customizer.php:510
+#: includes/Rishi_Companion_Admin.php:168
+#: includes/Rishi_Companion_Admin.php:211
+msgid "Background Color"
+msgstr ""
+
+#: framework/extensions/cookies-consent/readme.php:1
+#: framework/extensions/customizer-reset/readme.php:1
+#: framework/extensions/performance/readme.php:1
+#: framework/extensions/progress-bar/readme.php:1
+#: framework/extensions/socialshare/readme.php:1
+#: framework/extensions/transparent-header/readme.php:1
+msgid "Instructions"
+msgstr ""
+
+#: framework/extensions/cookies-consent/readme.php:4
+msgid ""
+"After installing and activating the Cookies Consent extension you will be "
+"able to configure it from this location:"
+msgstr ""
+
+#: framework/extensions/cookies-consent/readme.php:9
+#: framework/extensions/customizer-reset/readme.php:9
+#: framework/extensions/performance/readme.php:9
+#: framework/extensions/progress-bar/readme.php:9
+#: framework/extensions/socialshare/readme.php:9
+#: framework/extensions/transparent-header/readme.php:9
+msgid "Customizer"
+msgstr ""
+
+#: framework/extensions/cookies-consent/readme.php:13
+#: framework/extensions/socialshare/readme.php:13
+msgid "Navigate to %s and customize the settings to meet your needs."
+msgstr ""
+
+#: framework/extensions/cookies-consent/readme.php:16
+msgid "Customizer ➝ Cookie Consent"
+msgstr ""
+
+#: framework/extensions/customizer-reset/config.php:4
+#: framework/extensions/customizer-reset/customizer.php:4
+msgid "Customizer Reset"
+msgstr ""
+
+#: framework/extensions/customizer-reset/config.php:5
+msgid "Enable this extension in order to reset to default settings."
+msgstr ""
+
+#: framework/extensions/customizer-reset/customizer.php:13
+msgid "Reset Options"
+msgstr ""
+
+#: framework/extensions/customizer-reset/customizer.php:14
+msgid ""
+"Click this button if you want to reset all settings to their default "
+"values. This action is irreversible."
+msgstr ""
+
+#: framework/extensions/customizer-reset/readme.php:4
+msgid ""
+"After installing and activating the Customizer Reset extension you will be "
+"able to configure it from this location:"
+msgstr ""
+
+#: framework/extensions/customizer-reset/readme.php:13
+#: framework/extensions/performance/readme.php:13
+#: framework/extensions/progress-bar/readme.php:13
+#: framework/extensions/transparent-header/readme.php:13
+msgid "Navigate to %s and customize the notification to meet your needs."
+msgstr ""
+
+#: framework/extensions/customizer-reset/readme.php:16
+msgid "Customizer ➝ Customizer Reset"
+msgstr ""
+
+#: framework/extensions/performance/config.php:4
+#: framework/extensions/performance/customizer.php:4
+msgid "Performance"
+msgstr ""
+
+#: framework/extensions/performance/config.php:5
+msgid "Enable this extension in order to enable performance related settings."
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:16
+msgid "Images"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:22
+msgid "Lazy Load Images"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:26
+msgid ""
+"This option will be auto disabled if you have JetPack's lazy load option "
+"enabled."
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:29
+msgid "Exclude Lazy Load Images"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:39
+msgid "Exclude Above-the-fold Images"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:40
+msgid ""
+"Select the number of Above-the-fold images you want to exlude from lazy "
+"loading."
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:55
+msgid "Excluded images list"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:56
+msgid ""
+"Specify keywords (e.g. image filename, CSS class, domain) from the image to "
+"be excluded (one per line)."
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:66
+msgid "Images Loading Animation Type"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:71
+msgid "Fade"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:72
+msgid "Circles"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:73
+#: framework/extensions/performance/customizer.php:296
+msgid "None"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:83
+msgid "Disable Lazy Load on Featured Image"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:84
+msgid "This option will disable lazy loading for the featured image on single post."
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:91
+msgid "Lightbox for Images and Galleries"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:92
+msgid "This settings will enable the lightbox feature for your images."
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:97
+msgid "Disable Responsive Images"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:98
+msgid "Enable this option to disable responsive images on your website."
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:103
+msgid "Add Missing Image Dimensions"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:104
+msgid ""
+"This features add width and height attributes to the images to improve the "
+"CLS."
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:109
+msgid "Image Dimensions"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:110
+msgid ""
+"This option will enable the crop size for the featured images. You can "
+"disable the ones that you are not using to save your hosting space."
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:116
+msgid "360x240"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:117
+msgid "This image size is used on blog and archive pages."
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:122
+msgid "750x520"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:123
+msgid "This image size is used on single post with a sidebar."
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:128
+msgid "1170x650"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:129
+msgid "This image size is used on single post without a sidebar."
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:137
+msgid "WordPress"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:143
+msgid "Prevent Automatic Favicon Request"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:144
+msgid "Disable the automatic favicon request to speed up your site."
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:150
+msgid "Remove Emojis from frontend"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:151
+msgid "Removes WordPress Emojis JavaScript file (wp-emoji-release.min.js)."
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:157
+msgid "Disable Self Pingbacks"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:158
+msgid ""
+"Disable Self Pingbacks (generated when linking to an article on your own "
+"blog)."
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:164
+msgid "Disable RSS Feeds"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:165
+msgid "Disable WordPress generated RSS feeds and 301 redirect URL to parent."
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:171
+msgid "Remove RSS Feed Links"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:172
+msgid "Disable WordPress generated RSS feed link tags."
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:178
+msgid "Disable WordPress Embeds"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:179
+msgid "Removes WordPress Embeds Javascript file."
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:185
+msgid "Local Gravatars"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:186
+msgid ""
+"It will enable to load Gravatars from your servers (instead of making "
+"requests to the Gravatar site), to improve loading time."
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:194
+msgid "CSS/JS Optimization"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:200
+msgid "Remove \"ver\" parameter from CSS and JS file calls."
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:201
+msgid ""
+"Removes version query strings from your static resources to improve the "
+"caching of those resources."
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:207
+msgid "Disable Gutenberg style on Page Builder"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:208
+msgid "Disable the block style css on the page built with Elementor."
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:214
+msgid "Preload CSS"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:215
+msgid "Preloading your CSS helps the pages load quicker."
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:221
+msgid "JavaScript Optimization"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:222
+msgid "Manage Javascript files loading on your site."
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:227
+msgid "Defer JavaScript Files"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:228
+msgid ""
+"Defer loading of render-blocking JavaScript files for faster website "
+"loading."
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:237
+msgid "Deferred Excluded JavaScript Files"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:238
+msgid "Specify JavaScript files to be excluded from defer (one per line)."
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:245
+msgid "Delay JavaScript Files"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:246
+msgid ""
+"It Improves the loading speed by delaying the loading of JS files until "
+"user interaction such as click, scroll, etc."
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:255
+msgid "Delay Behaviour"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:258
+msgid "All Scripts"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:259
+msgid "Specific Scripts"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:270
+msgid "Excluded from Delay"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:271
+msgid ""
+"Specify JavaScript files to be excluded from delaying execution (one per "
+"line)."
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:281
+msgid "Delayed Scripts"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:282
+msgid ""
+"Specify JavaScript files to be included while delaying execution (one per "
+"line)."
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:292
+msgid "Delay Timeout"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:293
+msgid "Set the time to load the delayed scripts if no user interaction is detected."
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:297
+msgid "One second"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:298
+msgid "Two seconds"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:299
+msgid "Three seconds"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:300
+msgid "Four seconds"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:301
+msgid "Five seconds"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:302
+msgid "Six seconds"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:303
+msgid "Seven seconds"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:304
+msgid "Eight seconds"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:305
+msgid "Nine seconds"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:306
+msgid "Ten seconds"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:315
+msgid "Fonts"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:321
+msgid "Display Swap"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:322
+msgid ""
+"It adds font display swap property to your Google fonts to improve its "
+"rendering."
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:327
+msgid "Load Google Fonts Locally"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:328
+msgid "This will load Google fonts from your server to speed up your site."
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:337
+msgid "Preload Local Fonts"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:338
+msgid "Preloading Google fonts will speed up your website speed."
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:350
+msgid "Flush Local Fonts Cache"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:351
+msgid "Click the button to reset the cache of local fonts."
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:362
+msgid "Elementor"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:368
+msgid "Disable Google fonts"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:369
+msgid "Enabling this option will prevent Elementor Google fonts from loading."
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:374
+msgid "Disable Icons"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:375
+msgid "Enabling this option will prevent Elementor icons from loading."
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:380
+msgid "Disable Font Awesome"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:381
+msgid "Enabling this option will prevent Elementor Font Awesome icons from loading."
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:386
+msgid "Disable Frontend Script"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:387
+msgid ""
+"Enabling this option will prevent Elementor frontend scripts (such as "
+"swiper, dialog, share link) from loading."
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:392
+msgid "Disable Elementor Pro scripts"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:393
+msgid ""
+"Enabling this option will prevent some of the scripts of Elementor Pro from "
+"loading."
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:400
+#: includes/functions/ConditionsManager.php:371
+msgid "WooCommerce"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:406
+msgid "Disable Scripts and Styles"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:407
+msgid ""
+"Disables WooCommerce scripts and styles except on product, cart, and "
+"checkout pages."
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:412
+msgid "Disable Cart Fragmentation"
+msgstr ""
+
+#: framework/extensions/performance/customizer.php:413
+msgid "Completely disables WooCommerce cart fragmentation script."
+msgstr ""
+
+#: framework/extensions/performance/helpers.php:631
+msgid "No feed available, please visit the <a href='%s'>homepage</a>!"
+msgstr ""
+
+#: framework/extensions/performance/readme.php:4
+msgid ""
+"After installing and activating the performance extension you will be able "
+"to configure it from this location:"
+msgstr ""
+
+#: framework/extensions/performance/readme.php:16
+msgid "Customizer ➝ Performance"
+msgstr ""
+
+#: framework/extensions/progress-bar/config.php:4
+#: framework/extensions/progress-bar/customizer.php:4
+#: framework/extensions/progress-bar/customizer.php:14
+msgid "Reading Progress Bar"
+msgstr ""
+
+#: framework/extensions/progress-bar/config.php:5
+msgid "Enable this extension to add a reading progress bar on your website."
+msgstr ""
+
+#: framework/extensions/progress-bar/customizer.php:22
+msgid "Thickness"
+msgstr ""
+
+#: framework/extensions/progress-bar/customizer.php:30
+msgid "Display Condition"
+msgstr ""
+
+#: framework/extensions/progress-bar/customizer.php:35
+msgid "Everywhere"
+msgstr ""
+
+#: framework/extensions/progress-bar/customizer.php:36
+msgid "Post"
+msgstr ""
+
+#: framework/extensions/progress-bar/customizer.php:37
+msgid "Page"
+msgstr ""
+
+#: framework/extensions/progress-bar/customizer.php:57
+msgid "Color"
+msgstr ""
+
+#: framework/extensions/progress-bar/customizer.php:78
+msgid "Progress Color"
+msgstr ""
+
+#: framework/extensions/progress-bar/readme.php:4
+msgid ""
+"After installing and activating the reading progress bar extension you will "
+"be able to configure it from this location:"
+msgstr ""
+
+#: framework/extensions/progress-bar/readme.php:16
+msgid "Customizer ➝ Reading Progress Bar"
+msgstr ""
+
+#: framework/extensions/sidebar-blocks/config.php:4
+msgid "Sidebar Blocks"
+msgstr ""
+
+#: framework/extensions/sidebar-blocks/config.php:5
+msgid ""
+"Enable this extension to add blocks like Recent Posts, Popular Posts, "
+"Author Bio, and many more to the sidebar."
+msgstr ""
+
+#: framework/extensions/socialshare/config.php:4
+#: framework/extensions/socialshare/customizer.php:7
+msgid "Social Sharing"
+msgstr ""
+
+#: framework/extensions/socialshare/config.php:5
+msgid "Enable this extension to add social sharing option in single post."
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:23
+#: includes/compatibility/web-stories/WebStories.php:417
+msgid "Title"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:36
+#: framework/extensions/socialshare/helpers.php:52
+msgid "SHARE THIS POST"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:49
+msgid "Open Graph Meta Tags"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:50
+msgid ""
+"Disable this option if you’re using Jetpack, Yoast or other plugins to "
+"maintain Open Graph Meta Tags"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:56
+msgid "Sticky Share"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:65
+msgid "Float"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:83
+msgid "Top Offset"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:105
+msgid "Side Offset"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:127
+#: includes/compatibility/web-stories/WebStories.php:265
+msgid "Location"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:152
+msgid "Alignment"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:169
+msgid "Shape"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:176
+msgid "Square"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:177
+msgid "Circle"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:182
+msgid "Social Networks"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:187
+#: includes/functions/HelperFunctions.php:152
+msgid "Facebook"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:193
+#: includes/functions/HelperFunctions.php:163
+msgid "Twitter"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:199
+#: includes/functions/HelperFunctions.php:185
+msgid "Pinterest"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:205
+#: includes/functions/HelperFunctions.php:196
+msgid "LinkedIn"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:210
+msgid "Email"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:216
+msgid "Reddit"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:222
+msgid "Telegram"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:228
+msgid "Viber"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:234
+msgid "WhatsApp"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:240
+msgid "VKontakte"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:246
+msgid "Tumblr"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:252
+msgid "GetPocket"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:258
+msgid "Evernote"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:264
+msgid "Hacker News"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:270
+msgid "Flipboard"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:276
+msgid "Weibo"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:282
+msgid "Odnoklassniki"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:288
+msgid "Xing"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:294
+msgid "Threema"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:300
+msgid "Skype"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:306
+msgid "Line"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:316
+msgid "Set links to nofollow"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:321
+msgid "Icon Size"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:337
+msgid "Icons Spacing"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:356
+msgid "Vertical Spacing"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:378
+msgid "Bottom Spacing"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:398
+msgid "Visibility"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:410
+#: framework/extensions/transparent-header/customizer.php:75
+#: framework/extensions/transparent-header/customizer.php:157
+msgid "Desktop"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:411
+msgid "Tablet"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:412
+#: framework/extensions/transparent-header/customizer.php:77
+#: framework/extensions/transparent-header/customizer.php:159
+msgid "Mobile"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:427
+msgid "Title Color"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:453
+msgid "Title Typography"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:471
+msgid "Brand"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:472
+#: includes/compatibility/web-stories/WebStories.php:356
+msgid "Custom"
+msgstr ""
+
+#: framework/extensions/socialshare/customizer.php:481
+msgid "Icons Color"
+msgstr ""
+
+#: framework/extensions/socialshare/readme.php:4
+msgid ""
+"After installing and activating the Social Share extension you will be able "
+"to configure it from this location:"
+msgstr ""
+
+#: framework/extensions/socialshare/readme.php:16
+msgid "Customizer ➝ Single Post ➝ Social Sharing"
+msgstr ""
+
+#: framework/extensions/transparent-header/config.php:4
+#: framework/extensions/transparent-header/customizer.php:92
+msgid "Transparent Header"
+msgstr ""
+
+#: framework/extensions/transparent-header/config.php:5
+msgid "Enable this extension in order to enable transparent header feature."
+msgstr ""
+
+#: framework/extensions/transparent-header/customizer.php:5
+msgid "Sticky Header"
+msgstr ""
+
+#: framework/extensions/transparent-header/customizer.php:34
+msgid "Only Main Row"
+msgstr ""
+
+#: framework/extensions/transparent-header/customizer.php:39
+msgid "Top & Main Row"
+msgstr ""
+
+#: framework/extensions/transparent-header/customizer.php:44
+msgid "All Rows"
+msgstr ""
+
+#: framework/extensions/transparent-header/customizer.php:49
+msgid "Main & Bottom Row"
+msgstr ""
+
+#: framework/extensions/transparent-header/customizer.php:54
+msgid "Only Top Row"
+msgstr ""
+
+#: framework/extensions/transparent-header/customizer.php:59
+msgid "Only Bottom Row"
+msgstr ""
+
+#: framework/extensions/transparent-header/customizer.php:65
+#: framework/extensions/transparent-header/customizer.php:146
+msgid "Enable on"
+msgstr ""
+
+#: framework/extensions/transparent-header/customizer.php:130
+msgid "Display Conditions"
+msgstr ""
+
+#: framework/extensions/transparent-header/readme.php:4
+msgid ""
+"After installing and activating the Transparent Header extension you will "
+"be able to configure it from this location:"
+msgstr ""
+
+#: framework/extensions/transparent-header/readme.php:16
+msgid "Customizer ➝ Header ➝ Global Header"
+msgstr ""
+
+#: includes/Rishi_Companion.php:263
+msgid ""
+"%1$sRishi Companion plugin%2$s requires %3$sRishi Theme%4$s to be installed "
+"and activated to work properly. Please %5$sinstall and activate%6$s the "
+"theme to use the plugin."
+msgstr ""
+
+#: includes/Rishi_Companion_Admin.php:178
+#: includes/Rishi_Companion_Admin.php:223
+msgid "Text Color"
+msgstr ""
+
+#: includes/Rishi_Companion_Admin.php:286
+msgid "Rishi Blocks"
+msgstr ""
+
+#: includes/Rishi_Companion_Admin.php:383
+#: includes/Rishi_Companion_Admin.php:412
+msgid "Image"
+msgstr ""
+
+#: includes/Rishi_Companion_Admin.php:387
+#: includes/Rishi_Companion_Admin.php:423
+msgid "Add Image"
+msgstr ""
+
+#: includes/Rishi_Companion_Admin.php:388
+#: includes/Rishi_Companion_Admin.php:424
+msgid "Remove Image"
+msgstr ""
+
+#: includes/Rishi_Companion_Plugin_Manager.php:33
+msgid ""
+"AffiliateX is a Gutenberg blocks plugin for affiliate marketers. You can "
+"create highly effective affiliate marketing blogs with AffiliateX blocks, "
+"increasing the conversion rate and boost your affiliate income."
+msgstr ""
+
+#: includes/Rishi_Companion_Plugin_Manager.php:39
+msgid ""
+"Mega Elements is a powerful and advanced all in one Elementor addons that "
+"help you to create a beautiful website with ease."
+msgstr ""
+
+#: includes/Rishi_Companion_Plugin_Manager.php:45
+msgid ""
+"Elementor is one of most advanced frontend drag & drop page builder to help "
+"you create pixel perfect websites in less time."
+msgstr ""
+
+#: includes/Rishi_Companion_Plugin_Manager.php:51
+msgid ""
+"WooCommerce is the world’s most popular open source eCommerce plugin that "
+"help you to create online store easily."
+msgstr ""
+
+#: includes/Rishi_Companion_Plugin_Manager.php:57
+msgid ""
+"Contact Form 7 is one of the most downloaded and popular contact form "
+"plugin to quickly add forms on your website."
+msgstr ""
+
+#: includes/blocks/templates/categories.php:8
+msgid "Categories"
+msgstr ""
+
+#: includes/blocks/templates/categories.php:65
+#: includes/blocks/templates/categories.php:76
+msgid "%d Post"
+msgid_plural "%d Posts"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/blocks/templates/popular-posts.php:9
+#: includes/blocks/templates/posts-tab.php:10
+msgid "Popular Posts"
+msgstr ""
+
+#: includes/blocks/templates/popular-posts.php:118
+msgid "%s View"
+msgid_plural "%s Views"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/blocks/templates/popular-posts.php:123
+msgid "%s Comment"
+msgid_plural "%s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/blocks/templates/posts-tab.php:9
+#: includes/blocks/templates/recent-posts.php:9
+msgid "Recent Posts"
+msgstr ""
+
+#: includes/compatibility/web-stories/WebStories.php:243
+msgid "View all stories"
+msgstr ""
+
+#: includes/compatibility/web-stories/WebStories.php:266
+msgid "You can choose where to display web stories"
+msgstr ""
+
+#: includes/compatibility/web-stories/WebStories.php:268
+msgid "Above Header"
+msgstr ""
+
+#: includes/compatibility/web-stories/WebStories.php:269
+msgid "Below Header"
+msgstr ""
+
+#: includes/compatibility/web-stories/WebStories.php:270
+msgid "Above Footer"
+msgstr ""
+
+#: includes/compatibility/web-stories/WebStories.php:271
+msgid "Below Footer"
+msgstr ""
+
+#: includes/compatibility/web-stories/WebStories.php:291
+#: includes/compatibility/web-stories/WebStories.php:330
+msgid "Shortcode"
+msgstr ""
+
+#: includes/compatibility/web-stories/WebStories.php:293
+msgid ""
+"You can also use this shortcode to add web stories in your posts and pages. "
+"%s"
+msgstr ""
+
+#: includes/compatibility/web-stories/WebStories.php:312
+msgid ""
+"%1$s These options are for pages where you display all your web stories. "
+"%2$s"
+msgstr ""
+
+#: includes/compatibility/web-stories/WebStories.php:332
+msgid "You can use this shortcode to display all your web stories. %s"
+msgstr ""
+
+#: includes/compatibility/web-stories/WebStories.php:352
+msgid "Display Type"
+msgstr ""
+
+#: includes/compatibility/web-stories/WebStories.php:355
+msgid "Display All Stories"
+msgstr ""
+
+#: includes/compatibility/web-stories/WebStories.php:375
+msgid "Number of Stories"
+msgstr ""
+
+#: includes/compatibility/web-stories/WebStories.php:397
+msgid "Number of Columns"
+msgstr ""
+
+#: includes/compatibility/web-stories/WebStories.php:414
+msgid "Order By"
+msgstr ""
+
+#: includes/compatibility/web-stories/WebStories.php:418
+msgid "Date"
+msgstr ""
+
+#: includes/compatibility/web-stories/WebStories.php:436
+msgid "Order"
+msgstr ""
+
+#: includes/compatibility/web-stories/WebStories.php:439
+msgid "Ascending"
+msgstr ""
+
+#: includes/compatibility/web-stories/WebStories.php:440
+msgid "Descending"
+msgstr ""
+
+#: includes/compatibility/web-stories/WebStories.php:459
+msgid "Show Title"
+msgstr ""
+
+#: includes/compatibility/web-stories/WebStories.php:477
+msgid "Show Author"
+msgstr ""
+
+#: includes/compatibility/web-stories/WebStories.php:495
+msgid "Show Date"
+msgstr ""
+
+#: includes/compatibility/web-stories/WebStories.php:513
+msgid "Show Description"
+msgstr ""
+
+#: includes/functions/AjaxFunctions.php:126
+msgid "Theme"
+msgstr ""
+
+#: includes/functions/AjaxFunctions.php:130
+msgid "Plugin"
+msgstr ""
+
+#: includes/functions/ConditionsManager.php:298
+msgid "%s Single"
+msgstr ""
+
+#: includes/functions/ConditionsManager.php:306
+msgid "%s Archive"
+msgstr ""
+
+#: includes/functions/ConditionsManager.php:318
+msgid "Entire Website"
+msgstr ""
+
+#: includes/functions/ConditionsManager.php:324
+msgid "Basic"
+msgstr ""
+
+#: includes/functions/ConditionsManager.php:328
+msgid "Singulars"
+msgstr ""
+
+#: includes/functions/ConditionsManager.php:333
+msgid "Archives"
+msgstr ""
+
+#: includes/functions/ConditionsManager.php:339
+msgid "Posts"
+msgstr ""
+
+#: includes/functions/ConditionsManager.php:343
+msgid "Single Post"
+msgstr ""
+
+#: includes/functions/ConditionsManager.php:348
+msgid "Post Categories"
+msgstr ""
+
+#: includes/functions/ConditionsManager.php:353
+msgid "Post Tags"
+msgstr ""
+
+#: includes/functions/ConditionsManager.php:359
+msgid "Pages"
+msgstr ""
+
+#: includes/functions/ConditionsManager.php:363
+msgid "Single Page"
+msgstr ""
+
+#: includes/functions/ConditionsManager.php:375
+msgid "Shop Home"
+msgstr ""
+
+#: includes/functions/ConditionsManager.php:380
+msgid "Single Product"
+msgstr ""
+
+#: includes/functions/ConditionsManager.php:385
+msgid "Product Archives"
+msgstr ""
+
+#: includes/functions/ConditionsManager.php:390
+msgid "Product Categories"
+msgstr ""
+
+#: includes/functions/ConditionsManager.php:395
+msgid "Product Tags"
+msgstr ""
+
+#: includes/functions/ConditionsManager.php:403
+msgid "Custom Post Types"
+msgstr ""
+
+#: includes/functions/ConditionsManager.php:410
+msgid "Specific"
+msgstr ""
+
+#: includes/functions/ConditionsManager.php:414
+msgid "Post ID"
+msgstr ""
+
+#: includes/functions/ConditionsManager.php:419
+msgid "Page ID"
+msgstr ""
+
+#: includes/functions/ConditionsManager.php:424
+msgid "Custom Post Type ID"
+msgstr ""
+
+#: includes/functions/ConditionsManager.php:429
+msgid "Taxonomy ID"
+msgstr ""
+
+#: includes/functions/ConditionsManager.php:434
+msgid "Post with Taxonomy ID"
+msgstr ""
+
+#: includes/functions/ConditionsManager.php:440
+msgid "Other Pages"
+msgstr ""
+
+#: includes/functions/ConditionsManager.php:449
+msgid "Search"
+msgstr ""
+
+#: includes/functions/ConditionsManager.php:454
+msgid "Blog"
+msgstr ""
+
+#: includes/functions/ConditionsManager.php:459
+msgid "Front Page"
+msgstr ""
+
+#: includes/functions/ConditionsManager.php:463
+msgid "Author"
+msgstr ""
+
+#: includes/functions/ConditionsManager.php:469
+msgid "User Auth"
+msgstr ""
+
+#: includes/functions/ConditionsManager.php:473
+msgid "User Logged In"
+msgstr ""
+
+#: includes/functions/ConditionsManager.php:478
+msgid "User Logged Out"
+msgstr ""
+
+#: includes/functions/ConditionsManager.php:484
+msgid "User Roles"
+msgstr ""
+
+#: includes/functions/ConditionsManager.php:494
+msgid "Include"
+msgstr ""
+
+#: includes/functions/ConditionsManager.php:494
+msgid "Exclude"
+msgstr ""
+
+#: includes/functions/ExtensionsManager.php:258
+msgid "Custom Fonts"
+msgstr ""
+
+#: includes/functions/ExtensionsManager.php:259
+msgid "Upload unlimited number of custom fonts."
+msgstr ""
+
+#: includes/functions/ExtensionsManager.php:269
+msgid "Sidebars"
+msgstr ""
+
+#: includes/functions/ExtensionsManager.php:270
+msgid "Create unlimited number of custom sidebars."
+msgstr ""
+
+#: includes/functions/ExtensionsManager.php:280
+msgid "White Label"
+msgstr ""
+
+#: includes/functions/ExtensionsManager.php:281
+msgid "Change theme/companion branding"
+msgstr ""
+
+#: includes/updater/EDD_SL_Plugin_Updater.php:257
+#. translators: the plugin name.
+msgid "There is a new version of %1$s available."
+msgstr ""
+
+#: includes/updater/EDD_SL_Plugin_Updater.php:263
+msgid "Contact your network administrator to install the update."
+msgstr ""
+
+#: includes/updater/EDD_SL_Plugin_Updater.php:268
+#. translators: 1. opening anchor tag, do not translate 2. the new plugin
+#. version 3. closing anchor tag, do not translate.
+msgid "%1$sView version %2$s details%3$s."
+msgstr ""
+
+#: includes/updater/EDD_SL_Plugin_Updater.php:276
+msgid "%1$sView version %2$s details%3$s or %4$supdate now%5$s."
+msgstr ""
+
+#: includes/updater/EDD_SL_Plugin_Updater.php:287
+msgid "Update now."
+msgstr ""
+
+#: includes/updater/EDD_SL_Plugin_Updater.php:519
+msgid "You do not have permission to install plugin updates"
+msgstr ""
+
+#: includes/updater/EDD_SL_Plugin_Updater.php:519
+msgid "Error"
+msgstr ""
+
+#: includes/updater/class-rishi-companion-activator.php:49
+#: includes/updater/class-rishi-companion-activator.php:63
+msgid "Nonce Verification failed"
+msgstr ""
+
+#: includes/updater/class-rishi-companion-activator.php:54
+#: includes/updater/class-rishi-companion-activator.php:68
+msgid "Empty License"
+msgstr ""
+
+#: includes/updater/class-rishi-companion-activator.php:88
+msgid "License Activated"
+msgstr ""
+
+#: includes/updater/class-rishi-companion-activator.php:89
+#: includes/updater/class-rishi-companion-activator.php:154
+msgid "Deactivate License"
+msgstr ""
+
+#: includes/updater/class-rishi-companion-activator.php:115
+msgid "Enter License key to recieve updates for Rishi Companion"
+msgstr ""
+
+#: includes/updater/class-rishi-companion-activator.php:150
+msgid "Getting Started"
+msgstr ""
+
+#: includes/updater/class-rishi-companion-activator.php:151
+msgid "Enter your theme license key."
+msgstr ""
+
+#: includes/updater/class-rishi-companion-activator.php:152
+msgid "License Key"
+msgstr ""
+
+#: includes/updater/class-rishi-companion-activator.php:153
+msgid "License Action"
+msgstr ""
+
+#: includes/updater/class-rishi-companion-activator.php:155
+msgid "Activate License"
+msgstr ""
+
+#: includes/updater/class-rishi-companion-activator.php:156
+#: includes/updater/class-rishi-companion-activator.php:169
+msgid "License status is unknown."
+msgstr ""
+
+#: includes/updater/class-rishi-companion-activator.php:157
+msgid "Renew?"
+msgstr ""
+
+#: includes/updater/class-rishi-companion-activator.php:158
+msgid "unlimited"
+msgstr ""
+
+#: includes/updater/class-rishi-companion-activator.php:159
+msgid "License key is active."
+msgstr ""
+
+#: includes/updater/class-rishi-companion-activator.php:160
+msgid "Expires %s."
+msgstr ""
+
+#: includes/updater/class-rishi-companion-activator.php:161
+msgid "Lifetime License."
+msgstr ""
+
+#: includes/updater/class-rishi-companion-activator.php:162
+msgid "You have %1$s / %2$s sites activated."
+msgstr ""
+
+#: includes/updater/class-rishi-companion-activator.php:163
+msgid "License key expired %s."
+msgstr ""
+
+#: includes/updater/class-rishi-companion-activator.php:164
+msgid "License key has expired."
+msgstr ""
+
+#: includes/updater/class-rishi-companion-activator.php:165
+msgid "License keys do not match."
+msgstr ""
+
+#: includes/updater/class-rishi-companion-activator.php:166
+msgid "License is inactive."
+msgstr ""
+
+#: includes/updater/class-rishi-companion-activator.php:167
+msgid "License key is disabled."
+msgstr ""
+
+#: includes/updater/class-rishi-companion-activator.php:168
+msgid "Site is inactive."
+msgstr ""
+
+#: includes/updater/class-rishi-companion-activator.php:170
+msgid ""
+"Updating this theme will lose any customizations you have made. 'Cancel' to "
+"stop, 'OK' to update."
+msgstr ""
+
+#: includes/updater/class-rishi-companion-activator.php:171
+msgid ""
+"<strong>%1$s %2$s</strong> is available. <a href=\"%3$s\" "
+"class=\"thickbox\" title=\"%4$s\">Check out what's new</a> or <a "
+"href=\"%5$s\"%6$s>update now</a>."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Rishi Theme"
+msgstr ""
+
+#: includes/updater/class-rishi-companion-activator.php:335
+#: includes/updater/class-rishi-companion-activator.php:395
+#: includes/updater/class-rishi-companion-activator.php:445
+msgid "An error occurred, please try again."
+msgstr ""
+
+#: includes/updater/class-rishi-companion-activator.php:416
+msgid ""
+"Your license for %1$s extension expired on %2$s. To ensure you get features "
+"and security updates, having an active license is strongly recommended, and "
+"in some cases required."
+msgstr ""
+
+#: includes/updater/class-rishi-companion-activator.php:424
+msgid "Your license key has been disabled."
+msgstr ""
+
+#: includes/updater/class-rishi-companion-activator.php:428
+msgid ""
+"Invalid license key supplied. Please check if you have entered correct "
+"license key."
+msgstr ""
+
+#: includes/updater/class-rishi-companion-activator.php:433
+msgid "Your license is not active for this URL."
+msgstr ""
+
+#: includes/updater/class-rishi-companion-activator.php:437
+msgid "This appears to be an invalid license key for %s."
+msgstr ""
+
+#: includes/updater/class-rishi-companion-activator.php:441
+msgid "Your license key has reached its activation limit."
+msgstr ""
+
+#: includes/upgrade/110.php:43
+#. translators: %1$s: Rishi Pro plugin name
+msgid ""
+"Rishi Companion does not support Rishi Theme v %1$s. %2$sPlease update "
+"Rishi Theme to the latest version%3$s from %4$s here %5$s."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Rishi Companion"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://rishitheme.com/rishi-companion/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Rishi companion is a plugin that offers powerful features for Rishi theme. "
+"It includes features to speed your website and tune fine your website."
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://rishitheme.com/"
+msgstr ""

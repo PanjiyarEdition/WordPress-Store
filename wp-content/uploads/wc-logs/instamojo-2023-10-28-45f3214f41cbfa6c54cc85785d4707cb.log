@@ -1,0 +1,7 @@
+10-28-2023 @ 21:58:52 - Creating Instamojo Order for order id: 317
+10-28-2023 @ 21:58:52 - Client ID: gdfgxxxxxxxxxx | Client Secret: fefexxxxxxxxxx | Testmode:  
+10-28-2023 @ 21:58:54 - Validation Exception Occured with response stdClass Object
+(
+    [error] => invalid_client
+)
+

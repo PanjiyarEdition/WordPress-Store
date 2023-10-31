@@ -1,0 +1,30 @@
+#rishi-dashboard .sidebar--wrapper {
+    width: 32%;
+    background-color: rgba(48, 122, 201, 0.04);
+    padding: 48px 41px;
+}
+
+#rishi-dashboard .sidebar--wrapper .sidebar:not(:last-of-type) {
+    padding-bottom: 42px;
+    border-bottom: 1px solid rgba(48, 122, 201, 0.04);
+    margin: 0 0 40px;
+}
+
+#rishi-dashboard .sidebar--wrapper h5 {
+    margin: 0;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 2.068;
+    color: rgba(0, 0, 0, 0.75);
+    letter-spacing: 0.75%;
+}
+#rishi-dashboard .sidebar--wrapper .content {
+    margin: 10px 0 31px;
+}
+#rishi-dashboard .sidebar--wrapper .content p{
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 1.81;
+    margin: 0;
+    color: rgba(6, 15, 26, 0.8);
+}

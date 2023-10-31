@@ -1,0 +1,26 @@
+/* For inter linking in customizer control */
+.text-inner-link{
+    text-decoration: underline;
+     color: #0073aa;
+ }
+.text-inner-link:hover{
+     color: #00a0d2;
+     cursor: pointer;
+}
+
+#customize-controls .rishi-group-title {
+    height: auto !important;
+    display: block !important;
+    visibility: visible !important;
+    margin: 18px 0 0 0 !important;
+    padding: 30px 26px 20px 26px !important;
+    border-bottom: none;
+    border-top: 1px solid #ddd;
+}
+
+.rt-title[data-type="general"] h3{
+    background: #F9F9FA;
+    border-bottom: 1px solid #2355D3;
+    padding: 24px 16px;
+    box-shadow: 0px 8px 20px rgba(72, 79, 86, 0.08);
+}

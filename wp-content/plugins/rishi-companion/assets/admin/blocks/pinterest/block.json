@@ -1,0 +1,21 @@
+{
+    "apiVersion": 2,
+    "name": "rishi-blocks/pinterest",
+    "title": "Rishi - Pinterest",
+    "textdomain": "rishi-companion",
+    "icon": "pinterest",
+    "category": "rishi-blocks",
+    "description": "Display Pinterest feed.",
+    "keywords": [ "pinterest", "social media", "rishi" ],
+    "attributes": {
+        "pinLabel": {
+            "type": "string",
+            "default": "Latest Pins"
+        }
+    },
+    "supports": {
+        "multiple": true,
+        "align": [ "left", "right", "center" ]
+    }
+    
+}

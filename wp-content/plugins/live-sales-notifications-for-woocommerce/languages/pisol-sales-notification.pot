@@ -1,0 +1,805 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Language: \n"
+"POT-Creation-Date: 2022-07-11 03:52+0000\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: admin/class-pisol-sales-notification-design.php:121
+msgid "Add audio file url (mp3)"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-control.php:44
+msgid "Add ID of the pages separated by comma E.g: 23, 33,44"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-design.php:121
+msgid ""
+"Add your custom audio file url that will be played as alert, file should be "
+"MP3 and it should be hosted on your own server"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-design.php:113
+msgid "Always use this image in place of product image"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-design.php:107
+msgid "Animation"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-design.php:119
+msgid "Audio alert"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-design.php:93
+#: admin/class-pisol-sales-notification-design.php:94
+msgid "Background color"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-design.php:94
+msgid "Background color of the popup"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-design.php:95
+msgid "Background image"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-text.php:77
+#: admin/class-pisol-sales-notification-text.php:79
+#: admin/class-pisol-sales-notification-text.php:81
+#: admin/class-pisol-sales-notification-text.php:83
+#: admin/class-pisol-sales-notification-text.php:85
+#: admin/class-pisol-sales-notification-text.php:87
+#: admin/class-pisol-sales-notification-text.php:89
+#: admin/class-pisol-sales-notification-text.php:91
+msgid "Bold"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-design.php:101
+msgid "Border radius"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-design.php:102
+msgid "Border radius of Image"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-design.php:101
+msgid "Border radius of popup"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-design.php:102
+msgid "Border radius of product image inside the popup"
+msgstr ""
+
+#: pisol-sales-notification.php:106
+msgid "Buy PRO Version"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-text.php:69
+msgid "City font size {city}"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-text.php:89
+msgid "City font weight {city}"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-text.php:49
+msgid "City text color {city}"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-design.php:115
+msgid "Close option"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-text.php:65
+msgid "Country font size {country}"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-text.php:85
+msgid "Country font weight {country}"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-text.php:45
+msgid "Country text color {country}"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-text.php:63
+msgid "Date font size {date}"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-text.php:83
+msgid "Date font weight {date}"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-text.php:30
+msgid "Date format for {date} "
+msgstr ""
+
+#: admin/class-pisol-sales-notification-text.php:30
+msgid "Date format for {date} shortcode"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-text.php:43
+msgid "Date text color {date}"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-option.php:27
+msgid "Define what width will be consider as mobile breakpoint"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-control.php:42
+msgid "Disable bar on this conditions"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-control.php:44
+msgid "Disable the free shipping bar on page"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-option.php:29
+msgid "Dismiss notification option"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-option.php:31
+msgid "Dismiss the popup for"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-option.php:53
+msgid "Don't show out of stock product in popup"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-design.php:120
+msgid "Enable audio alert"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-option.php:23
+msgid "Enable sales notification"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-option.php:25
+msgid "Enable sales notification on mobile"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-option.php:23
+msgid "Enable sales notification or disable it"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-option.php:25
+msgid "Enable sales notification or disable it for mobile"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-option.php:37
+msgid "Fake stock quantity"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-text.php:71
+msgid "First name font size {first_name}"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-text.php:91
+msgid "First name font weight {first_name}"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-text.php:51
+msgid "First name text color {first_name}"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-text.php:53
+msgid "Font size in (PX)"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-text.php:73
+msgid "Font weight"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-option.php:55
+msgid "Give Option to customer to exclude there info from live feed"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-option.php:46
+msgid "How long to keep the popup open"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-option.php:46
+msgid "How long to keep the popup opened (milliseconds)"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-product.php:23
+msgid "How to select products for popup"
+msgstr ""
+
+#. URI of the plugin
+msgid ""
+"https://www.piwebsolution.com/documentation-for-live-sales-notifications-for-"
+"woocommerce-plugin/"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-design.php:104
+msgid "if enabled, it adds a product link to image"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-option.php:37
+msgid ""
+"If you don't use stock management then it will show this quantity for those "
+"products"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-design.php:91
+msgid "Image position"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-design.php:117
+msgid "Image used as close button"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-design.php:97
+msgid "Layout"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-design.php:91
+msgid "Left"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-design.php:90
+msgid "Left Bottom"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-design.php:90
+msgid "Left Top"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-text.php:77
+#: admin/class-pisol-sales-notification-text.php:79
+#: admin/class-pisol-sales-notification-text.php:81
+#: admin/class-pisol-sales-notification-text.php:83
+#: admin/class-pisol-sales-notification-text.php:85
+#: admin/class-pisol-sales-notification-text.php:87
+#: admin/class-pisol-sales-notification-text.php:89
+#: admin/class-pisol-sales-notification-text.php:91
+msgid "Lighter"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-design.php:104
+msgid "Link image to product page"
+msgstr ""
+
+#. Name of the plugin
+msgid "Live Sales Notifications for WooCommerce"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-option.php:42
+msgid "Loop through "
+msgstr ""
+
+#: admin/class-pisol-sales-notification-design.php:109
+msgid "Message closing animation"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-text.php:26
+msgid "Message in popup"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-design.php:108
+msgid "Message opening animation"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-option.php:57
+msgid "Message shown to customer on checkout page"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-option.php:27
+msgid "Mobile breakpoint width"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-text.php:77
+#: admin/class-pisol-sales-notification-text.php:79
+#: admin/class-pisol-sales-notification-text.php:81
+#: admin/class-pisol-sales-notification-text.php:83
+#: admin/class-pisol-sales-notification-text.php:85
+#: admin/class-pisol-sales-notification-text.php:87
+#: admin/class-pisol-sales-notification-text.php:89
+#: admin/class-pisol-sales-notification-text.php:91
+msgid "Normal"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-text.php:36
+msgid "Normal text color"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-text.php:55
+msgid "Normal text font size"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-text.php:75
+msgid "Normal text font weight"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-option.php:44
+msgid "Once a person comes to page, when to start showing popup"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-option.php:48
+msgid "Once a popup closes then after how much time new popup should open"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-option.php:33
+msgid ""
+"Once enable it will show like this order was placed: 1 min ago, 1 week ago, "
+"2 minute ago"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-option.php:29
+msgid ""
+"Once user dismiss the notification, he will not see any live sales "
+"notification on your site for next X number of  days set by you"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-design.php:105
+msgid "Open product link in new tab"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-design.php:105
+msgid "Open the product link in new tab"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-option.php:51
+msgid "Other settings"
+msgstr ""
+
+#. Author of the plugin
+msgid "PI Websolution"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "piwebsolution.com"
+msgstr ""
+
+#: pisol-sales-notification.php:44
+msgid ""
+"Please Install and Activate WooCommerce plugin, without that this plugin "
+"cant work."
+msgstr ""
+
+#: admin/class-pisol-sales-notification-design.php:99
+msgid "Popup image width"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-design.php:100
+msgid "Popup image width for mobile"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-design.php:90
+msgid "Popup position"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-design.php:98
+msgid "Popup width"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-design.php:98
+#, php-format
+msgid "Popup width in % of browser width"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-design.php:89
+msgid "Positions"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-design.php:112
+msgid "Product image"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-design.php:111
+msgid "Product image options"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-text.php:40
+msgid "Product link color {product_link}"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-text.php:59
+msgid "Product link font size {product_link}"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-text.php:79
+msgid "Product link font weight {product_link}"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-product.php:24
+msgid "Product selection method"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-text.php:38
+msgid "Product title color {product}"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-text.php:57
+msgid "Product title font size {product}"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-text.php:77
+msgid "Product title font weight {product}"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-option.php:42
+msgid "Repeat popup once all loaded popups are shown once"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-design.php:91
+msgid "Right"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-design.php:90
+msgid "Right Bottom"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-design.php:90
+msgid "Right Top"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-text.php:28
+msgid "Sales message format "
+msgstr ""
+
+#: admin/class-pisol-sales-notification-product.php:24
+msgid "Select product from"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-design.php:91
+msgid "Set image position on left or right of description"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-design.php:90
+msgid "Set popup position on the page"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-text.php:28
+msgid ""
+"Set the format of the description shown on the sales popup using the "
+"shortcodes<br> {product} = Product title <br> {product_link} = Product title "
+"linked to product page or affiliate page (for external WooCommerce product "
+"type)<br> {time} = Time of purchase<br>{date} => Date of purchase <br>"
+"{country} = Customers Country<br>{state} = Customers State<br> {city} = "
+"Customers City<br>{first_name} = Customers first name<br> {price} = show "
+"product price (available in PRO)<br>{time_passed} => how long back order was "
+"placed (PRO)<br>{stock_left} => stock left for the product (PRO)"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-option.php:31
+msgid ""
+"Set the number of days for which the popup will not show to the visitor who "
+"has dismissed it"
+msgstr ""
+
+#: pisol-sales-notification.php:105
+msgid "Settings"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-design.php:116
+msgid "Show close button"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-option.php:33
+msgid "Show elapsed time on the popup"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-control.php:32
+msgid "Show on cart page (is_cart)"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-control.php:34
+msgid "Show on checkout page (is_checkout)"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-control.php:28
+msgid "Show on front page of the site (is_front_page)"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-control.php:38
+msgid "Show on product category page (is_product_category)"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-control.php:40
+msgid "Show on product tag page (is_product_tag)"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-control.php:36
+msgid "Show on shop page (is_shop)"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-control.php:30
+msgid "Show on single product page (is_product)"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-control.php:24
+msgid "Show popup on all pages of website"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-control.php:26
+msgid "Show popup on selected page"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-option.php:35
+msgid "Show stock left for the product to create urgency"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-option.php:35
+msgid "Show stock left for the product to create urgency to purchase"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Showing live sales notification, encourages your visitors to buy from you as "
+"they can see how others are also buying from you"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-design.php:103
+msgid "Space around the image"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-design.php:103
+msgid "Spacing around image"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-text.php:67
+msgid "State font size {state}"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-text.php:87
+msgid "State font weight {state}"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-text.php:47
+msgid "State text color {state}"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-text.php:34
+msgid "Text colors"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-design.php:109
+msgid "This animation is used when sales notification message closes"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-design.php:108
+msgid "This animation is used when sales notification message opens"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-design.php:117
+msgid "This image is used as close button image, in the popup"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-design.php:112
+msgid ""
+"This image will be used in place of product image when there is no product "
+"image set, or force to use this image by using the below setting"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-design.php:95
+msgid "This image will be used inside the popup"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-text.php:55
+msgid "This is the font size used for other text in the popup"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-text.php:69
+msgid ""
+"This is the font size used for the City that shows up using {city} shortcode"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-text.php:65
+msgid ""
+"This is the font size used for the Country that shows up using {country} "
+"shortcode"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-text.php:63
+msgid ""
+"This is the font size used for the Date that shows up using {date} shortcode"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-text.php:71
+msgid ""
+"This is the font size used for the First name that shows up using "
+"{first_name} shortcode"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-text.php:59
+msgid ""
+"This is the font size used for the product link name that shows up using "
+"{product_link} shortcode"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-text.php:57
+msgid ""
+"This is the font size used for the product name that shows up using {product}"
+" shortcode"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-text.php:67
+msgid ""
+"This is the font size used for the State that shows up using {state} "
+"shortcode"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-text.php:61
+msgid ""
+"This is the font size used for the Time that shows up using {time} shortcode"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-text.php:75
+msgid "This is the font weight used for other text in the popup"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-text.php:89
+msgid ""
+"This is the font weight used for the City that shows up using {city} "
+"shortcode"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-text.php:85
+msgid ""
+"This is the font weight used for the Country that shows up using {country} "
+"shortcode"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-text.php:83
+msgid ""
+"This is the font weight used for the Date that shows up using {date} "
+"shortcode"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-text.php:91
+msgid ""
+"This is the font weight used for the First name that shows up using "
+"{first_name} shortcode"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-text.php:79
+msgid ""
+"This is the font weight used for the product link name that shows up using "
+"{product_link} shortcode"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-text.php:77
+msgid ""
+"This is the font weight used for the product name that shows up using "
+"{product} shortcode"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-text.php:87
+msgid ""
+"This is the font weight used for the State that shows up using {state} "
+"shortcode"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-text.php:81
+msgid ""
+"This is the font weight used for the Time that shows up using {time} "
+"shortcode"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-text.php:36
+msgid "This is the text color used for other text in the popup"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-text.php:49
+msgid ""
+"This is the text color used for the City that shows up using {city} shortcode"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-text.php:45
+msgid ""
+"This is the text color used for the Country that shows up using {country} "
+"shortcode"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-text.php:43
+msgid ""
+"This is the text color used for the Date that shows up using {date} shortcode"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-text.php:51
+msgid ""
+"This is the text color used for the First name that shows up using "
+"{first_name} shortcode"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-text.php:40
+msgid ""
+"This is the text color used for the product link name that shows up using "
+"{product_link} short code"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-text.php:38
+msgid ""
+"This is the text color used for the product name that shows up using "
+"{product} shortcode"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-text.php:47
+msgid ""
+"This is the text color used for the State that shows up using {state} "
+"shortcode"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-text.php:41
+msgid ""
+"This is the text color used for the Time that shows up using {time} shortcode"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-option.php:57
+msgid "This message will be shown next to exclude info checkbox"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-design.php:99
+#, php-format
+msgid "This sets the image with as % of popup width"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-design.php:100
+#, php-format
+msgid "This sets the image with as % of popup width for mobile devices"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-design.php:120
+msgid ""
+"This will create an audio alert when a sales popup comes up, Audio feature "
+"is not stable as it depend on browser and user permission"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-option.php:55
+msgid ""
+"This will enable an option in your checkout page, using that buyer can make "
+"sure there info is not shown in the live sales feed on your site"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-text.php:61
+msgid "Time font size {time}"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-text.php:81
+msgid "Time font weight {time}"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-text.php:32
+msgid "Time format for {time} "
+msgstr ""
+
+#: admin/class-pisol-sales-notification-text.php:32
+msgid "Time format for {time} shortcode"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-option.php:48
+msgid "Time gap between showing of 2 popups (milliseconds)"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-text.php:41
+msgid "Time text color {time}"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-option.php:40
+msgid "Timing of popup"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-design.php:116
+msgid "Using this button visitor can close the popup"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-option.php:53
+msgid "Using this you can remove out of stock product from coming in popup"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-design.php:113
+msgid "When enable this image will be shown in place of the product image"
+msgstr ""
+
+#: admin/class-pisol-sales-notification-option.php:44
+msgid "When to start showing popup (milliseconds)"
+msgstr ""
+
+#: pisol-sales-notification.php:57
+msgid "You have the PRO version of this plugin in your site."
+msgstr ""

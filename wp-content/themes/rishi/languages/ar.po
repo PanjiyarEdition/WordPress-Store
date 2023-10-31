@@ -1,0 +1,5100 @@
+# <!=Copyright (C) 2022 Rishi Theme
+# This file is distributed under the GNU General Public License v2 or later.=!>
+msgid ""
+msgstr ""
+"Project-Id-Version: Rishi 1.0.7\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/rishi\n"
+"POT-Creation-Date: 2022-01-17 04:28:04+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2022-04-07 07:05+0000\n"
+"Last-Translator: \n"
+"Language-Team: Arabic\n"
+"X-Generator: Loco https://localise.biz/\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100 >= 3 "
+"&& n%100<=10 ? 3 : n%100 >= 11 && n%100<=99 ? 4 : 5;\n"
+"X-Loco-Version: 2.6.1; wp-5.9.3"
+
+#: 404.php:28
+msgid "404 Not Found"
+msgstr ""
+
+#: 404.php:33
+msgid "404 Error!"
+msgstr ""
+
+#: 404.php:34
+msgid "OOPS! That page can&#39;t be found."
+msgstr ""
+
+#: 404.php:35
+msgid ""
+"The page you are looking for may have been moved, deleted, or possibly never "
+"existed."
+msgstr ""
+
+#: 404.php:63
+msgid "Recommended Articles"
+msgstr ""
+
+#: 404.php:90
+msgid "Go to Blog"
+msgstr ""
+
+#: comments.php:59
+msgid "Comments are closed."
+msgstr ""
+
+#. Translators: %s is the theme name.
+#: customizer-builder/admin/helpers/meta-boxes.php:141
+#: customizer-builder/admin/helpers/meta-boxes.php:183
+msgid "%s Settings"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Rishi"
+msgstr ""
+
+#: customizer-builder/customizer-settings/engagement/social-accounts.php:30
+msgid "Social Network Accounts"
+msgstr ""
+
+#: customizer-builder/customizer-settings/engagement/social-accounts.php:32
+msgid ""
+" Add the links to your social media accounts and display them across your "
+"site."
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/breadcrumbs.php:14
+#: customizer-builder/customizer-settings/general/page-title.php:241
+#: customizer-builder/customizer-settings/general/post-structure.php:94
+#: customizer-builder/customizer-settings/general/seo/seo-options.php:22
+#: customizer-builder/customizer-settings/pages/archive.php:36
+#: customizer-builder/customizer-settings/pages/pages.php:27
+#: customizer-builder/customizer-settings/pages/search.php:30
+#: customizer-builder/customizer-settings/posts/singlepost.php:33
+#: customizer-builder/customizer-settings/woo/woo-archives.php:26
+#: customizer-builder/customizer-settings/woo/woo-single.php:22
+msgid "Breadcrumb"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/breadcrumbs.php:20
+#: customizer-builder/customizer-settings/general/seo/seo-options.php:37
+msgid "Separator"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/breadcrumbs.php:29
+#: customizer-builder/customizer-settings/general/content-elements.php:60
+#: customizer-builder/customizer-settings/general/layouts/back-to-top.php:38
+#: customizer-builder/customizer-settings/general/page-title.php:168
+#: customizer-builder/customizer-settings/general/seo/seo-options.php:45
+#: customizer-builder/panel-builder/header/cart/options.php:37
+#: customizer-builder/panel-builder/header/menu/options.php:67
+#: customizer-builder/panel-builder/header/trigger/options.php:33
+msgid "Type 1"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/breadcrumbs.php:34
+#: customizer-builder/customizer-settings/general/content-elements.php:61
+#: customizer-builder/customizer-settings/general/layouts/back-to-top.php:43
+#: customizer-builder/customizer-settings/general/page-title.php:173
+#: customizer-builder/customizer-settings/general/seo/seo-options.php:50
+#: customizer-builder/panel-builder/header/cart/options.php:42
+#: customizer-builder/panel-builder/header/menu/options.php:72
+#: customizer-builder/panel-builder/header/trigger/options.php:38
+msgid "Type 2"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/breadcrumbs.php:39
+#: customizer-builder/customizer-settings/general/content-elements.php:62
+#: customizer-builder/customizer-settings/general/layouts/back-to-top.php:48
+#: customizer-builder/customizer-settings/general/seo/seo-options.php:55
+#: customizer-builder/panel-builder/header/cart/options.php:47
+#: customizer-builder/panel-builder/header/menu/options.php:77
+#: customizer-builder/panel-builder/header/trigger/options.php:43
+msgid "Type 3"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/breadcrumbs.php:49
+msgid "Home Item"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/breadcrumbs.php:54
+#: customizer-builder/customizer-settings/general/colors/header.php:191
+#: customizer-builder/customizer-settings/general/page-title.php:910
+#: customizer-builder/customizer-settings/general/post-structure.php:144
+#: customizer-builder/customizer-settings/general/posts-listing.php:393
+#: customizer-builder/customizer-settings/pages/archive.php:228
+#: customizer-builder/customizer-settings/pages/author.php:239
+#: customizer-builder/customizer-settings/pages/search.php:213
+#: customizer-builder/customizer-settings/posts/postoptions.php:98
+#: customizer-builder/panel-builder/header/cart/options.php:278
+#: customizer-builder/panel-builder/header/cart/options.php:308
+#: customizer-builder/panel-builder/header/cart/options.php:338
+msgid "Text"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/breadcrumbs.php:55
+msgid "Icon"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/breadcrumbs.php:68
+msgid "Home Page Text"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/breadcrumbs.php:71
+#: customizer-builder/customizer-settings/general/page-title.php:91
+#: customizer-builder/customizer-settings/general/page-title.php:293
+#: inc/extras.php:586
+msgid "Home"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/breadcrumbs.php:81
+msgid "Current Page/Post Title"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/breadcrumbs.php:91
+msgid "Current Taxonomy Title"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/buttons.php:14
+msgid "Buttons"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/buttons.php:20
+msgid "Min Height"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/buttons.php:30
+msgid "Hover Effect"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/buttons.php:38
+#: customizer-builder/customizer-settings/general/layouts/back-to-top.php:280
+#: customizer-builder/customizer-settings/general/posts-listing.php:988
+#: customizer-builder/customizer-settings/woo/woo-archives.php:472
+#: customizer-builder/panel-builder/header/button/options.php:581
+msgid "Border Radius"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/buttons.php:53
+#: customizer-builder/customizer-settings/general/comments-single.php:112
+#: customizer-builder/customizer-settings/general/form-elements.php:41
+#: customizer-builder/customizer-settings/general/pagination.php:197
+#: customizer-builder/customizer-settings/pages/archive.php:126
+#: customizer-builder/customizer-settings/pages/author.php:141
+#: customizer-builder/customizer-settings/woo/woo-archives.php:83
+#: customizer-builder/panel-builder/footer/contacts/options.php:340
+#: customizer-builder/panel-builder/footer/contacts/options.php:351
+#: customizer-builder/panel-builder/footer/copyright/options.php:131
+#: customizer-builder/panel-builder/footer/menu/options.php:152
+#: customizer-builder/panel-builder/header/button/options.php:215
+#: customizer-builder/panel-builder/header/button/options.php:245
+#: customizer-builder/panel-builder/header/button/options.php:297
+#: customizer-builder/panel-builder/header/button/options.php:347
+#: customizer-builder/panel-builder/header/cart/options.php:489
+#: customizer-builder/panel-builder/header/cart/options.php:546
+#: customizer-builder/panel-builder/header/contacts/options.php:339
+#: customizer-builder/panel-builder/header/contacts/options.php:368
+#: customizer-builder/panel-builder/header/contacts/options.php:411
+#: customizer-builder/panel-builder/header/contacts/options.php:451
+#: customizer-builder/panel-builder/header/menu/options.php:172
+#: customizer-builder/panel-builder/header/menu/options.php:201
+#: customizer-builder/panel-builder/header/menu/options.php:242
+#: customizer-builder/panel-builder/header/menu/options.php:282
+#: customizer-builder/panel-builder/header/menu/options.php:567
+#: customizer-builder/panel-builder/header/mobile-menu/options.php:84
+#: customizer-builder/panel-builder/header/text/options.php:129
+#: customizer-builder/panel-builder/header/text/options.php:140
+msgid "Font Color"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/buttons.php:72
+#: customizer-builder/customizer-settings/general/buttons.php:102
+#: customizer-builder/customizer-settings/general/colors/color-options.php:85
+#: customizer-builder/customizer-settings/general/colors/color-options.php:110
+#: customizer-builder/customizer-settings/general/colors/color-options.php:134
+#: customizer-builder/customizer-settings/general/colors/color-options.php:159
+#: customizer-builder/customizer-settings/general/colors/color-options.php:182
+#: customizer-builder/customizer-settings/general/colors/color-options.php:201
+#: customizer-builder/customizer-settings/general/colors/footer.php:32
+#: customizer-builder/customizer-settings/general/colors/footer.php:50
+#: customizer-builder/customizer-settings/general/colors/footer.php:68
+#: customizer-builder/customizer-settings/general/colors/footer.php:86
+#: customizer-builder/customizer-settings/general/colors/footer.php:104
+#: customizer-builder/customizer-settings/general/colors/footer.php:122
+#: customizer-builder/customizer-settings/general/colors/footer.php:144
+#: customizer-builder/customizer-settings/general/colors/footer.php:162
+#: customizer-builder/customizer-settings/general/colors/footer.php:180
+#: customizer-builder/customizer-settings/general/colors/footer.php:198
+#: customizer-builder/customizer-settings/general/colors/footer.php:216
+#: customizer-builder/customizer-settings/general/colors/header.php:33
+#: customizer-builder/customizer-settings/general/colors/header.php:51
+#: customizer-builder/customizer-settings/general/colors/header.php:69
+#: customizer-builder/customizer-settings/general/colors/header.php:87
+#: customizer-builder/customizer-settings/general/colors/header.php:109
+#: customizer-builder/customizer-settings/general/colors/header.php:127
+#: customizer-builder/customizer-settings/general/colors/header.php:145
+#: customizer-builder/customizer-settings/general/colors/header.php:163
+#: customizer-builder/customizer-settings/general/colors/header.php:181
+#: customizer-builder/customizer-settings/general/colors/header.php:203
+#: customizer-builder/customizer-settings/general/colors/header.php:221
+#: customizer-builder/customizer-settings/general/colors/header.php:239
+#: customizer-builder/customizer-settings/general/colors/header.php:257
+#: customizer-builder/customizer-settings/general/colors/header.php:275
+#: customizer-builder/customizer-settings/general/colors/header.php:295
+#: customizer-builder/customizer-settings/general/comments-single.php:128
+#: customizer-builder/customizer-settings/general/form-elements.php:57
+#: customizer-builder/customizer-settings/general/form-elements.php:102
+#: customizer-builder/customizer-settings/general/form-elements.php:135
+#: customizer-builder/customizer-settings/general/form-elements.php:201
+#: customizer-builder/customizer-settings/general/layouts/back-to-top.php:195
+#: customizer-builder/customizer-settings/general/layouts/back-to-top.php:226
+#: customizer-builder/customizer-settings/general/layouts/back-to-top.php:257
+#: customizer-builder/customizer-settings/general/layouts/button.php:69
+#: customizer-builder/customizer-settings/general/layouts/button.php:87
+#: customizer-builder/customizer-settings/general/layouts/button.php:105
+#: customizer-builder/customizer-settings/general/layouts/button.php:123
+#: customizer-builder/customizer-settings/general/layouts/button.php:141
+#: customizer-builder/customizer-settings/general/layouts/button.php:159
+#: customizer-builder/customizer-settings/general/layouts/contentsidebar.php:92
+#: customizer-builder/customizer-settings/general/layouts/contentsidebar.php:131
+#: customizer-builder/customizer-settings/general/meta.php:241
+#: customizer-builder/customizer-settings/general/page-title.php:740
+#: customizer-builder/customizer-settings/general/page-title.php:801
+#: customizer-builder/customizer-settings/general/page-title.php:860
+#: customizer-builder/customizer-settings/general/pagination.php:213
+#: customizer-builder/customizer-settings/general/pagination.php:243
+#: customizer-builder/customizer-settings/general/posts-listing.php:568
+#: customizer-builder/customizer-settings/general/posts-listing.php:622
+#: customizer-builder/customizer-settings/general/posts-listing.php:669
+#: customizer-builder/customizer-settings/general/posts-listing.php:713
+#: customizer-builder/customizer-settings/general/posts-listing.php:759
+#: customizer-builder/customizer-settings/general/posts-listing.php:805
+#: customizer-builder/customizer-settings/general/posts-listing.php:847
+#: customizer-builder/customizer-settings/general/posts-listing.php:946
+#: customizer-builder/customizer-settings/general/seo/seo-options.php:94
+#: customizer-builder/customizer-settings/general/seo/seo-options.php:112
+#: customizer-builder/customizer-settings/general/seo/seo-options.php:130
+#: customizer-builder/customizer-settings/pages/archive.php:139
+#: customizer-builder/customizer-settings/pages/author.php:153
+#: customizer-builder/customizer-settings/pages/search.php:127
+#: customizer-builder/customizer-settings/posts/singlepost.php:87
+#: customizer-builder/customizer-settings/posts/singlepost.php:121
+#: customizer-builder/customizer-settings/woo/woo-archives.php:95
+#: customizer-builder/customizer-settings/woo/woo-archives.php:300
+#: customizer-builder/customizer-settings/woo/woo-archives.php:356
+#: customizer-builder/customizer-settings/woo/woo-archives.php:382
+#: customizer-builder/customizer-settings/woo/woo-archives.php:413
+#: customizer-builder/customizer-settings/woo/woo-archives.php:444
+#: customizer-builder/customizer-settings/woo/woo-general.php:169
+#: customizer-builder/customizer-settings/woo/woo-general.php:187
+#: customizer-builder/customizer-settings/woo/woo-general.php:205
+#: customizer-builder/customizer-settings/woo/woo-general.php:223
+#: customizer-builder/customizer-settings/woo/woo-general.php:241
+#: customizer-builder/customizer-settings/woo/woo-general.php:259
+#: customizer-builder/customizer-settings/woo/woo-single.php:90
+#: customizer-builder/customizer-settings/woo/woo-single.php:109
+#: customizer-builder/customizer-settings/woo/woo-storenotice.php:74
+#: customizer-builder/customizer-settings/woo/woo-storenotice.php:95
+#: customizer-builder/panel-builder/footer/contacts/options.php:441
+#: customizer-builder/panel-builder/footer/contacts/options.php:522
+#: customizer-builder/panel-builder/footer/copyright/options.php:153
+#: customizer-builder/panel-builder/footer/menu/options.php:169
+#: customizer-builder/panel-builder/footer/middle-row/options.php:650
+#: customizer-builder/panel-builder/footer/middle-row/options.php:725
+#: customizer-builder/panel-builder/footer/socials/options.php:237
+#: customizer-builder/panel-builder/footer/socials/options.php:285
+#: customizer-builder/panel-builder/header/button/options.php:269
+#: customizer-builder/panel-builder/header/button/options.php:283
+#: customizer-builder/panel-builder/header/button/options.php:321
+#: customizer-builder/panel-builder/header/button/options.php:333
+#: customizer-builder/panel-builder/header/button/options.php:371
+#: customizer-builder/panel-builder/header/button/options.php:383
+#: customizer-builder/panel-builder/header/button/options.php:445
+#: customizer-builder/panel-builder/header/button/options.php:475
+#: customizer-builder/panel-builder/header/button/options.php:503
+#: customizer-builder/panel-builder/header/button/options.php:532
+#: customizer-builder/panel-builder/header/cart/options.php:146
+#: customizer-builder/panel-builder/header/cart/options.php:176
+#: customizer-builder/panel-builder/header/cart/options.php:205
+#: customizer-builder/panel-builder/header/cart/options.php:505
+#: customizer-builder/panel-builder/header/cart/options.php:531
+#: customizer-builder/panel-builder/header/cart/options.php:656
+#: customizer-builder/panel-builder/header/cart/options.php:685
+#: customizer-builder/panel-builder/header/contacts/options.php:556
+#: customizer-builder/panel-builder/header/contacts/options.php:587
+#: customizer-builder/panel-builder/header/contacts/options.php:617
+#: customizer-builder/panel-builder/header/contacts/options.php:717
+#: customizer-builder/panel-builder/header/contacts/options.php:756
+#: customizer-builder/panel-builder/header/contacts/options.php:795
+#: customizer-builder/panel-builder/header/logo/options.php:464
+#: customizer-builder/panel-builder/header/logo/options.php:495
+#: customizer-builder/panel-builder/header/logo/options.php:525
+#: customizer-builder/panel-builder/header/logo/options.php:606
+#: customizer-builder/panel-builder/header/logo/options.php:628
+#: customizer-builder/panel-builder/header/logo/options.php:649
+#: customizer-builder/panel-builder/header/menu/options.php:222
+#: customizer-builder/panel-builder/header/menu/options.php:263
+#: customizer-builder/panel-builder/header/menu/options.php:303
+#: customizer-builder/panel-builder/header/menu/options.php:342
+#: customizer-builder/panel-builder/header/menu/options.php:585
+#: customizer-builder/panel-builder/header/menu/options.php:616
+#: customizer-builder/panel-builder/header/mobile-menu/options.php:100
+#: customizer-builder/panel-builder/header/offcanvas/options.php:192
+#: customizer-builder/panel-builder/header/offcanvas/options.php:223
+#: customizer-builder/panel-builder/header/search/options.php:126
+#: customizer-builder/panel-builder/header/search/options.php:157
+#: customizer-builder/panel-builder/header/search/options.php:187
+#: customizer-builder/panel-builder/header/search/options.php:229
+#: customizer-builder/panel-builder/header/search/options.php:260
+#: customizer-builder/panel-builder/header/search/options.php:307
+#: customizer-builder/panel-builder/header/socials/options.php:239
+#: customizer-builder/panel-builder/header/socials/options.php:270
+#: customizer-builder/panel-builder/header/socials/options.php:300
+#: customizer-builder/panel-builder/header/socials/options.php:397
+#: customizer-builder/panel-builder/header/socials/options.php:435
+#: customizer-builder/panel-builder/header/socials/options.php:473
+#: customizer-builder/panel-builder/header/trigger/options.php:156
+#: customizer-builder/panel-builder/header/trigger/options.php:185
+#: customizer-builder/panel-builder/header/trigger/options.php:213
+#: customizer-builder/panel-builder/header/trigger/options.php:294
+#: customizer-builder/panel-builder/header/trigger/options.php:331
+#: customizer-builder/panel-builder/header/trigger/options.php:368
+msgid "Initial"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/buttons.php:77
+#: customizer-builder/customizer-settings/general/buttons.php:107
+#: customizer-builder/customizer-settings/general/colors/color-options.php:115
+#: customizer-builder/customizer-settings/general/comments-single.php:134
+#: customizer-builder/customizer-settings/general/layouts/back-to-top.php:200
+#: customizer-builder/customizer-settings/general/layouts/back-to-top.php:231
+#: customizer-builder/customizer-settings/general/layouts/back-to-top.php:262
+#: customizer-builder/customizer-settings/general/layouts/contentsidebar.php:135
+#: customizer-builder/customizer-settings/general/meta.php:246
+#: customizer-builder/customizer-settings/general/page-title.php:807
+#: customizer-builder/customizer-settings/general/pagination.php:219
+#: customizer-builder/customizer-settings/general/pagination.php:249
+#: customizer-builder/customizer-settings/general/posts-listing.php:574
+#: customizer-builder/customizer-settings/general/posts-listing.php:675
+#: customizer-builder/customizer-settings/general/posts-listing.php:719
+#: customizer-builder/customizer-settings/general/posts-listing.php:765
+#: customizer-builder/customizer-settings/general/posts-listing.php:811
+#: customizer-builder/customizer-settings/general/posts-listing.php:853
+#: customizer-builder/customizer-settings/posts/singlepost.php:92
+#: customizer-builder/customizer-settings/posts/singlepost.php:126
+#: customizer-builder/customizer-settings/woo/woo-archives.php:306
+#: customizer-builder/customizer-settings/woo/woo-archives.php:388
+#: customizer-builder/customizer-settings/woo/woo-archives.php:419
+#: customizer-builder/panel-builder/footer/contacts/options.php:446
+#: customizer-builder/panel-builder/footer/contacts/options.php:527
+#: customizer-builder/panel-builder/footer/socials/options.php:242
+#: customizer-builder/panel-builder/footer/socials/options.php:290
+#: customizer-builder/panel-builder/header/button/options.php:276
+#: customizer-builder/panel-builder/header/button/options.php:289
+#: customizer-builder/panel-builder/header/button/options.php:327
+#: customizer-builder/panel-builder/header/button/options.php:339
+#: customizer-builder/panel-builder/header/button/options.php:377
+#: customizer-builder/panel-builder/header/button/options.php:389
+#: customizer-builder/panel-builder/header/button/options.php:451
+#: customizer-builder/panel-builder/header/button/options.php:480
+#: customizer-builder/panel-builder/header/button/options.php:508
+#: customizer-builder/panel-builder/header/button/options.php:537
+#: customizer-builder/panel-builder/header/cart/options.php:151
+#: customizer-builder/panel-builder/header/cart/options.php:181
+#: customizer-builder/panel-builder/header/cart/options.php:210
+#: customizer-builder/panel-builder/header/cart/options.php:510
+#: customizer-builder/panel-builder/header/cart/options.php:661
+#: customizer-builder/panel-builder/header/cart/options.php:690
+#: customizer-builder/panel-builder/header/contacts/options.php:561
+#: customizer-builder/panel-builder/header/contacts/options.php:592
+#: customizer-builder/panel-builder/header/contacts/options.php:622
+#: customizer-builder/panel-builder/header/contacts/options.php:722
+#: customizer-builder/panel-builder/header/contacts/options.php:761
+#: customizer-builder/panel-builder/header/contacts/options.php:800
+#: customizer-builder/panel-builder/header/logo/options.php:469
+#: customizer-builder/panel-builder/header/logo/options.php:500
+#: customizer-builder/panel-builder/header/logo/options.php:530
+#: customizer-builder/panel-builder/header/mobile-menu/options.php:105
+#: customizer-builder/panel-builder/header/offcanvas/options.php:198
+#: customizer-builder/panel-builder/header/offcanvas/options.php:229
+#: customizer-builder/panel-builder/header/search/options.php:131
+#: customizer-builder/panel-builder/header/search/options.php:162
+#: customizer-builder/panel-builder/header/search/options.php:192
+#: customizer-builder/panel-builder/header/search/options.php:235
+#: customizer-builder/panel-builder/header/search/options.php:266
+#: customizer-builder/panel-builder/header/socials/options.php:244
+#: customizer-builder/panel-builder/header/socials/options.php:275
+#: customizer-builder/panel-builder/header/socials/options.php:305
+#: customizer-builder/panel-builder/header/socials/options.php:402
+#: customizer-builder/panel-builder/header/socials/options.php:440
+#: customizer-builder/panel-builder/header/socials/options.php:478
+#: customizer-builder/panel-builder/header/trigger/options.php:161
+#: customizer-builder/panel-builder/header/trigger/options.php:190
+#: customizer-builder/panel-builder/header/trigger/options.php:218
+#: customizer-builder/panel-builder/header/trigger/options.php:299
+#: customizer-builder/panel-builder/header/trigger/options.php:336
+#: customizer-builder/panel-builder/header/trigger/options.php:373
+msgid "Hover"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/buttons.php:84
+#: customizer-builder/customizer-settings/general/colors/footer.php:150
+#: customizer-builder/customizer-settings/general/colors/header.php:97
+#: customizer-builder/customizer-settings/general/form-elements.php:119
+#: customizer-builder/customizer-settings/general/layouts/button.php:93
+#: customizer-builder/customizer-settings/posts/singlepost.php:103
+#: customizer-builder/customizer-settings/woo/woo-general.php:193
+#: customizer-builder/panel-builder/header/cart/options.php:518
+#: customizer-builder/panel-builder/header/trigger/options.php:234
+#: customizer-builder/panel-builder/header/trigger/options.php:275
+#: customizer-builder/panel-builder/header/trigger/options.php:312
+#: customizer-builder/panel-builder/header/trigger/options.php:349
+msgid "Background Color"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/cards-reveal-effect.php:13
+msgid "Cards Reveal Effect"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/colors/color-options.php:51
+msgid "Global Color Palette"
+msgstr ""
+
+#. translators: The interpolations addes a html link around the word.
+#: customizer-builder/customizer-settings/general/colors/color-options.php:56
+msgid "Learn more about palettes and colors %1$shere%2$s."
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/colors/color-options.php:73
+msgid "Base Font Color"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/colors/color-options.php:92
+#: customizer-builder/customizer-settings/general/colors/footer.php:186
+#: customizer-builder/panel-builder/header/text/options.php:166
+#: customizer-builder/panel-builder/header/text/options.php:177
+msgid "Link Color"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/colors/color-options.php:122
+msgid "Heading Color"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/colors/color-options.php:141
+msgid "Text Selection Color"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/colors/color-options.php:164
+msgid "Highlighted"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/colors/color-options.php:170
+#: customizer-builder/customizer-settings/general/form-elements.php:86
+#: customizer-builder/customizer-settings/general/layouts/back-to-top.php:241
+#: customizer-builder/customizer-settings/general/layouts/button.php:129
+#: customizer-builder/customizer-settings/woo/woo-general.php:229
+#: customizer-builder/panel-builder/header/button/options.php:516
+#: customizer-builder/panel-builder/header/trigger/options.php:230
+#: customizer-builder/panel-builder/header/trigger/options.php:271
+#: customizer-builder/panel-builder/header/trigger/options.php:308
+#: customizer-builder/panel-builder/header/trigger/options.php:345
+msgid "Border Color"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/colors/color-options.php:188
+msgid "Section Background Color"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/colors/color-options.php:189
+msgid "This color is used in some sections of the site as a background."
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/colors/color-options.php:207
+msgid "Site Background"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/colors/footer.php:11
+#: customizer-builder/customizer-settings/init.php:44
+msgid "Footer"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/colors/footer.php:17
+msgid "Footer Widget Colors"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/colors/footer.php:20
+#: customizer-builder/customizer-settings/general/colors/header.php:21
+#: customizer-builder/customizer-settings/general/colors/header.php:227
+#: customizer-builder/customizer-settings/general/post-structure.php:134
+#: customizer-builder/customizer-settings/general/posts-listing.php:383
+#: customizer-builder/customizer-settings/woo/woo-archives.php:254
+#: customizer-builder/customizer-settings/woo/woo-archives.php:335
+#: customizer-builder/panel-builder/header/cart/options.php:273
+#: customizer-builder/panel-builder/header/cart/options.php:303
+#: customizer-builder/panel-builder/header/cart/options.php:333
+#: customizer-builder/panel-builder/header/middle-row/options.php:115
+#: customizer-builder/panel-builder/header/middle-row/options.php:142
+#: customizer-builder/panel-builder/header/middle-row/options.php:151
+#: customizer-builder/panel-builder/header/middle-row/options.php:166
+msgid "Background"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/colors/footer.php:38
+msgid "Widget Title Color"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/colors/footer.php:56
+#: customizer-builder/customizer-settings/general/colors/footer.php:168
+#: customizer-builder/customizer-settings/general/layouts/button.php:57
+#: customizer-builder/customizer-settings/posts/singlepost.php:69
+#: customizer-builder/customizer-settings/woo/woo-archives.php:330
+#: customizer-builder/customizer-settings/woo/woo-general.php:157
+msgid "Text Color"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/colors/footer.php:74
+#: customizer-builder/customizer-settings/general/colors/footer.php:204
+msgid "Link Hover Color"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/colors/footer.php:92
+#: customizer-builder/customizer-settings/general/colors/footer.php:132
+msgid "Border Top Color"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/colors/footer.php:110
+msgid "List Item Border Bottom Color"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/colors/footer.php:129
+msgid "Footer Bar Colors"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/colors/header.php:11
+#: customizer-builder/customizer-settings/init.php:39
+msgid "Header"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/colors/header.php:18
+msgid "Top Header Colors"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/colors/header.php:39
+msgid "Top Header Text"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/colors/header.php:57
+msgid "Link"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/colors/header.php:75
+#: customizer-builder/customizer-settings/general/page-title.php:922
+#: customizer-builder/panel-builder/footer/contacts/options.php:386
+#: customizer-builder/panel-builder/footer/copyright/options.php:165
+#: customizer-builder/panel-builder/footer/middle-row/options.php:702
+#: customizer-builder/panel-builder/header/cart/options.php:579
+#: customizer-builder/panel-builder/header/contacts/options.php:403
+#: customizer-builder/panel-builder/header/contacts/options.php:444
+#: customizer-builder/panel-builder/header/contacts/options.php:484
+#: customizer-builder/panel-builder/header/text/options.php:202
+msgid "Link Hover"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/colors/header.php:94
+msgid "Primary Header"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/colors/header.php:115
+#: customizer-builder/panel-builder/header/middle-row/options.php:290
+#: customizer-builder/panel-builder/header/middle-row/options.php:317
+#: customizer-builder/panel-builder/header/middle-row/options.php:332
+#: customizer-builder/panel-builder/header/middle-row/options.php:347
+msgid "Bottom Border"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/colors/header.php:133
+msgid "Menu Item"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/colors/header.php:151
+msgid "Menu Item Hover"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/colors/header.php:169
+msgid "Menu Item Active"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/colors/header.php:188
+msgid "Header Button Colors"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/colors/header.php:209
+msgid "Text Hover"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/colors/header.php:245
+msgid "Background Hover"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/colors/header.php:263
+#: customizer-builder/customizer-settings/general/layouts/back-to-top.php:268
+msgid "Border"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/colors/header.php:281
+msgid ""
+"Border Hover\n"
+"\n"
+"                "
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/comments-single.php:15
+#: customizer-builder/customizer-settings/general/meta.php:147
+#: customizer-builder/customizer-settings/general/page-title.php:441
+#: customizer-builder/customizer-settings/general/post-structure.php:298
+#: customizer-builder/customizer-settings/pages/pages.php:135
+#: customizer-builder/customizer-settings/posts/singlepost.php:371
+msgid "Comments"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/comments-single.php:25
+#: customizer-builder/customizer-settings/general/layouts/back-to-top.php:20
+#: customizer-builder/customizer-settings/general/layouts/button.php:18
+#: customizer-builder/customizer-settings/general/page-title.php:987
+#: customizer-builder/customizer-settings/general/page-title.php:1056
+#: customizer-builder/customizer-settings/general/pagination.php:24
+#: customizer-builder/customizer-settings/general/posts-listing.php:80
+#: customizer-builder/customizer-settings/init.php:122
+#: customizer-builder/customizer-settings/meta/default.php:31
+#: customizer-builder/customizer-settings/meta/page.php:76
+#: customizer-builder/customizer-settings/meta/post.php:17
+#: customizer-builder/customizer-settings/pages/archive.php:27
+#: customizer-builder/customizer-settings/pages/author.php:24
+#: customizer-builder/customizer-settings/pages/pages.php:68
+#: customizer-builder/customizer-settings/pages/search.php:26
+#: customizer-builder/customizer-settings/posts/singlepost.php:45
+#: customizer-builder/customizer-settings/posts/singlepost.php:139
+#: customizer-builder/customizer-settings/woo/woo-archives.php:22
+#: customizer-builder/customizer-settings/woo/woo-archives.php:149
+#: customizer-builder/customizer-settings/woo/woo-general.php:19
+#: customizer-builder/customizer-settings/woo/woo-single.php:18
+#: customizer-builder/customizer-settings/woo/woo-storenotice.php:26
+#: customizer-builder/panel-builder/footer/contacts/options.php:15
+#: customizer-builder/panel-builder/footer/copyright/options.php:5
+#: customizer-builder/panel-builder/footer/menu/options.php:49
+#: customizer-builder/panel-builder/footer/middle-row/options.php:31
+#: customizer-builder/panel-builder/footer/socials/options.php:5
+#: customizer-builder/panel-builder/header/button/options.php:5
+#: customizer-builder/panel-builder/header/cart/options.php:6
+#: customizer-builder/panel-builder/header/cart/options.php:379
+#: customizer-builder/panel-builder/header/contacts/options.php:15
+#: customizer-builder/panel-builder/header/logo/options.php:5
+#: customizer-builder/panel-builder/header/menu/options.php:50
+#: customizer-builder/panel-builder/header/menu/options.php:472
+#: customizer-builder/panel-builder/header/middle-row/options.php:27
+#: customizer-builder/panel-builder/header/mobile-menu/options.php:39
+#: customizer-builder/panel-builder/header/offcanvas/options.php:5
+#: customizer-builder/panel-builder/header/search/options.php:29
+#: customizer-builder/panel-builder/header/socials/options.php:5
+#: customizer-builder/panel-builder/header/text/options.php:5
+#: customizer-builder/panel-builder/header/trigger/options.php:5
+msgid "General"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/comments-single.php:30
+msgid "Website Input Field"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/comments-single.php:43
+msgid "Module Placement"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/comments-single.php:48
+msgid ""
+"Separate or unify the comments module from or with the entry content area."
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/comments-single.php:50
+msgid "Separated"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/comments-single.php:51
+msgid "Contained"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/comments-single.php:69
+msgid "Container Structure"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/comments-single.php:75
+#: customizer-builder/customizer-settings/general/page-title.php:606
+msgid "Narrow"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/comments-single.php:76
+#: customizer-builder/customizer-settings/general/meta.php:216
+#: customizer-builder/customizer-settings/woo/woo-archives.php:253
+msgid "Normal"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/comments-single.php:92
+msgid "Container Max Width"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/comments-single.php:107
+#: customizer-builder/customizer-settings/general/layouts/back-to-top.php:161
+#: customizer-builder/customizer-settings/general/layouts/button.php:53
+#: customizer-builder/customizer-settings/general/layouts/contentsidebar.php:76
+#: customizer-builder/customizer-settings/general/page-title.php:993
+#: customizer-builder/customizer-settings/general/page-title.php:1083
+#: customizer-builder/customizer-settings/general/pagination.php:135
+#: customizer-builder/customizer-settings/general/posts-listing.php:525
+#: customizer-builder/customizer-settings/general/seo/seo-options.php:78
+#: customizer-builder/customizer-settings/meta/default.php:163
+#: customizer-builder/customizer-settings/meta/page.php:214
+#: customizer-builder/customizer-settings/meta/post.php:158
+#: customizer-builder/customizer-settings/pages/archive.php:108
+#: customizer-builder/customizer-settings/pages/author.php:123
+#: customizer-builder/customizer-settings/pages/pages.php:173
+#: customizer-builder/customizer-settings/pages/search.php:96
+#: customizer-builder/customizer-settings/posts/singlepost.php:65
+#: customizer-builder/customizer-settings/posts/singlepost.php:203
+#: customizer-builder/customizer-settings/woo/woo-archives.php:65
+#: customizer-builder/customizer-settings/woo/woo-archives.php:278
+#: customizer-builder/customizer-settings/woo/woo-general.php:74
+#: customizer-builder/customizer-settings/woo/woo-single.php:73
+#: customizer-builder/customizer-settings/woo/woo-storenotice.php:55
+#: customizer-builder/panel-builder/footer/contacts/options.php:324
+#: customizer-builder/panel-builder/footer/copyright/options.php:114
+#: customizer-builder/panel-builder/footer/menu/options.php:133
+#: customizer-builder/panel-builder/footer/middle-row/options.php:491
+#: customizer-builder/panel-builder/footer/socials/options.php:208
+#: customizer-builder/panel-builder/header/button/options.php:209
+#: customizer-builder/panel-builder/header/cart/options.php:96
+#: customizer-builder/panel-builder/header/cart/options.php:479
+#: customizer-builder/panel-builder/header/contacts/options.php:323
+#: customizer-builder/panel-builder/header/logo/options.php:393
+#: customizer-builder/panel-builder/header/menu/options.php:149
+#: customizer-builder/panel-builder/header/menu/options.php:547
+#: customizer-builder/panel-builder/header/middle-row/options.php:109
+#: customizer-builder/panel-builder/header/mobile-menu/options.php:60
+#: customizer-builder/panel-builder/header/offcanvas/options.php:100
+#: customizer-builder/panel-builder/header/search/options.php:74
+#: customizer-builder/panel-builder/header/socials/options.php:183
+#: customizer-builder/panel-builder/header/text/options.php:113
+#: customizer-builder/panel-builder/header/trigger/options.php:106
+msgid "Design"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/comments-single.php:147
+#: customizer-builder/customizer-settings/general/page-title.php:968
+msgid "Container Background"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/content-elements.php:14
+msgid "Entry Content Elements"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/content-elements.php:20
+msgid "Content Spacing"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/content-elements.php:26
+#: customizer-builder/customizer-settings/general/page-title.php:625
+#: customizer-builder/customizer-settings/general/performance.php:43
+#: customizer-builder/customizer-settings/general/seo/seo-options.php:32
+#: customizer-builder/panel-builder/footer/contacts/options.php:292
+#: customizer-builder/panel-builder/footer/socials/options.php:97
+#: customizer-builder/panel-builder/header/contacts/options.php:291
+#: customizer-builder/panel-builder/header/socials/options.php:100
+#: inc/extras.php:861
+msgid "None"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/content-elements.php:27
+msgid "Compact"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/content-elements.php:28
+msgid "Comfortable"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/content-elements.php:29
+msgid "Spacious"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/content-elements.php:32
+msgid "Vertical spacing value between entry content elements & blocks."
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/content-elements.php:40
+msgid "Left & Right Blocks Offset"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/content-elements.php:44
+msgid ""
+"This option will add offset to all left and right aligned blocks in "
+"Gutenberg editor."
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/content-elements.php:52
+msgid "Links Type"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/content-elements.php:63
+#: customizer-builder/customizer-settings/general/layouts/back-to-top.php:52
+#: customizer-builder/panel-builder/header/menu/options.php:82
+msgid "Type 4"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/content-elements.php:64
+msgid "Type 5"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/custom-post-types.php:15
+#: customizer-builder/customizer-settings/general/custom-post-types.php:21
+msgid "bbPress"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/custom-post-types.php:38
+#: customizer-builder/customizer-settings/general/custom-post-types.php:44
+msgid "BuddyPress"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/custom-post-types.php:61
+msgid "TutorLMS"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/custom-post-types.php:93
+msgid "Single %s"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/custom-post-types.php:121
+msgid "LearnDash"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/form-elements.php:14
+msgid "Form Elements"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/form-elements.php:29
+#: customizer-builder/customizer-settings/general/posts-listing.php:48
+msgid "Classic"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/form-elements.php:34
+msgid "Modern"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/form-elements.php:63
+#: customizer-builder/customizer-settings/general/form-elements.php:107
+#: customizer-builder/customizer-settings/general/form-elements.php:140
+msgid "Focus"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/form-elements.php:71
+#: customizer-builder/customizer-settings/pages/archive.php:286
+#: customizer-builder/customizer-settings/pages/author.php:297
+#: customizer-builder/customizer-settings/pages/search.php:271
+#: customizer-builder/customizer-settings/posts/postoptions.php:156
+msgid "Font Size"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/form-elements.php:82
+msgid "Input & Textarea"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/form-elements.php:150
+msgid "Border Size"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/form-elements.php:160
+msgid "Input Height"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/form-elements.php:170
+msgid "Textarea Height"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/form-elements.php:181
+msgid "Radio & Checkbox"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/form-elements.php:185
+#: customizer-builder/customizer-settings/general/pagination.php:147
+#: customizer-builder/customizer-settings/init.php:34
+msgid "Colors"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/form-elements.php:206
+#: customizer-builder/panel-builder/header/menu/options.php:399
+#: customizer-builder/panel-builder/header/menu/options.php:419
+#: customizer-builder/panel-builder/header/menu/options.php:439
+msgid "Active"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/general.php:32
+msgid "Color scheme"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/layout.php:14
+#: customizer-builder/customizer-settings/general/layouts/container.php:30
+msgid "Layout"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/layout.php:20
+msgid "Maximum Site Width"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/layout.php:29
+#: customizer-builder/customizer-settings/general/layouts/contentsidebar.php:143
+msgid "Content Area Spacing"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/layout.php:42
+msgid "Main content area top and bottom spacing."
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/layout.php:50
+msgid "Fullwidth Container Max-width"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/layout.php:56
+msgid ""
+"This option will apply only on single posts & pages that have a Narrow Width "
+"page structure."
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/layout.php:60
+msgid "Wide Alignment Offset"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/layout.php:68
+msgid ""
+"This option will apply only to those elements that have a wide alignment "
+"option."
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/layouts/404.php:10
+msgid "404 Page"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/layouts/404.php:15
+msgid "Upload 404 Image"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/layouts/404.php:23
+msgid "Show Latest Posts"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/layouts/404.php:34
+#: customizer-builder/customizer-settings/posts/singlepost.php:346
+msgid "Number of Posts"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/layouts/404.php:44
+#: customizer-builder/customizer-settings/pages/archive.php:329
+#: customizer-builder/customizer-settings/pages/author.php:340
+#: customizer-builder/customizer-settings/pages/search.php:314
+#: customizer-builder/customizer-settings/posts/postoptions.php:210
+msgid "Number of Posts per Row"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/layouts/404.php:55
+msgid "Show Blog Page Button"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/layouts/back-to-top.php:13
+msgid "Scroll to Top"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/layouts/back-to-top.php:58
+msgid "Button Shape"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/layouts/back-to-top.php:67
+#: customizer-builder/customizer-settings/pages/author.php:65
+#: customizer-builder/customizer-settings/woo/woo-archives.php:240
+#: customizer-builder/panel-builder/footer/contacts/options.php:294
+#: customizer-builder/panel-builder/footer/socials/options.php:99
+#: customizer-builder/panel-builder/header/contacts/options.php:293
+#: customizer-builder/panel-builder/header/socials/options.php:102
+msgid "Square"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/layouts/back-to-top.php:68
+#: customizer-builder/customizer-settings/pages/author.php:64
+#: customizer-builder/customizer-settings/woo/woo-archives.php:239
+msgid "Circle"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/layouts/back-to-top.php:73
+#: customizer-builder/panel-builder/header/cart/options.php:53
+#: customizer-builder/panel-builder/header/search/options.php:46
+msgid "Icon Size"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/layouts/back-to-top.php:89
+msgid "Bottom Offset"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/layouts/back-to-top.php:105
+msgid "Side Offset"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/layouts/back-to-top.php:120
+#: customizer-builder/customizer-settings/general/post-structure.php:164
+#: customizer-builder/customizer-settings/general/posts-listing.php:413
+msgid "Alignment"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/layouts/back-to-top.php:139
+#: customizer-builder/customizer-settings/general/page-title.php:387
+#: customizer-builder/customizer-settings/general/post-structure.php:245
+#: customizer-builder/panel-builder/footer/copyright/options.php:92
+#: customizer-builder/panel-builder/header/button/options.php:132
+msgid "Visibility"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/layouts/back-to-top.php:151
+#: customizer-builder/customizer-settings/general/page-title.php:398
+#: customizer-builder/customizer-settings/general/page-title.php:672
+#: customizer-builder/customizer-settings/general/pagination.php:85
+#: customizer-builder/customizer-settings/general/pagination.php:104
+#: customizer-builder/customizer-settings/general/post-structure.php:256
+#: customizer-builder/customizer-settings/single-elements/featured-image.php:40
+#: customizer-builder/panel-builder/footer/copyright/options.php:104
+#: customizer-builder/panel-builder/footer/menu/options.php:123
+#: customizer-builder/panel-builder/footer/middle-row/options.php:481
+#: customizer-builder/panel-builder/footer/options.php:18
+#: customizer-builder/panel-builder/footer/socials/options.php:141
+#: customizer-builder/panel-builder/footer/socials/options.php:198
+#: customizer-builder/panel-builder/header/button/options.php:115
+#: customizer-builder/panel-builder/header/button/options.php:200
+#: customizer-builder/panel-builder/header/cart/options.php:86
+#: customizer-builder/panel-builder/header/logo/options.php:267
+#: customizer-builder/panel-builder/header/logo/options.php:314
+#: customizer-builder/panel-builder/header/logo/options.php:384
+#: customizer-builder/panel-builder/header/socials/options.php:173
+#: customizer-builder/panel-builder/header/text/options.php:103
+msgid "Desktop"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/layouts/back-to-top.php:152
+#: customizer-builder/customizer-settings/general/page-title.php:399
+#: customizer-builder/customizer-settings/general/page-title.php:673
+#: customizer-builder/customizer-settings/general/pagination.php:86
+#: customizer-builder/customizer-settings/general/pagination.php:105
+#: customizer-builder/customizer-settings/general/post-structure.php:257
+#: customizer-builder/customizer-settings/single-elements/featured-image.php:41
+#: customizer-builder/panel-builder/footer/copyright/options.php:105
+#: customizer-builder/panel-builder/footer/menu/options.php:124
+#: customizer-builder/panel-builder/footer/middle-row/options.php:482
+#: customizer-builder/panel-builder/footer/options.php:19
+#: customizer-builder/panel-builder/footer/socials/options.php:142
+#: customizer-builder/panel-builder/footer/socials/options.php:199
+#: customizer-builder/panel-builder/header/button/options.php:116
+#: customizer-builder/panel-builder/header/button/options.php:142
+#: customizer-builder/panel-builder/header/button/options.php:201
+#: customizer-builder/panel-builder/header/cart/options.php:87
+#: customizer-builder/panel-builder/header/cart/options.php:727
+#: customizer-builder/panel-builder/header/logo/options.php:268
+#: customizer-builder/panel-builder/header/logo/options.php:315
+#: customizer-builder/panel-builder/header/logo/options.php:385
+#: customizer-builder/panel-builder/header/search/options.php:338
+#: customizer-builder/panel-builder/header/socials/options.php:148
+#: customizer-builder/panel-builder/header/socials/options.php:174
+#: customizer-builder/panel-builder/header/text/options.php:104
+#: customizer-builder/panel-builder/header/text/options.php:253
+msgid "Tablet"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/layouts/back-to-top.php:153
+#: customizer-builder/customizer-settings/general/page-title.php:400
+#: customizer-builder/customizer-settings/general/page-title.php:674
+#: customizer-builder/customizer-settings/general/pagination.php:87
+#: customizer-builder/customizer-settings/general/pagination.php:106
+#: customizer-builder/customizer-settings/general/post-structure.php:258
+#: customizer-builder/customizer-settings/single-elements/featured-image.php:42
+#: customizer-builder/panel-builder/footer/contacts/options.php:112
+#: customizer-builder/panel-builder/footer/copyright/options.php:106
+#: customizer-builder/panel-builder/footer/menu/options.php:125
+#: customizer-builder/panel-builder/footer/middle-row/options.php:483
+#: customizer-builder/panel-builder/footer/options.php:20
+#: customizer-builder/panel-builder/footer/socials/options.php:143
+#: customizer-builder/panel-builder/footer/socials/options.php:200
+#: customizer-builder/panel-builder/header/button/options.php:117
+#: customizer-builder/panel-builder/header/button/options.php:143
+#: customizer-builder/panel-builder/header/button/options.php:202
+#: customizer-builder/panel-builder/header/cart/options.php:88
+#: customizer-builder/panel-builder/header/cart/options.php:728
+#: customizer-builder/panel-builder/header/contacts/options.php:111
+#: customizer-builder/panel-builder/header/logo/options.php:269
+#: customizer-builder/panel-builder/header/logo/options.php:316
+#: customizer-builder/panel-builder/header/logo/options.php:386
+#: customizer-builder/panel-builder/header/search/options.php:339
+#: customizer-builder/panel-builder/header/socials/options.php:149
+#: customizer-builder/panel-builder/header/socials/options.php:175
+#: customizer-builder/panel-builder/header/text/options.php:105
+#: customizer-builder/panel-builder/header/text/options.php:254
+msgid "Mobile"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/layouts/back-to-top.php:165
+msgid "Scroll Button Style"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/layouts/back-to-top.php:174
+#: customizer-builder/customizer-settings/general/meta.php:217
+msgid "Filled"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/layouts/back-to-top.php:175
+#: customizer-builder/customizer-settings/general/post-structure.php:135
+#: customizer-builder/customizer-settings/general/posts-listing.php:384
+#: customizer-builder/panel-builder/footer/contacts/options.php:313
+#: customizer-builder/panel-builder/footer/socials/options.php:117
+#: customizer-builder/panel-builder/header/button/options.php:36
+#: customizer-builder/panel-builder/header/contacts/options.php:312
+#: customizer-builder/panel-builder/header/socials/options.php:120
+#: customizer-builder/panel-builder/header/trigger/options.php:59
+msgid "Outline"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/layouts/back-to-top.php:179
+#: customizer-builder/panel-builder/header/cart/options.php:101
+#: customizer-builder/panel-builder/header/cart/options.php:129
+#: customizer-builder/panel-builder/header/cart/options.php:159
+#: customizer-builder/panel-builder/header/cart/options.php:188
+#: customizer-builder/panel-builder/header/search/options.php:80
+#: customizer-builder/panel-builder/header/search/options.php:108
+#: customizer-builder/panel-builder/header/search/options.php:139
+#: customizer-builder/panel-builder/header/search/options.php:169
+msgid "Icon Color"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/layouts/back-to-top.php:210
+msgid "Shape Background Color"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/layouts/back-to-top.php:291
+msgid "Scroll Button Padding"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/layouts/back-to-top.php:306
+#: customizer-builder/panel-builder/footer/options.php:30
+#: customizer-builder/panel-builder/header/middle-row/options.php:396
+#: customizer-builder/panel-builder/header/middle-row/options.php:423
+#: customizer-builder/panel-builder/header/middle-row/options.php:441
+#: customizer-builder/panel-builder/header/middle-row/options.php:459
+#: customizer-builder/panel-builder/header/offcanvas/options.php:149
+msgid "Shadow"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/layouts/button.php:13
+#: customizer-builder/customizer-settings/pages/archive.php:221
+#: customizer-builder/customizer-settings/pages/author.php:232
+#: customizer-builder/customizer-settings/pages/search.php:206
+#: customizer-builder/customizer-settings/posts/postoptions.php:91
+#: customizer-builder/panel-builder/header/button/config.php:4
+msgid "Button"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/layouts/button.php:22
+msgid "Button Roundness"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/layouts/button.php:37
+msgid "Button Padding"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/layouts/button.php:75
+#: customizer-builder/customizer-settings/woo/woo-general.php:175
+msgid "Text Hover Color"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/layouts/button.php:111
+#: customizer-builder/customizer-settings/woo/woo-general.php:211
+msgid "Background Hover Color"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/layouts/button.php:147
+#: customizer-builder/customizer-settings/woo/woo-general.php:247
+msgid "Border Hover Color"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/layouts/container.php:10
+msgid "Container"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/layouts/container.php:15
+#: customizer-builder/customizer-settings/general/page-title.php:598
+#: customizer-builder/panel-builder/header/middle-row/options.php:45
+msgid "Container Width"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/layouts/container.php:16
+msgid "This setting sets the container width of the site."
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/layouts/container.php:37
+#: customizer-builder/customizer-settings/general/posts-listing.php:490
+#: customizer-builder/customizer-settings/meta/default.php:100
+#: customizer-builder/customizer-settings/meta/page.php:142
+#: customizer-builder/customizer-settings/meta/post.php:83
+#: customizer-builder/customizer-settings/pages/archive.php:379
+#: customizer-builder/customizer-settings/pages/author.php:390
+#: customizer-builder/customizer-settings/pages/pages.php:110
+#: customizer-builder/customizer-settings/pages/search.php:364
+#: customizer-builder/customizer-settings/posts/postoptions.php:261
+#: customizer-builder/customizer-settings/posts/singlepost.php:184
+#: customizer-builder/customizer-settings/woo/woo-general.php:58
+msgid "Boxed"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/layouts/container.php:38
+#: customizer-builder/customizer-settings/meta/page.php:143
+#: customizer-builder/customizer-settings/meta/post.php:84
+#: customizer-builder/customizer-settings/pages/archive.php:380
+#: customizer-builder/customizer-settings/pages/author.php:391
+#: customizer-builder/customizer-settings/pages/pages.php:111
+#: customizer-builder/customizer-settings/pages/search.php:365
+#: customizer-builder/customizer-settings/posts/postoptions.php:262
+#: customizer-builder/customizer-settings/posts/singlepost.php:185
+#: customizer-builder/customizer-settings/woo/woo-general.php:59
+msgid "Content Boxed"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/layouts/container.php:39
+#: customizer-builder/customizer-settings/meta/page.php:144
+#: customizer-builder/customizer-settings/meta/post.php:85
+#: customizer-builder/customizer-settings/pages/archive.php:381
+#: customizer-builder/customizer-settings/pages/author.php:392
+#: customizer-builder/customizer-settings/pages/pages.php:112
+#: customizer-builder/customizer-settings/pages/search.php:366
+#: customizer-builder/customizer-settings/posts/postoptions.php:263
+#: customizer-builder/customizer-settings/posts/singlepost.php:186
+#: customizer-builder/customizer-settings/woo/woo-general.php:60
+msgid "Unboxed"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/layouts/container.php:41
+msgid "Choose the default site layout."
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/layouts/container.php:44
+msgid "Fullwidth Centered Max-width"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/layouts/container.php:45
+msgid "This setting sets the container width for a Fullwidth Centered layout."
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/layouts/container.php:60
+msgid "Container Vertical Spacing"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/layouts/container.php:73
+msgid "This setting sets the spacing at the top and bottom of the container."
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/layouts/container.php:77
+msgid "Container Stretched Padding"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/layouts/container.php:90
+msgid ""
+"This setting sets the spacing at the left and right of the container when "
+"the Stretch layout is enabled."
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/layouts/contentsidebar.php:10
+#: customizer-builder/customizer-settings/general/layouts/contentsidebar.php:15
+#: customizer-builder/customizer-settings/general/sidebar-particular.php:20
+#: customizer-builder/init.php:102 inc/widgets.php:21
+msgid "Sidebar"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/layouts/contentsidebar.php:19
+msgid "Sidebar Width"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/layouts/contentsidebar.php:29
+msgid "Widget Spacing"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/layouts/contentsidebar.php:42
+msgid "This setting adds the spacing between the widgets in the sidebar."
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/layouts/contentsidebar.php:47
+msgid "Default Sidebar Layout"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/layouts/contentsidebar.php:54
+msgid "This setting sets the default sidebar layout of the site."
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/layouts/contentsidebar.php:59
+#: customizer-builder/customizer-settings/general/sidebar-particular.php:44
+#: customizer-builder/customizer-settings/meta/default.php:67
+#: customizer-builder/customizer-settings/meta/page.php:96
+#: customizer-builder/customizer-settings/meta/post.php:37
+#: customizer-builder/customizer-settings/pages/archive.php:358
+#: customizer-builder/customizer-settings/pages/author.php:369
+#: customizer-builder/customizer-settings/pages/pages.php:84
+#: customizer-builder/customizer-settings/pages/search.php:343
+#: customizer-builder/customizer-settings/posts/postoptions.php:239
+#: customizer-builder/customizer-settings/posts/singlepost.php:156
+#: customizer-builder/customizer-settings/woo/woo-general.php:36
+msgid "Right Sidebar"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/layouts/contentsidebar.php:64
+#: customizer-builder/customizer-settings/general/sidebar-particular.php:39
+#: customizer-builder/customizer-settings/meta/default.php:62
+#: customizer-builder/customizer-settings/meta/page.php:101
+#: customizer-builder/customizer-settings/meta/post.php:42
+#: customizer-builder/customizer-settings/pages/archive.php:362
+#: customizer-builder/customizer-settings/pages/author.php:373
+#: customizer-builder/customizer-settings/pages/pages.php:89
+#: customizer-builder/customizer-settings/pages/search.php:347
+#: customizer-builder/customizer-settings/posts/postoptions.php:243
+#: customizer-builder/customizer-settings/posts/singlepost.php:161
+#: customizer-builder/customizer-settings/woo/woo-general.php:41
+msgid "Left Sidebar"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/layouts/contentsidebar.php:69
+#: customizer-builder/customizer-settings/pages/archive.php:366
+#: customizer-builder/customizer-settings/pages/author.php:377
+#: customizer-builder/customizer-settings/pages/search.php:351
+#: customizer-builder/customizer-settings/posts/postoptions.php:247
+msgid "No Sidebar"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/layouts/contentsidebar.php:80
+msgid "Widgets Title Font Color"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/layouts/contentsidebar.php:99
+msgid "Widget Title Font Size"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/layouts/contentsidebar.php:114
+msgid "Widget Link Color"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/meta.php:68
+msgid "Date Format"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/meta.php:73
+#: customizer-builder/customizer-settings/general/page-title.php:605
+#: customizer-builder/customizer-settings/pages/archive.php:378
+#: customizer-builder/customizer-settings/pages/author.php:389
+#: customizer-builder/customizer-settings/pages/search.php:363
+#: customizer-builder/customizer-settings/posts/postoptions.php:260
+#: customizer-builder/customizer-settings/posts/singlepost.php:183
+#: customizer-builder/includes/integrations/custom-post-types.php:185
+#: customizer-builder/includes/menus.php:118
+#: customizer-builder/panel-builder/footer/middle-row/options.php:536
+#: customizer-builder/panel-builder/footer/middle-row/options.php:577
+#: customizer-builder/panel-builder/header/button/options.php:31
+#: customizer-builder/panel-builder/header/menu/options.php:100
+#: customizer-builder/panel-builder/header/menu/options.php:516
+#: customizer-builder/panel-builder/header/middle-row/options.php:53
+#: customizer-builder/panel-builder/header/middle-row/options.php:276
+#: customizer-builder/panel-builder/header/middle-row/options.php:383
+#: customizer-builder/panel-builder/header/mobile-menu/options.php:51
+msgid "Default"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/meta.php:74
+#: customizer-builder/customizer-settings/general/meta.php:218
+#: customizer-builder/customizer-settings/general/page-title.php:624
+#: customizer-builder/customizer-settings/general/page-title.php:1028
+#: customizer-builder/customizer-settings/general/page-title.php:1069
+#: customizer-builder/customizer-settings/meta/default.php:83
+#: customizer-builder/customizer-settings/meta/default.php:114
+#: customizer-builder/customizer-settings/meta/page.php:21
+#: customizer-builder/customizer-settings/meta/page.php:126
+#: customizer-builder/customizer-settings/meta/page.php:166
+#: customizer-builder/customizer-settings/meta/post.php:67
+#: customizer-builder/customizer-settings/meta/post.php:110
+#: customizer-builder/panel-builder/footer/socials/options.php:84
+#: customizer-builder/panel-builder/header/socials/options.php:87
+msgid "Custom"
+msgstr ""
+
+#. translators: The interpolations addes a html link around the word.
+#: customizer-builder/customizer-settings/general/meta.php:91
+msgid "Date format %sinstructions%s."
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/meta.php:105
+#: customizer-builder/customizer-settings/general/page-title.php:432
+#: customizer-builder/customizer-settings/general/post-structure.php:289
+msgid "Meta Elements"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/meta.php:114
+msgid "Author"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/meta.php:117
+msgid "Author Avatar"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/meta.php:127
+#: customizer-builder/customizer-settings/general/page-title.php:332
+#: customizer-builder/customizer-settings/pages/author.php:48
+msgid "Avatar Size"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/meta.php:142
+#: customizer-builder/customizer-settings/pages/author.php:35
+#: customizer-builder/includes/components/post-meta.php:103
+#: customizer-builder/includes/components/post-meta.php:228
+#: customizer-builder/includes/components/post-meta.php:550
+#: customizer-builder/includes/components/post-meta.php:623
+#: inc/template-functions.php:387
+msgid "By"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/meta.php:150
+msgid "Published Date"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/meta.php:156
+msgid "Updated Date"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/meta.php:162
+#: customizer-builder/includes/components/post-meta.php:565
+#: customizer-builder/includes/components/post-meta.php:638
+msgid "Updated On"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/meta.php:167
+msgid "Reading Time"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/meta.php:178
+msgid "Taxonomies"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/meta.php:178
+msgid "Categories"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/meta.php:181
+msgid "Category Separator"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/meta.php:192
+msgid "Separator 1"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/meta.php:196
+msgid "Separator 2"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/meta.php:200
+msgid "Separator 3"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/meta.php:204
+msgid "Separator 4"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/meta.php:209
+msgid "Category Style"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/meta.php:210
+msgid "Choose the Category Style for the Category"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/meta.php:226
+msgid "Category Color"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/meta.php:259
+msgid ""
+" This will inherit the colors you have set for the categories via Posts > "
+"Categories."
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/meta.php:270
+#: customizer-builder/panel-builder/footer/middle-row/options.php:595
+#: customizer-builder/panel-builder/header/menu/options.php:629
+#: customizer-builder/panel-builder/header/mobile-menu/options.php:133
+msgid "Items Divider"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/meta.php:276
+msgid "none"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/page-title.php:16
+#: customizer-builder/customizer-settings/general/page-title.php:1060
+#: customizer-builder/customizer-settings/general/post-structure.php:10
+#: customizer-builder/customizer-settings/meta/page.php:8
+#: customizer-builder/customizer-settings/pages/archive.php:21
+#: customizer-builder/customizer-settings/pages/author.php:18
+#: customizer-builder/customizer-settings/pages/pages.php:21
+#: customizer-builder/customizer-settings/pages/search.php:20
+msgid "Page Title"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/page-title.php:69
+#: customizer-builder/customizer-settings/general/post-structure.php:63
+msgid "Description"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/page-title.php:72
+#: customizer-builder/customizer-settings/general/post-structure.php:66
+msgid "Bio"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/page-title.php:78
+#: customizer-builder/customizer-settings/general/post-structure.php:78
+#: customizer-builder/customizer-settings/general/post-structure.php:111
+#: customizer-builder/customizer-settings/general/posts-listing.php:360
+#: customizer-builder/customizer-settings/pages/archive.php:184
+#: customizer-builder/customizer-settings/pages/archive.php:193
+#: customizer-builder/customizer-settings/pages/author.php:195
+#: customizer-builder/customizer-settings/pages/author.php:204
+#: customizer-builder/customizer-settings/pages/search.php:169
+#: customizer-builder/customizer-settings/pages/search.php:178
+#: customizer-builder/customizer-settings/posts/postoptions.php:52
+#: customizer-builder/customizer-settings/posts/postoptions.php:62
+msgid "Excerpt"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/page-title.php:82
+#: customizer-builder/customizer-settings/general/post-structure.php:82
+msgid "Subtitle"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/page-title.php:158
+msgid "Type"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/page-title.php:187
+msgid "Elements"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/page-title.php:244
+#: customizer-builder/customizer-settings/general/page-title.php:351
+#: customizer-builder/customizer-settings/general/page-title.php:409
+#: customizer-builder/customizer-settings/general/page-title.php:466
+#: customizer-builder/customizer-settings/general/page-title.php:483
+#: customizer-builder/customizer-settings/general/post-structure.php:97
+#: customizer-builder/customizer-settings/general/post-structure.php:267
+#: customizer-builder/customizer-settings/pages/archive.php:74
+#: customizer-builder/customizer-settings/pages/author.php:91
+#: customizer-builder/customizer-settings/pages/search.php:64
+msgid "Top Spacing"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/page-title.php:258
+msgid "Name & Avatar"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/page-title.php:258
+#: customizer-builder/customizer-settings/general/page-title.php:291
+#: customizer-builder/customizer-settings/general/post-structure.php:196
+#: customizer-builder/customizer-settings/general/posts-listing.php:283
+#: customizer-builder/customizer-settings/pages/archive.php:264
+#: customizer-builder/customizer-settings/pages/author.php:275
+#: customizer-builder/customizer-settings/pages/search.php:249
+#: customizer-builder/customizer-settings/posts/postoptions.php:134
+#: customizer-builder/panel-builder/footer/contacts/options.php:63
+#: customizer-builder/panel-builder/footer/contacts/options.php:89
+#: customizer-builder/panel-builder/footer/contacts/options.php:116
+#: customizer-builder/panel-builder/footer/contacts/options.php:143
+#: customizer-builder/panel-builder/footer/contacts/options.php:170
+#: customizer-builder/panel-builder/footer/contacts/options.php:197
+#: customizer-builder/panel-builder/footer/contacts/options.php:224
+#: customizer-builder/panel-builder/header/contacts/options.php:62
+#: customizer-builder/panel-builder/header/contacts/options.php:88
+#: customizer-builder/panel-builder/header/contacts/options.php:115
+#: customizer-builder/panel-builder/header/contacts/options.php:142
+#: customizer-builder/panel-builder/header/contacts/options.php:169
+#: customizer-builder/panel-builder/header/contacts/options.php:196
+#: customizer-builder/panel-builder/header/contacts/options.php:223
+msgid "Title"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/page-title.php:262
+#: customizer-builder/customizer-settings/general/post-structure.php:199
+#: customizer-builder/customizer-settings/general/posts-listing.php:287
+#: customizer-builder/customizer-settings/pages/archive.php:267
+#: customizer-builder/customizer-settings/pages/author.php:278
+#: customizer-builder/customizer-settings/pages/search.php:252
+#: customizer-builder/customizer-settings/posts/postoptions.php:137
+msgid "Heading tag"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/page-title.php:305
+msgid "Category Label"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/page-title.php:319
+msgid "Author avatar"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/page-title.php:424
+#: customizer-builder/customizer-settings/general/post-structure.php:281
+msgid "Author Meta"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/page-title.php:424
+#: customizer-builder/customizer-settings/general/post-structure.php:281
+#: customizer-builder/customizer-settings/general/posts-listing.php:432
+#: customizer-builder/customizer-settings/pages/archive.php:297
+#: customizer-builder/customizer-settings/pages/author.php:308
+#: customizer-builder/customizer-settings/pages/search.php:282
+#: customizer-builder/customizer-settings/posts/postoptions.php:173
+msgid "Post Meta"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/page-title.php:439
+#: customizer-builder/customizer-settings/general/post-structure.php:296
+msgid "Joined Date"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/page-title.php:440
+#: customizer-builder/customizer-settings/general/post-structure.php:297
+msgid "Articles"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/page-title.php:480
+msgid "Social Channels"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/page-title.php:509
+#: customizer-builder/customizer-settings/general/page-title.php:551
+#: customizer-builder/customizer-settings/general/seo/seo-options.php:62
+#: customizer-builder/customizer-settings/meta/page.php:37
+#: customizer-builder/customizer-settings/pages/archive.php:59
+#: customizer-builder/customizer-settings/pages/author.php:72
+#: customizer-builder/customizer-settings/pages/pages.php:33
+#: customizer-builder/customizer-settings/pages/search.php:46
+#: customizer-builder/customizer-settings/woo/woo-archives.php:32
+#: customizer-builder/panel-builder/footer/copyright/options.php:42
+#: customizer-builder/panel-builder/footer/menu/options.php:78
+#: customizer-builder/panel-builder/footer/socials/options.php:153
+#: customizer-builder/panel-builder/header/button/options.php:157
+#: customizer-builder/panel-builder/header/logo/options.php:341
+#: customizer-builder/panel-builder/header/offcanvas/options.php:81
+#: customizer-builder/panel-builder/header/text/options.php:60
+msgid "Horizontal Alignment"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/page-title.php:528
+msgid "Container Bottom Spacing"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/page-title.php:567
+#: customizer-builder/panel-builder/footer/copyright/options.php:65
+#: customizer-builder/panel-builder/footer/menu/options.php:94
+#: customizer-builder/panel-builder/footer/middle-row/options.php:433
+#: customizer-builder/panel-builder/footer/socials/options.php:169
+#: customizer-builder/panel-builder/header/button/options.php:173
+#: customizer-builder/panel-builder/header/logo/options.php:357
+#: customizer-builder/panel-builder/header/offcanvas/options.php:65
+#: customizer-builder/panel-builder/header/text/options.php:76
+msgid "Vertical Alignment"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/page-title.php:615
+msgid "Container Background Image"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/page-title.php:622
+msgid "Featured"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/page-title.php:639
+msgid "Custom Image"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/page-title.php:643
+msgid "Select Image"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/page-title.php:644
+msgid "Change Image"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/page-title.php:659
+msgid "Parallax Effect"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/page-title.php:660
+msgid "Choose for which devices you want to enable the parallax effect."
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/page-title.php:685
+msgid "Container Height"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/page-title.php:713
+#: customizer-builder/customizer-settings/general/posts-listing.php:538
+msgid "Title Font"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/page-title.php:726
+#: customizer-builder/customizer-settings/general/posts-listing.php:551
+msgid "Title Font Color"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/page-title.php:771
+#: customizer-builder/customizer-settings/general/posts-listing.php:638
+msgid "Meta Font"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/page-title.php:783
+#: customizer-builder/customizer-settings/general/posts-listing.php:652
+msgid "Meta Font Color"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/page-title.php:831
+#: customizer-builder/customizer-settings/general/posts-listing.php:597
+msgid "Excerpt Font"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/page-title.php:831
+msgid "Description Font"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/page-title.php:843
+msgid "Excerpt Font Color"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/page-title.php:843
+msgid "Description Font Color"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/page-title.php:877
+msgid "Breadcrumb Font"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/page-title.php:888
+msgid "Breadcrumb Font Color"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/page-title.php:916
+#: customizer-builder/panel-builder/footer/contacts/options.php:380
+#: customizer-builder/panel-builder/footer/copyright/options.php:159
+#: customizer-builder/panel-builder/footer/middle-row/options.php:697
+#: customizer-builder/panel-builder/header/cart/options.php:573
+#: customizer-builder/panel-builder/header/contacts/options.php:397
+#: customizer-builder/panel-builder/header/contacts/options.php:439
+#: customizer-builder/panel-builder/header/contacts/options.php:479
+#: customizer-builder/panel-builder/header/text/options.php:196
+msgid "Link Initial"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/page-title.php:944
+msgid "Image Overlay Color"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/page-title.php:958
+msgid "Initial color"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/page-title.php:1027
+#: customizer-builder/customizer-settings/general/page-title.php:1068
+#: customizer-builder/customizer-settings/meta/default.php:82
+#: customizer-builder/customizer-settings/meta/default.php:113
+#: customizer-builder/customizer-settings/meta/page.php:20
+#: customizer-builder/customizer-settings/meta/page.php:125
+#: customizer-builder/customizer-settings/meta/page.php:165
+#: customizer-builder/customizer-settings/meta/post.php:66
+#: customizer-builder/customizer-settings/meta/post.php:109
+msgid "Inherit"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/page-title.php:1029
+#: customizer-builder/customizer-settings/general/page-title.php:1070
+#: customizer-builder/customizer-settings/meta/default.php:144
+#: customizer-builder/customizer-settings/meta/page.php:22
+#: customizer-builder/customizer-settings/meta/page.php:196
+#: customizer-builder/customizer-settings/meta/post.php:140
+#: customizer-builder/customizer-settings/pages/pages.php:167
+#: customizer-builder/customizer-settings/posts/singlepost.php:420
+msgid "Disabled"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/page-title.php:1040
+msgid "By default these options are inherited from Customizer options."
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/page-title.php:1100
+msgid ""
+"Options will appear here only if you will set Custom in Page Title option."
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/pagination.php:13
+msgid "Pagination"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/pagination.php:29
+msgid "Pagination Type"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/pagination.php:36
+msgid "Standard"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/pagination.php:37
+msgid "Next/Prev"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/pagination.php:38
+#: customizer-builder/customizer-settings/general/pagination.php:61
+#: customizer-builder/includes/components/pagination.php:94
+msgid "Load More"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/pagination.php:39
+#: customizer-builder/customizer-settings/pages/archive.php:321
+#: customizer-builder/customizer-settings/pages/author.php:332
+#: customizer-builder/customizer-settings/pages/search.php:306
+#: customizer-builder/customizer-settings/posts/postoptions.php:201
+#: customizer-builder/customizer-settings/woo/woo-archives.php:518
+msgid "Infinite Scroll"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/pagination.php:58
+#: customizer-builder/panel-builder/header/button/options.php:57
+msgid "Label"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/pagination.php:74
+msgid "Numbers Visibility"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/pagination.php:92
+msgid "Arrows Visibility"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/pagination.php:118
+msgid "Pagination Top Spacing"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/pagination.php:167
+#: customizer-builder/panel-builder/footer/contacts/options.php:374
+#: customizer-builder/panel-builder/footer/middle-row/options.php:691
+#: customizer-builder/panel-builder/header/cart/options.php:567
+#: customizer-builder/panel-builder/header/contacts/options.php:391
+#: customizer-builder/panel-builder/header/contacts/options.php:434
+#: customizer-builder/panel-builder/header/contacts/options.php:474
+#: customizer-builder/panel-builder/header/text/options.php:154
+msgid "Text Initial"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/pagination.php:173
+msgid "Text Active"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/pagination.php:179
+msgid "Accent"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/pagination.php:227
+#: customizer-builder/customizer-settings/general/posts-listing.php:830
+#: customizer-builder/panel-builder/header/button/options.php:400
+#: customizer-builder/panel-builder/header/button/options.php:429
+#: customizer-builder/panel-builder/header/button/options.php:459
+#: customizer-builder/panel-builder/header/button/options.php:487
+msgid "Button Color"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/pagination.php:267
+#: customizer-builder/customizer-settings/general/post-structure.php:183
+#: customizer-builder/customizer-settings/general/posts-listing.php:462
+#: customizer-builder/customizer-settings/pages/archive.php:245
+#: customizer-builder/customizer-settings/pages/author.php:256
+#: customizer-builder/customizer-settings/pages/search.php:230
+#: customizer-builder/customizer-settings/posts/postoptions.php:115
+msgid "Divider"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/performance.php:23
+msgid "Lazy Load Images"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/performance.php:27
+msgid ""
+"This option will be auto disabled if you have JetPack's lazy load option "
+"enabled."
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/performance.php:36
+msgid "Images Loading Animation Type"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/performance.php:41
+msgid "Fade"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/performance.php:42
+msgid "Circles"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/post-structure.php:72
+#: customizer-builder/customizer-settings/pages/archive.php:192
+#: customizer-builder/customizer-settings/pages/author.php:203
+#: customizer-builder/customizer-settings/pages/search.php:177
+#: customizer-builder/customizer-settings/posts/postoptions.php:61
+#: customizer-builder/panel-builder/footer/contacts/options.php:70
+#: customizer-builder/panel-builder/footer/contacts/options.php:96
+#: customizer-builder/panel-builder/footer/contacts/options.php:123
+#: customizer-builder/panel-builder/footer/contacts/options.php:150
+#: customizer-builder/panel-builder/footer/contacts/options.php:177
+#: customizer-builder/panel-builder/footer/contacts/options.php:204
+#: customizer-builder/panel-builder/footer/contacts/options.php:231
+#: customizer-builder/panel-builder/header/contacts/options.php:69
+#: customizer-builder/panel-builder/header/contacts/options.php:95
+#: customizer-builder/panel-builder/header/contacts/options.php:122
+#: customizer-builder/panel-builder/header/contacts/options.php:149
+#: customizer-builder/panel-builder/header/contacts/options.php:176
+#: customizer-builder/panel-builder/header/contacts/options.php:203
+#: customizer-builder/panel-builder/header/contacts/options.php:230
+msgid "Content"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/post-structure.php:87
+#: customizer-builder/customizer-settings/meta/default.php:172
+#: customizer-builder/customizer-settings/meta/post.php:237
+#: customizer-builder/customizer-settings/pages/archive.php:176
+#: customizer-builder/customizer-settings/pages/author.php:187
+#: customizer-builder/customizer-settings/pages/search.php:161
+#: customizer-builder/customizer-settings/posts/postoptions.php:44
+msgid "Post Elements"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/post-structure.php:114
+#: customizer-builder/customizer-settings/general/posts-listing.php:363
+#: customizer-builder/customizer-settings/pages/archive.php:201
+#: customizer-builder/customizer-settings/pages/author.php:212
+#: customizer-builder/customizer-settings/pages/search.php:186
+#: customizer-builder/customizer-settings/posts/postoptions.php:71
+msgid "Length"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/post-structure.php:125
+#: customizer-builder/customizer-settings/general/posts-listing.php:374
+#: customizer-builder/customizer-settings/pages/archive.php:213
+#: customizer-builder/customizer-settings/pages/author.php:224
+#: customizer-builder/customizer-settings/pages/search.php:198
+#: customizer-builder/customizer-settings/posts/postoptions.php:83
+msgid "Read More Button"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/post-structure.php:133
+#: customizer-builder/customizer-settings/general/posts-listing.php:43
+#: customizer-builder/customizer-settings/general/posts-listing.php:382
+#: customizer-builder/customizer-settings/general/posts-listing.php:489
+#: customizer-builder/customizer-settings/pages/archive.php:220
+#: customizer-builder/customizer-settings/pages/author.php:231
+#: customizer-builder/customizer-settings/pages/search.php:205
+#: customizer-builder/customizer-settings/posts/postoptions.php:90
+#: customizer-builder/panel-builder/header/menu/options.php:486
+#: customizer-builder/panel-builder/header/menu/options.php:519
+#: customizer-builder/panel-builder/header/trigger/options.php:58
+msgid "Simple"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/post-structure.php:147
+#: customizer-builder/customizer-settings/general/posts-listing.php:396
+#: customizer-builder/includes/defaults.php:477 inc/defaults.php:533
+msgid "Read More"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/post-structure.php:154
+#: customizer-builder/customizer-settings/general/posts-listing.php:403
+#: customizer-builder/customizer-settings/pages/archive.php:236
+#: customizer-builder/customizer-settings/pages/author.php:247
+#: customizer-builder/customizer-settings/pages/search.php:221
+#: customizer-builder/customizer-settings/posts/postoptions.php:106
+msgid "Show Arrow"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/post-structure.php:191
+#: customizer-builder/customizer-settings/general/posts-listing.php:311
+#: customizer-builder/customizer-settings/pages/archive.php:260
+#: customizer-builder/customizer-settings/pages/author.php:271
+#: customizer-builder/customizer-settings/pages/pages.php:126
+#: customizer-builder/customizer-settings/pages/search.php:245
+#: customizer-builder/customizer-settings/posts/postoptions.php:130
+msgid "Featured Image"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/posts-listing.php:14
+msgid "blog"
+msgstr ""
+
+#. translators: placeholder here means the actual structure title.
+#: customizer-builder/customizer-settings/general/posts-listing.php:22
+msgid "%s Structure"
+msgstr ""
+
+#. translators: placeholder here means the actual structure title.
+#: customizer-builder/customizer-settings/general/posts-listing.php:27
+msgid "Set the %s entries default structure."
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/posts-listing.php:53
+msgid "Grid"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/posts-listing.php:58
+msgid "Enhanced Grid"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/posts-listing.php:63
+msgid "Gutenberg"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/posts-listing.php:74
+#: customizer-builder/customizer-settings/woo/woo-archives.php:142
+msgid "Cards Options"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/posts-listing.php:90
+#: customizer-builder/customizer-settings/general/posts-listing.php:134
+msgid "Posts per page"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/posts-listing.php:112
+msgid "Posts Number"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/posts-listing.php:118
+msgid "Posts per row"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/posts-listing.php:160
+msgid "Card Elements"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/posts-listing.php:314
+#: customizer-builder/customizer-settings/single-elements/featured-image.php:12
+msgid "Image Ratio"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/posts-listing.php:324
+#: customizer-builder/customizer-settings/single-elements/featured-image.php:20
+msgid "Image Size"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/posts-listing.php:346
+msgid "Boundless Image"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/posts-listing.php:482
+msgid "Card Type"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/posts-listing.php:497
+msgid "Cards Gap"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/posts-listing.php:507
+msgid "Card Inner Spacing"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/posts-listing.php:609
+msgid "Excerpt Color"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/posts-listing.php:696
+#: customizer-builder/customizer-settings/general/posts-listing.php:742
+#: customizer-builder/customizer-settings/general/posts-listing.php:788
+msgid "Button Font Color"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/posts-listing.php:877
+msgid "Featured Image Radius"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/posts-listing.php:887
+msgid "Card bottom divider"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/posts-listing.php:908
+msgid "Card Divider"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/posts-listing.php:934
+msgid "Card Background Color"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/posts-listing.php:953
+msgid "Card Border"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/posts-listing.php:969
+msgid "Card Shadow"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/seo/seo-options.php:26
+msgid "Breadcrumb Position"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/seo/seo-options.php:33
+msgid "Before Title"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/seo/seo-options.php:82
+msgid "Breadcrumb Color"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/seo/seo-options.php:100
+msgid "Breadcrumb Current Color"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/seo/seo-options.php:118
+msgid "Breadcrumb Separator Color"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/seo/seo-options.php:137
+#: customizer-builder/customizer-settings/init.php:49
+msgid "Typography"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/sidebar-particular.php:30
+msgid "Sidebar Position"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/typography/typography.php:18
+msgid "Base Font"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/typography/typography.php:34
+msgid "Heading 1 (H1)"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/typography/typography.php:46
+msgid "Heading 2 (H2)"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/typography/typography.php:57
+msgid "Heading 3 (H3)"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/typography/typography.php:68
+msgid "Heading 4 (H4)"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/typography/typography.php:79
+msgid "Heading 5 (H5)"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/typography/typography.php:90
+msgid "Heading 6 (H6)"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/typography/typography.php:106
+msgid "Fallback Font Family"
+msgstr ""
+
+#: customizer-builder/customizer-settings/general/typography/typography.php:107
+msgid "This font is used if the chosen font isn't available."
+msgstr ""
+
+#: customizer-builder/customizer-settings/init.php:25
+msgid "General Options"
+msgstr ""
+
+#: customizer-builder/customizer-settings/init.php:29
+msgid "Layouts"
+msgstr ""
+
+#: customizer-builder/customizer-settings/init.php:54
+msgid "SEO"
+msgstr ""
+
+#: customizer-builder/customizer-settings/init.php:59
+msgid "Social Networks"
+msgstr ""
+
+#: customizer-builder/customizer-settings/init.php:66
+msgid "Posts / Pages"
+msgstr ""
+
+#: customizer-builder/customizer-settings/init.php:70
+msgid "Blog Page"
+msgstr ""
+
+#: customizer-builder/customizer-settings/init.php:75
+#: customizer-builder/panel-builder/header/cart/options.php:468
+msgid "Archive Page"
+msgstr ""
+
+#: customizer-builder/customizer-settings/init.php:80
+msgid "Author Page"
+msgstr ""
+
+#: customizer-builder/customizer-settings/init.php:85
+msgid "Search Page"
+msgstr ""
+
+#: customizer-builder/customizer-settings/init.php:90
+msgid "Single Post"
+msgstr ""
+
+#: customizer-builder/customizer-settings/init.php:95
+#: customizer-builder/panel-builder/header/search/options.php:5
+msgid "Pages"
+msgstr ""
+
+#: customizer-builder/customizer-settings/init.php:109
+msgid "WooCommerces"
+msgstr ""
+
+#: customizer-builder/customizer-settings/init.php:114
+#: customizer-builder/customizer-settings/woo/woo-storenotice.php:10
+msgid "Store Notice"
+msgstr ""
+
+#: customizer-builder/customizer-settings/init.php:130
+msgid "Shop Page"
+msgstr ""
+
+#: customizer-builder/customizer-settings/init.php:138
+msgid "Single Product"
+msgstr ""
+
+#: customizer-builder/customizer-settings/init.php:147
+msgid "Checkout Page"
+msgstr ""
+
+#: customizer-builder/customizer-settings/init.php:171
+msgid "Extensions"
+msgstr ""
+
+#: customizer-builder/customizer-settings/meta/default.php:8
+msgid "Post Title"
+msgstr ""
+
+#: customizer-builder/customizer-settings/meta/default.php:27
+#: customizer-builder/customizer-settings/meta/post.php:13
+msgid "Post Structure"
+msgstr ""
+
+#: customizer-builder/customizer-settings/meta/default.php:47
+#: customizer-builder/customizer-settings/meta/page.php:92
+#: customizer-builder/customizer-settings/meta/post.php:33
+msgid "Inherit from customizer"
+msgstr ""
+
+#: customizer-builder/customizer-settings/meta/default.php:52
+msgid "Narrow Width"
+msgstr ""
+
+#: customizer-builder/customizer-settings/meta/default.php:57
+msgid "Normal Width"
+msgstr ""
+
+#: customizer-builder/customizer-settings/meta/default.php:77
+#: customizer-builder/customizer-settings/meta/page.php:120
+#: customizer-builder/customizer-settings/meta/post.php:61
+msgid "Content Area Style Source"
+msgstr ""
+
+#: customizer-builder/customizer-settings/meta/default.php:92
+#: customizer-builder/customizer-settings/meta/page.php:135
+#: customizer-builder/customizer-settings/meta/post.php:76
+msgid "Content Area Style"
+msgstr ""
+
+#: customizer-builder/customizer-settings/meta/default.php:99
+msgid "Wide"
+msgstr ""
+
+#: customizer-builder/customizer-settings/meta/default.php:107
+#: customizer-builder/customizer-settings/meta/page.php:159
+#: customizer-builder/customizer-settings/meta/post.php:104
+#: customizer-builder/customizer-settings/pages/pages.php:140
+#: customizer-builder/customizer-settings/posts/singlepost.php:393
+msgid "Content Area Vertical Spacing"
+msgstr ""
+
+#: customizer-builder/customizer-settings/meta/default.php:125
+#: customizer-builder/customizer-settings/meta/page.php:177
+#: customizer-builder/customizer-settings/meta/post.php:121
+msgid "You can customize the spacing value in general settings panel."
+msgstr ""
+
+#: customizer-builder/customizer-settings/meta/default.php:135
+#: customizer-builder/customizer-settings/meta/page.php:187
+#: customizer-builder/customizer-settings/meta/post.php:131
+#: customizer-builder/customizer-settings/pages/pages.php:158
+#: customizer-builder/customizer-settings/posts/singlepost.php:411
+msgid "Top & Bottom"
+msgstr ""
+
+#: customizer-builder/customizer-settings/meta/default.php:138
+#: customizer-builder/customizer-settings/meta/page.php:190
+#: customizer-builder/customizer-settings/meta/post.php:134
+#: customizer-builder/customizer-settings/pages/pages.php:161
+#: customizer-builder/customizer-settings/posts/singlepost.php:414
+msgid "Only Top"
+msgstr ""
+
+#: customizer-builder/customizer-settings/meta/default.php:141
+#: customizer-builder/customizer-settings/meta/page.php:193
+#: customizer-builder/customizer-settings/meta/post.php:137
+#: customizer-builder/customizer-settings/pages/pages.php:164
+#: customizer-builder/customizer-settings/posts/singlepost.php:417
+msgid "Only Bottom"
+msgstr ""
+
+#. translators: placeholder here means the actual URL.
+#: customizer-builder/customizer-settings/meta/default.php:148
+msgid ""
+"You can customize the global spacing value in General ➝ Layout ➝ %1$sContent "
+"Area Spacing%2$s."
+msgstr ""
+
+#: customizer-builder/customizer-settings/meta/default.php:176
+#: customizer-builder/customizer-settings/meta/page.php:297
+#: customizer-builder/customizer-settings/meta/post.php:241
+msgid "Disable Featured Image"
+msgstr ""
+
+#: customizer-builder/customizer-settings/meta/default.php:185
+msgid "Disable %1$s %2$s"
+msgstr ""
+
+#: customizer-builder/customizer-settings/meta/default.php:196
+msgid "Disable Share Box"
+msgstr ""
+
+#: customizer-builder/customizer-settings/meta/default.php:202
+#: customizer-builder/customizer-settings/meta/post.php:253
+msgid "Disable Author Box"
+msgstr ""
+
+#: customizer-builder/customizer-settings/meta/default.php:208
+#: customizer-builder/customizer-settings/meta/post.php:259
+msgid "Disable Posts Navigation"
+msgstr ""
+
+#: customizer-builder/customizer-settings/meta/default.php:215
+#: customizer-builder/customizer-settings/meta/page.php:293
+#: customizer-builder/customizer-settings/woo/woo-archives.php:492
+msgid "Page Elements"
+msgstr ""
+
+#: customizer-builder/customizer-settings/meta/default.php:219
+#: customizer-builder/customizer-settings/meta/post.php:271
+msgid "Disable Related Posts"
+msgstr ""
+
+#: customizer-builder/customizer-settings/meta/default.php:225
+#: customizer-builder/customizer-settings/meta/page.php:309
+#: customizer-builder/customizer-settings/meta/post.php:277
+msgid "Disable Header"
+msgstr ""
+
+#: customizer-builder/customizer-settings/meta/default.php:231
+#: customizer-builder/customizer-settings/meta/page.php:315
+#: customizer-builder/customizer-settings/meta/post.php:283
+msgid "Disable Footer"
+msgstr ""
+
+#: customizer-builder/customizer-settings/meta/page.php:31
+#: customizer-builder/customizer-settings/meta/post.php:6
+msgid "Disable Breadcrumb"
+msgstr ""
+
+#: customizer-builder/customizer-settings/meta/page.php:52
+#: customizer-builder/customizer-settings/pages/archive.php:94
+#: customizer-builder/customizer-settings/pages/author.php:109
+#: customizer-builder/customizer-settings/pages/pages.php:48
+#: customizer-builder/customizer-settings/pages/search.php:82
+#: customizer-builder/customizer-settings/woo/woo-archives.php:47
+msgid "Bottom Spacing"
+msgstr ""
+
+#: customizer-builder/customizer-settings/meta/page.php:72
+#: customizer-builder/customizer-settings/pages/pages.php:65
+#: customizer-builder/customizer-settings/woo/woo-single.php:15
+msgid "Page Structure"
+msgstr ""
+
+#: customizer-builder/customizer-settings/meta/page.php:106
+#: customizer-builder/customizer-settings/meta/post.php:47
+#: customizer-builder/customizer-settings/pages/pages.php:94
+#: customizer-builder/customizer-settings/posts/singlepost.php:166
+#: customizer-builder/customizer-settings/woo/woo-general.php:46
+msgid "Fullwidth"
+msgstr ""
+
+#: customizer-builder/customizer-settings/meta/page.php:110
+#: customizer-builder/customizer-settings/meta/post.php:51
+#: customizer-builder/customizer-settings/pages/pages.php:98
+#: customizer-builder/customizer-settings/posts/singlepost.php:170
+msgid "Fullwidth Centered"
+msgstr ""
+
+#: customizer-builder/customizer-settings/meta/page.php:151
+#: customizer-builder/customizer-settings/meta/post.php:92
+msgid "Disable Stretch Layout"
+msgstr ""
+
+#. translators: placeholder here means the actual URL.
+#: customizer-builder/customizer-settings/meta/page.php:200
+#: customizer-builder/customizer-settings/meta/post.php:144
+msgid ""
+"You can customize the global spacing value in General ➝ Layout ➝ %sContent "
+"Area Spacing%s."
+msgstr ""
+
+#: customizer-builder/customizer-settings/meta/page.php:223
+#: customizer-builder/customizer-settings/meta/post.php:167
+#: customizer-builder/customizer-settings/pages/archive.php:112
+#: customizer-builder/customizer-settings/pages/author.php:127
+#: customizer-builder/customizer-settings/pages/pages.php:181
+#: customizer-builder/customizer-settings/pages/search.php:100
+#: customizer-builder/customizer-settings/posts/singlepost.php:212
+#: customizer-builder/customizer-settings/woo/woo-archives.php:69
+#: customizer-builder/customizer-settings/woo/woo-general.php:83
+msgid "Content Area Background"
+msgstr ""
+
+#: customizer-builder/customizer-settings/meta/page.php:238
+#: customizer-builder/customizer-settings/meta/post.php:182
+#: customizer-builder/customizer-settings/pages/pages.php:196
+#: customizer-builder/customizer-settings/posts/singlepost.php:229
+#: customizer-builder/customizer-settings/woo/woo-general.php:98
+msgid "Content Area Shadow"
+msgstr ""
+
+#: customizer-builder/customizer-settings/meta/page.php:257
+#: customizer-builder/customizer-settings/meta/post.php:201
+#: customizer-builder/customizer-settings/pages/pages.php:215
+#: customizer-builder/customizer-settings/posts/singlepost.php:250
+#: customizer-builder/customizer-settings/woo/woo-general.php:117
+msgid "Content Area Padding"
+msgstr ""
+
+#: customizer-builder/customizer-settings/meta/page.php:272
+#: customizer-builder/customizer-settings/meta/post.php:216
+#: customizer-builder/customizer-settings/pages/pages.php:230
+#: customizer-builder/customizer-settings/posts/singlepost.php:267
+#: customizer-builder/customizer-settings/woo/woo-general.php:132
+msgid "Content Area Border Radius"
+msgstr ""
+
+#: customizer-builder/customizer-settings/meta/page.php:303
+#: customizer-builder/customizer-settings/meta/post.php:265
+msgid "Disable Comments"
+msgstr ""
+
+#: customizer-builder/customizer-settings/meta/post.php:247
+msgid "Disable Post Tags"
+msgstr ""
+
+#: customizer-builder/customizer-settings/pages/archive.php:31
+msgid "Prefix"
+msgstr ""
+
+#: customizer-builder/customizer-settings/pages/archive.php:41
+msgid "Archive Title"
+msgstr ""
+
+#: customizer-builder/customizer-settings/pages/archive.php:46
+msgid "Archive Description"
+msgstr ""
+
+#: customizer-builder/customizer-settings/pages/archive.php:47
+msgid ""
+"You have to add Archive Description. It works for Tags and Categories of the "
+"Post."
+msgstr ""
+
+#: customizer-builder/customizer-settings/pages/archive.php:53
+#: customizer-builder/customizer-settings/pages/author.php:86
+#: customizer-builder/customizer-settings/pages/search.php:59
+msgid "Show Post Counts"
+msgstr ""
+
+#: customizer-builder/customizer-settings/pages/archive.php:149
+msgid "Archive Page Layout"
+msgstr ""
+
+#: customizer-builder/customizer-settings/pages/archive.php:150
+msgid "Choose the Archive page layout for your site."
+msgstr ""
+
+#: customizer-builder/customizer-settings/pages/archive.php:159
+#: customizer-builder/customizer-settings/pages/author.php:170
+#: customizer-builder/customizer-settings/pages/search.php:144
+#: customizer-builder/customizer-settings/posts/postoptions.php:24
+msgid "Classic Layout"
+msgstr ""
+
+#: customizer-builder/customizer-settings/pages/archive.php:163
+#: customizer-builder/customizer-settings/pages/author.php:174
+#: customizer-builder/customizer-settings/pages/search.php:148
+#: customizer-builder/customizer-settings/posts/postoptions.php:29
+msgid "Listing Layout"
+msgstr ""
+
+#: customizer-builder/customizer-settings/pages/archive.php:167
+#: customizer-builder/customizer-settings/pages/author.php:178
+#: customizer-builder/customizer-settings/pages/search.php:152
+#: customizer-builder/customizer-settings/posts/postoptions.php:34
+msgid "Grid Layout"
+msgstr ""
+
+#: customizer-builder/customizer-settings/pages/archive.php:171
+#: customizer-builder/customizer-settings/pages/author.php:182
+#: customizer-builder/customizer-settings/pages/search.php:156
+#: customizer-builder/customizer-settings/posts/postoptions.php:39
+msgid "Masonry Grid Layout"
+msgstr ""
+
+#: customizer-builder/customizer-settings/pages/archive.php:187
+#: customizer-builder/customizer-settings/pages/author.php:198
+#: customizer-builder/customizer-settings/pages/search.php:172
+#: customizer-builder/customizer-settings/posts/postoptions.php:55
+msgid "Post Content"
+msgstr ""
+
+#: customizer-builder/customizer-settings/pages/archive.php:202
+#: customizer-builder/customizer-settings/pages/author.php:213
+#: customizer-builder/customizer-settings/pages/search.php:187
+#: customizer-builder/customizer-settings/posts/postoptions.php:72
+msgid "Choose the number of words to display in excerpt."
+msgstr ""
+
+#: customizer-builder/customizer-settings/pages/archive.php:249
+#: customizer-builder/customizer-settings/pages/author.php:260
+#: customizer-builder/customizer-settings/pages/search.php:234
+#: customizer-builder/customizer-settings/posts/postoptions.php:119
+#: customizer-builder/panel-builder/footer/contacts/options.php:541
+#: customizer-builder/panel-builder/footer/copyright/options.php:173
+#: customizer-builder/panel-builder/footer/menu/options.php:182
+#: customizer-builder/panel-builder/footer/socials/options.php:300
+#: customizer-builder/panel-builder/header/button/options.php:590
+#: customizer-builder/panel-builder/header/cart/options.php:348
+#: customizer-builder/panel-builder/header/contacts/options.php:814
+#: customizer-builder/panel-builder/header/logo/options.php:666
+#: customizer-builder/panel-builder/header/menu/options.php:449
+#: customizer-builder/panel-builder/header/mobile-menu/options.php:155
+#: customizer-builder/panel-builder/header/socials/options.php:493
+#: customizer-builder/panel-builder/header/text/options.php:217
+#: customizer-builder/panel-builder/header/trigger/options.php:387
+msgid "Margin"
+msgstr ""
+
+#: customizer-builder/customizer-settings/pages/archive.php:313
+#: customizer-builder/customizer-settings/pages/author.php:324
+#: customizer-builder/customizer-settings/pages/search.php:298
+#: customizer-builder/customizer-settings/posts/postoptions.php:192
+msgid "Posts Navigation"
+msgstr ""
+
+#: customizer-builder/customizer-settings/pages/archive.php:320
+#: customizer-builder/customizer-settings/pages/author.php:331
+#: customizer-builder/customizer-settings/pages/search.php:305
+#: customizer-builder/customizer-settings/posts/postoptions.php:200
+#: customizer-builder/customizer-settings/woo/woo-archives.php:517
+msgid "Numbered"
+msgstr ""
+
+#: customizer-builder/customizer-settings/pages/archive.php:341
+#: customizer-builder/customizer-settings/pages/author.php:352
+#: customizer-builder/customizer-settings/pages/pages.php:72
+#: customizer-builder/customizer-settings/pages/search.php:326
+#: customizer-builder/customizer-settings/posts/postoptions.php:222
+#: customizer-builder/customizer-settings/posts/singlepost.php:144
+msgid "Sidebar Layout"
+msgstr ""
+
+#: customizer-builder/customizer-settings/pages/archive.php:349
+msgid "Choose sidebar layout for Archive page."
+msgstr ""
+
+#: customizer-builder/customizer-settings/pages/archive.php:354
+#: customizer-builder/customizer-settings/pages/author.php:365
+#: customizer-builder/customizer-settings/pages/search.php:339
+#: customizer-builder/customizer-settings/posts/postoptions.php:235
+#: customizer-builder/init.php:103 inc/widgets.php:22
+msgid "Default Sidebar"
+msgstr ""
+
+#: customizer-builder/customizer-settings/pages/archive.php:371
+msgid "Archive Container"
+msgstr ""
+
+#: customizer-builder/customizer-settings/pages/archive.php:383
+msgid "Choose Archive page container layout."
+msgstr ""
+
+#: customizer-builder/customizer-settings/pages/archive.php:386
+#: customizer-builder/customizer-settings/pages/author.php:397
+#: customizer-builder/customizer-settings/pages/pages.php:117
+#: customizer-builder/customizer-settings/pages/search.php:371
+#: customizer-builder/customizer-settings/posts/postoptions.php:269
+#: customizer-builder/customizer-settings/posts/singlepost.php:192
+#: customizer-builder/customizer-settings/woo/woo-general.php:65
+msgid "Stretch Layout"
+msgstr ""
+
+#: customizer-builder/customizer-settings/pages/archive.php:387
+#: customizer-builder/customizer-settings/pages/author.php:398
+#: customizer-builder/customizer-settings/pages/pages.php:118
+#: customizer-builder/customizer-settings/pages/search.php:372
+#: customizer-builder/customizer-settings/posts/postoptions.php:270
+#: customizer-builder/customizer-settings/posts/singlepost.php:193
+#: customizer-builder/customizer-settings/woo/woo-general.php:66
+msgid "This setting stretches the container width."
+msgstr ""
+
+#: customizer-builder/customizer-settings/pages/author.php:28
+msgid "Author Label"
+msgstr ""
+
+#: customizer-builder/customizer-settings/pages/author.php:38
+msgid "Show Avatar"
+msgstr ""
+
+#: customizer-builder/customizer-settings/pages/author.php:57
+msgid "Avatar Shape"
+msgstr ""
+
+#: customizer-builder/customizer-settings/pages/author.php:163
+msgid "Author Page Layout"
+msgstr ""
+
+#: customizer-builder/customizer-settings/pages/author.php:164
+#: customizer-builder/customizer-settings/pages/author.php:360
+msgid "Choose sidebar layout for Author page."
+msgstr ""
+
+#: customizer-builder/customizer-settings/pages/author.php:382
+msgid "Author Container"
+msgstr ""
+
+#: customizer-builder/customizer-settings/pages/author.php:394
+msgid "Choose Author page container layout."
+msgstr ""
+
+#: customizer-builder/customizer-settings/pages/pages.php:80
+msgid "Choose sidebar layout for page."
+msgstr ""
+
+#: customizer-builder/customizer-settings/pages/pages.php:103
+msgid "Page Layout"
+msgstr ""
+
+#: customizer-builder/customizer-settings/pages/pages.php:114
+msgid "Choose page container layout."
+msgstr ""
+
+#: customizer-builder/customizer-settings/pages/pages.php:142
+#: customizer-builder/customizer-settings/posts/singlepost.php:395
+msgid ""
+"You can set the spacing value under General > Layouts > Container. Click "
+"%1$shere%2$s to configure it."
+msgstr ""
+
+#: customizer-builder/customizer-settings/pages/search.php:35
+msgid "Search Page Label"
+msgstr ""
+
+#: customizer-builder/customizer-settings/pages/search.php:42
+#: inc/template-functions.php:574
+msgid "Search Result for"
+msgstr ""
+
+#: customizer-builder/customizer-settings/pages/search.php:114
+msgid "Search Font Color"
+msgstr ""
+
+#: customizer-builder/customizer-settings/pages/search.php:137
+msgid "Search Page Layout"
+msgstr ""
+
+#: customizer-builder/customizer-settings/pages/search.php:138
+msgid "Choose the search page layout for your site."
+msgstr ""
+
+#: customizer-builder/customizer-settings/pages/search.php:334
+msgid "Choose sidebar layout for search page."
+msgstr ""
+
+#: customizer-builder/customizer-settings/pages/search.php:356
+msgid "Search Container"
+msgstr ""
+
+#: customizer-builder/customizer-settings/pages/search.php:368
+msgid "Choose search page container layout."
+msgstr ""
+
+#: customizer-builder/customizer-settings/posts/postoptions.php:17
+msgid "Blog Page Layout"
+msgstr ""
+
+#: customizer-builder/customizer-settings/posts/postoptions.php:18
+msgid "Choose the Blog page layout for your site."
+msgstr ""
+
+#: customizer-builder/customizer-settings/posts/postoptions.php:230
+msgid "Choose sidebar layout for Blog page."
+msgstr ""
+
+#: customizer-builder/customizer-settings/posts/postoptions.php:252
+msgid "Blog Container"
+msgstr ""
+
+#: customizer-builder/customizer-settings/posts/postoptions.php:266
+msgid "Choose Blog page container layout."
+msgstr ""
+
+#: customizer-builder/customizer-settings/posts/singlepost.php:38
+msgid "Link Highlights"
+msgstr ""
+
+#: customizer-builder/customizer-settings/posts/singlepost.php:49
+msgid "Select Style"
+msgstr ""
+
+#: customizer-builder/customizer-settings/posts/singlepost.php:56
+msgid "Style 1"
+msgstr ""
+
+#: customizer-builder/customizer-settings/posts/singlepost.php:57
+msgid "Style 2"
+msgstr ""
+
+#: customizer-builder/customizer-settings/posts/singlepost.php:152
+msgid "Choose sidebar layout for post."
+msgstr ""
+
+#: customizer-builder/customizer-settings/posts/singlepost.php:175
+msgid "Container Layout"
+msgstr ""
+
+#: customizer-builder/customizer-settings/posts/singlepost.php:189
+msgid "Choose post container layout."
+msgstr ""
+
+#: customizer-builder/customizer-settings/posts/singlepost.php:296
+msgid "Post Tags"
+msgstr ""
+
+#: customizer-builder/customizer-settings/posts/singlepost.php:302
+#: inc/template-functions.php:168
+msgid "Post Navigation"
+msgstr ""
+
+#: customizer-builder/customizer-settings/posts/singlepost.php:308
+msgid "Author Box"
+msgstr ""
+
+#: customizer-builder/customizer-settings/posts/singlepost.php:314
+#: inc/defaults.php:374
+msgid "Related Posts"
+msgstr ""
+
+#: customizer-builder/customizer-settings/posts/singlepost.php:315
+msgid "This setting shows related posts of your posts."
+msgstr ""
+
+#: customizer-builder/customizer-settings/posts/singlepost.php:321
+msgid "Section Title"
+msgstr ""
+
+#: customizer-builder/customizer-settings/posts/singlepost.php:333
+msgid "Show Posts based on"
+msgstr ""
+
+#: customizer-builder/customizer-settings/posts/singlepost.php:340
+#: customizer-builder/includes/integrations/custom-post-types.php:156
+#: customizer-builder/includes/integrations/custom-post-types.php:163
+msgid "Category"
+msgstr ""
+
+#: customizer-builder/customizer-settings/posts/singlepost.php:341
+msgid "Tags"
+msgstr ""
+
+#: customizer-builder/customizer-settings/posts/singlepost.php:354
+msgid "Posts Per Row"
+msgstr ""
+
+#: customizer-builder/customizer-settings/posts/singlepost.php:363
+msgid "Related Posts After Comments"
+msgstr ""
+
+#: customizer-builder/customizer-settings/posts/singlepost.php:366
+msgid "Enable to show related posts after the comment section."
+msgstr ""
+
+#: customizer-builder/customizer-settings/posts/singlepost.php:381
+msgid "Move Comment form above Comments list"
+msgstr ""
+
+#: customizer-builder/customizer-settings/posts/singlepost.php:386
+msgid "Move Comment section below the content"
+msgstr ""
+
+#: customizer-builder/customizer-settings/single-elements/featured-image.php:29
+msgid "Image Visibility"
+msgstr ""
+
+#: customizer-builder/customizer-settings/woo/woo-archives.php:15
+msgid "Shop Title"
+msgstr ""
+
+#: customizer-builder/customizer-settings/woo/woo-archives.php:106
+msgid "Shop Structure"
+msgstr ""
+
+#: customizer-builder/customizer-settings/woo/woo-archives.php:109
+msgid "Columns & Rows"
+msgstr ""
+
+#: customizer-builder/customizer-settings/woo/woo-archives.php:154
+msgid "Image"
+msgstr ""
+
+#: customizer-builder/customizer-settings/woo/woo-archives.php:172
+msgid "Image Width"
+msgstr ""
+
+#: customizer-builder/customizer-settings/woo/woo-archives.php:173
+msgid "Image height will be automatically calculated based on the image ratio."
+msgstr ""
+
+#: customizer-builder/customizer-settings/woo/woo-archives.php:194
+msgid "Width"
+msgstr ""
+
+#: customizer-builder/customizer-settings/woo/woo-archives.php:207
+msgid "Height"
+msgstr ""
+
+#: customizer-builder/customizer-settings/woo/woo-archives.php:211
+#: customizer-builder/customizer-settings/woo/woo-single.php:27
+msgid "Star Rating"
+msgstr ""
+
+#: customizer-builder/customizer-settings/woo/woo-archives.php:221
+msgid "Sale Badge"
+msgstr ""
+
+#: customizer-builder/customizer-settings/woo/woo-archives.php:231
+msgid "Sale Badge Design"
+msgstr ""
+
+#: customizer-builder/customizer-settings/woo/woo-archives.php:245
+msgid "Card Design"
+msgstr ""
+
+#: customizer-builder/customizer-settings/woo/woo-archives.php:259
+msgid "Content Alignment"
+msgstr ""
+
+#: customizer-builder/customizer-settings/woo/woo-archives.php:283
+msgid "Title Color"
+msgstr ""
+
+#: customizer-builder/customizer-settings/woo/woo-archives.php:314
+msgid "Sales Badge Color"
+msgstr ""
+
+#: customizer-builder/customizer-settings/woo/woo-archives.php:342
+msgid "Price Color"
+msgstr ""
+
+#: customizer-builder/customizer-settings/woo/woo-archives.php:364
+msgid "Button Text Color"
+msgstr ""
+
+#: customizer-builder/customizer-settings/woo/woo-archives.php:396
+msgid "Button Background Color"
+msgstr ""
+
+#: customizer-builder/customizer-settings/woo/woo-archives.php:430
+msgid "Card Caption Background Color"
+msgstr ""
+
+#: customizer-builder/customizer-settings/woo/woo-archives.php:451
+msgid "Card Caption Box Shadow"
+msgstr ""
+
+#: customizer-builder/customizer-settings/woo/woo-archives.php:496
+msgid "Shop Sort"
+msgstr ""
+
+#: customizer-builder/customizer-settings/woo/woo-archives.php:503
+msgid "Shop Results Count"
+msgstr ""
+
+#: customizer-builder/customizer-settings/woo/woo-archives.php:510
+msgid "Navigation"
+msgstr ""
+
+#: customizer-builder/customizer-settings/woo/woo-general.php:16
+msgid "WooCommerce Structure"
+msgstr ""
+
+#: customizer-builder/customizer-settings/woo/woo-general.php:24
+msgid "WooCommerce Layout"
+msgstr ""
+
+#: customizer-builder/customizer-settings/woo/woo-general.php:32
+msgid "Choose site layout."
+msgstr ""
+
+#: customizer-builder/customizer-settings/woo/woo-general.php:51
+msgid "Shop Page Layout"
+msgstr ""
+
+#: customizer-builder/customizer-settings/woo/woo-general.php:62
+msgid "Choose page layout."
+msgstr ""
+
+#: customizer-builder/customizer-settings/woo/woo-general.php:148
+msgid "WooCommerce Button Settings"
+msgstr ""
+
+#: customizer-builder/customizer-settings/woo/woo-general.php:150
+msgid ""
+"WooCommerce Button works for %1$sAdd to cart%2$s Button, %1$sCart Page%2$s "
+"Button, %1$sCheckout Page%2$s Buttons, %1$sMy account Page%2$s button and "
+"other %1$sMessage%2$s buttons"
+msgstr ""
+
+#: customizer-builder/customizer-settings/woo/woo-single.php:33
+msgid "Product Meta"
+msgstr ""
+
+#: customizer-builder/customizer-settings/woo/woo-single.php:39
+msgid "Related Products Title"
+msgstr ""
+
+#: customizer-builder/customizer-settings/woo/woo-single.php:51
+msgid "Number of Products"
+msgstr ""
+
+#: customizer-builder/customizer-settings/woo/woo-single.php:61
+msgid "Number of Products per Row"
+msgstr ""
+
+#: customizer-builder/customizer-settings/woo/woo-single.php:77
+msgid "Product Title Color"
+msgstr ""
+
+#: customizer-builder/customizer-settings/woo/woo-single.php:96
+msgid "Product Price Color"
+msgstr ""
+
+#: customizer-builder/customizer-settings/woo/woo-storenotice.php:13
+msgid "Show events or promotions to your visitors."
+msgstr ""
+
+#: customizer-builder/customizer-settings/woo/woo-storenotice.php:32
+msgid ""
+"This is a demo store for testing purposes &mdash; no orders shall be "
+"fulfilled."
+msgstr ""
+
+#: customizer-builder/customizer-settings/woo/woo-storenotice.php:42
+msgid "Notice Position"
+msgstr ""
+
+#: customizer-builder/customizer-settings/woo/woo-storenotice.php:48
+msgid "Top"
+msgstr ""
+
+#: customizer-builder/customizer-settings/woo/woo-storenotice.php:49
+msgid "Bottom"
+msgstr ""
+
+#: customizer-builder/customizer-settings/woo/woo-storenotice.php:59
+msgid "Notice Font Color"
+msgstr ""
+
+#: customizer-builder/customizer-settings/woo/woo-storenotice.php:81
+msgid "Notice Background Color"
+msgstr ""
+
+#: customizer-builder/includes/components/builder/builder-footer-renderer.php:340
+#: customizer-builder/includes/components/builder/builder-header-renderer.php:406
+msgid "Item %s not registered or doesn't have a view.php file."
+msgstr ""
+
+#: customizer-builder/includes/components/builder/header-elements.php:289
+msgid "Shopping Cart"
+msgstr ""
+
+#: customizer-builder/includes/components/images.php:384
+msgid "Default image"
+msgstr ""
+
+#: customizer-builder/includes/components/pagination.php:37
+msgid "No more posts to load."
+msgstr ""
+
+#: customizer-builder/includes/components/pagination.php:65
+msgid "No more products to load."
+msgstr ""
+
+#: customizer-builder/includes/components/pagination.php:108
+msgid "Loading..."
+msgstr ""
+
+#: customizer-builder/includes/components/pagination.php:173
+#: inc/woocommerce-functions.php:124
+msgid "Prev"
+msgstr ""
+
+#: customizer-builder/includes/components/pagination.php:175
+#: inc/template-functions.php:178 inc/woocommerce-functions.php:125
+msgid "Next"
+msgstr ""
+
+#: customizer-builder/includes/components/post-meta.php:111
+#: customizer-builder/includes/components/post-meta.php:270
+#: customizer-builder/includes/components/post-meta.php:322
+msgid "On"
+msgstr ""
+
+#: customizer-builder/includes/components/post-meta.php:119
+msgid "In"
+msgstr ""
+
+#: customizer-builder/includes/components/post-meta.php:126
+msgid "Reading Time: "
+msgstr ""
+
+#. translators: %s: Author's display name.
+#: customizer-builder/includes/components/post-meta.php:218
+msgid "Posts by %s"
+msgstr ""
+
+#. translators: text for one review
+#: customizer-builder/includes/components/post-meta.php:351
+msgid "1 Comment"
+msgstr ""
+
+#. translators: % refers to the number of comments, when more than 1
+#: customizer-builder/includes/components/post-meta.php:353
+msgid "% Comments"
+msgstr ""
+
+#. translators: text for one review
+#: customizer-builder/includes/components/post-meta.php:357
+msgid "1 Review"
+msgstr ""
+
+#. translators: % refers to the number of reviews, when more than 1
+#: customizer-builder/includes/components/post-meta.php:359
+msgid "% Reviews"
+msgstr ""
+
+#: customizer-builder/includes/components/post-meta.php:646
+msgid "Words per minute"
+msgstr ""
+
+#: customizer-builder/includes/components/social-box.php:97
+msgid "Share this post"
+msgstr ""
+
+#: customizer-builder/includes/components/social-box.php:156
+#: customizer-builder/includes/components/social-box.php:1329
+msgid "Facebook"
+msgstr ""
+
+#: customizer-builder/includes/components/social-box.php:169
+#: customizer-builder/includes/components/social-box.php:1333
+msgid "Twitter"
+msgstr ""
+
+#: customizer-builder/includes/components/social-box.php:195
+#: customizer-builder/includes/components/social-box.php:1341
+msgid "Pinterest"
+msgstr ""
+
+#: customizer-builder/includes/components/social-box.php:275
+#: customizer-builder/includes/components/social-box.php:1361
+msgid "LinkedIn"
+msgstr ""
+
+#: customizer-builder/includes/components/social-box.php:312
+#: customizer-builder/includes/components/social-box.php:1369
+msgid "Parler"
+msgstr ""
+
+#: customizer-builder/includes/components/social-box.php:1337
+msgid "Instagram"
+msgstr ""
+
+#: customizer-builder/includes/components/social-box.php:1345
+msgid "Dribbble"
+msgstr ""
+
+#: customizer-builder/includes/components/social-box.php:1349
+msgid "Behance"
+msgstr ""
+
+#: customizer-builder/includes/components/social-box.php:1353
+msgid "Unsplash"
+msgstr ""
+
+#: customizer-builder/includes/components/social-box.php:1357
+msgid "500px"
+msgstr ""
+
+#: customizer-builder/includes/components/social-box.php:1365
+msgid "WordPress"
+msgstr ""
+
+#: customizer-builder/includes/components/social-box.php:1373
+#: customizer-builder/includes/helpers.php:1217
+#: customizer-builder/panel-builder/header/button/options.php:51
+msgid "Medium"
+msgstr ""
+
+#: customizer-builder/includes/components/social-box.php:1377
+msgid "Slack"
+msgstr ""
+
+#: customizer-builder/includes/components/social-box.php:1381
+msgid "CodePen"
+msgstr ""
+
+#: customizer-builder/includes/components/social-box.php:1385
+msgid "Reddit"
+msgstr ""
+
+#: customizer-builder/includes/components/social-box.php:1389
+msgid "Twitch"
+msgstr ""
+
+#: customizer-builder/includes/components/social-box.php:1393
+msgid "TikTok"
+msgstr ""
+
+#: customizer-builder/includes/components/social-box.php:1397
+msgid "Snapchat"
+msgstr ""
+
+#: customizer-builder/includes/components/social-box.php:1401
+msgid "Spotify"
+msgstr ""
+
+#: customizer-builder/includes/components/social-box.php:1405
+msgid "SoundCloud"
+msgstr ""
+
+#: customizer-builder/includes/components/social-box.php:1409
+msgid "Apple Podcasts"
+msgstr ""
+
+#: customizer-builder/includes/components/social-box.php:1413
+msgid "Patreon"
+msgstr ""
+
+#: customizer-builder/includes/components/social-box.php:1417
+msgid "Alignable"
+msgstr ""
+
+#: customizer-builder/includes/components/social-box.php:1421
+msgid "Skype"
+msgstr ""
+
+#: customizer-builder/includes/components/social-box.php:1425
+msgid "GitHub"
+msgstr ""
+
+#: customizer-builder/includes/components/social-box.php:1429
+msgid "GitLab"
+msgstr ""
+
+#: customizer-builder/includes/components/social-box.php:1433
+msgid "YouTube"
+msgstr ""
+
+#: customizer-builder/includes/components/social-box.php:1437
+msgid "Vimeo"
+msgstr ""
+
+#: customizer-builder/includes/components/social-box.php:1441
+msgid "DTube"
+msgstr ""
+
+#: customizer-builder/includes/components/social-box.php:1445
+msgid "Facebook Group"
+msgstr ""
+
+#: customizer-builder/includes/components/social-box.php:1449
+msgid "Discord"
+msgstr ""
+
+#: customizer-builder/includes/components/social-box.php:1453
+msgid "TripAdvisor"
+msgstr ""
+
+#: customizer-builder/includes/components/social-box.php:1457
+msgid "Foursquare"
+msgstr ""
+
+#: customizer-builder/includes/components/social-box.php:1461
+msgid "Yelp"
+msgstr ""
+
+#: customizer-builder/includes/components/social-box.php:1465
+msgid "VK"
+msgstr ""
+
+#: customizer-builder/includes/components/social-box.php:1469
+msgid "Odnoklassniki"
+msgstr ""
+
+#: customizer-builder/includes/components/social-box.php:1473
+msgid "RSS"
+msgstr ""
+
+#: customizer-builder/includes/components/social-box.php:1477
+msgid "Xing"
+msgstr ""
+
+#: customizer-builder/includes/components/social-box.php:1481
+msgid "WhatsApp"
+msgstr ""
+
+#: customizer-builder/includes/components/social-box.php:1485
+msgid "Viber"
+msgstr ""
+
+#: customizer-builder/includes/components/social-box.php:1489
+msgid "Telegram"
+msgstr ""
+
+#: customizer-builder/includes/components/social-box.php:1493
+msgid "Weibo"
+msgstr ""
+
+#: customizer-builder/includes/components/social-box.php:1497
+msgid "Tumblr"
+msgstr ""
+
+#: customizer-builder/includes/components/social-box.php:1501
+msgid "QQ"
+msgstr ""
+
+#: customizer-builder/includes/components/social-box.php:1505
+msgid "WeChat"
+msgstr ""
+
+#: customizer-builder/includes/components/social-box.php:1509
+msgid "Strava"
+msgstr ""
+
+#: customizer-builder/includes/components/social-box.php:1513
+msgid "Flickr"
+msgstr ""
+
+#: customizer-builder/includes/components/social-box.php:1517
+#: customizer-builder/panel-builder/footer/contacts/options.php:84
+#: customizer-builder/panel-builder/header/contacts/options.php:83
+msgid "Phone"
+msgstr ""
+
+#: customizer-builder/includes/components/social-box.php:1521
+#: customizer-builder/panel-builder/footer/contacts/options.php:193
+#: customizer-builder/panel-builder/header/contacts/options.php:192
+msgid "Email"
+msgstr ""
+
+#: customizer-builder/includes/defaults.php:363
+msgid "Related Articles"
+msgstr ""
+
+#: customizer-builder/includes/defaults.php:372
+msgid "Related Products"
+msgstr ""
+
+#: customizer-builder/includes/helpers.php:313
+msgid "Click here to add a menu &rarr;"
+msgstr ""
+
+#: customizer-builder/includes/helpers.php:1216
+msgid "Thumbnail"
+msgstr ""
+
+#: customizer-builder/includes/helpers.php:1218
+msgid "Medium Large"
+msgstr ""
+
+#: customizer-builder/includes/helpers.php:1219
+#: customizer-builder/panel-builder/header/button/options.php:52
+msgid "Large"
+msgstr ""
+
+#: customizer-builder/includes/helpers.php:1220
+#: customizer-builder/includes/helpers.php:1226
+msgid "Full Size"
+msgstr ""
+
+#: customizer-builder/includes/helpers.php:1990
+msgid "Archive"
+msgstr ""
+
+#: customizer-builder/includes/helpers.php:2003 inc/template-functions.php:446
+msgid "Browsing Category:"
+msgstr ""
+
+#: customizer-builder/includes/helpers.php:2016 inc/template-functions.php:460
+msgid "Browsing Tag:"
+msgstr ""
+
+#: customizer-builder/includes/helpers.php:2019 inc/template-functions.php:474
+msgid "Browsing Year:"
+msgstr ""
+
+#: customizer-builder/includes/helpers.php:2022 inc/template-functions.php:487
+msgid "Browsing Month:"
+msgstr ""
+
+#: customizer-builder/includes/helpers.php:2025 inc/template-functions.php:500
+msgid "Browsing Day:"
+msgstr ""
+
+#: customizer-builder/includes/integrations/custom-post-types.php:157
+#: customizer-builder/includes/integrations/custom-post-types.php:164
+msgid "Tag"
+msgstr ""
+
+#: customizer-builder/init.php:106 inc/widgets.php:25
+msgid "Footer One"
+msgstr ""
+
+#: customizer-builder/init.php:107 inc/widgets.php:26
+msgid "Add footer one widgets here."
+msgstr ""
+
+#: customizer-builder/init.php:110 inc/widgets.php:29
+msgid "Footer Two"
+msgstr ""
+
+#: customizer-builder/init.php:111 inc/widgets.php:30
+msgid "Add footer two widgets here."
+msgstr ""
+
+#: customizer-builder/init.php:114 inc/widgets.php:33
+msgid "Footer Three"
+msgstr ""
+
+#: customizer-builder/init.php:115 inc/widgets.php:34
+msgid "Add footer three widgets here."
+msgstr ""
+
+#: customizer-builder/init.php:118 inc/widgets.php:37
+msgid "Footer Four"
+msgstr ""
+
+#: customizer-builder/init.php:119 inc/widgets.php:38
+msgid "Add footer four widgets here."
+msgstr ""
+
+#: customizer-builder/init.php:122 inc/widgets.php:41
+msgid "Footer Five"
+msgstr ""
+
+#: customizer-builder/init.php:123 inc/widgets.php:42
+msgid "Add footer five widgets here."
+msgstr ""
+
+#: customizer-builder/init.php:126 inc/widgets.php:45
+msgid "Footer Six"
+msgstr ""
+
+#: customizer-builder/init.php:127 inc/widgets.php:46
+msgid "Add footer six widgets here."
+msgstr ""
+
+#: customizer-builder/init.php:177
+msgid "Show more"
+msgstr ""
+
+#: customizer-builder/init.php:304
+msgid "Display Coupon Form"
+msgstr ""
+
+#: customizer-builder/init.php:318
+msgid "WordPress Defaults"
+msgstr ""
+
+#: customizer-builder/init.php:339
+msgid "Configure Site Logo from %1$shere%2$s."
+msgstr ""
+
+#: customizer-builder/panel-builder/footer/bottom-row/config.php:4
+#: customizer-builder/panel-builder/header/bottom-row/config.php:4
+msgid "Bottom Row"
+msgstr ""
+
+#: customizer-builder/panel-builder/footer/contacts/config.php:4
+#: customizer-builder/panel-builder/header/contacts/config.php:4
+msgid "Contacts"
+msgstr ""
+
+#: customizer-builder/panel-builder/footer/contacts/options.php:28
+#: customizer-builder/panel-builder/footer/copyright/options.php:18
+#: customizer-builder/panel-builder/footer/menu/options.php:22
+#: customizer-builder/panel-builder/footer/middle-row/options.php:45
+#: customizer-builder/panel-builder/footer/socials/options.php:18
+#: customizer-builder/panel-builder/footer/widget-area-1/options.php:22
+#: customizer-builder/panel-builder/header/button/options.php:18
+#: customizer-builder/panel-builder/header/cart/options.php:19
+#: customizer-builder/panel-builder/header/contacts/options.php:28
+#: customizer-builder/panel-builder/header/logo/options.php:19
+#: customizer-builder/panel-builder/header/menu/options.php:22
+#: customizer-builder/panel-builder/header/middle-row/options.php:41
+#: customizer-builder/panel-builder/header/mobile-menu/options.php:16
+#: customizer-builder/panel-builder/header/search/options.php:42
+#: customizer-builder/panel-builder/header/socials/options.php:18
+#: customizer-builder/panel-builder/header/text/options.php:18
+#: customizer-builder/panel-builder/header/trigger/options.php:18
+msgid "Hide"
+msgstr ""
+
+#: customizer-builder/panel-builder/footer/contacts/options.php:42
+#: customizer-builder/panel-builder/footer/contacts/options.php:198
+#: customizer-builder/panel-builder/footer/contacts/view.php:16
+#: customizer-builder/panel-builder/header/contacts/options.php:41
+#: customizer-builder/panel-builder/header/contacts/options.php:197
+#: customizer-builder/panel-builder/header/contacts/view.php:18
+msgid "Email:"
+msgstr ""
+
+#: customizer-builder/panel-builder/footer/contacts/options.php:50
+#: customizer-builder/panel-builder/footer/contacts/options.php:90
+#: customizer-builder/panel-builder/footer/contacts/view.php:24
+#: customizer-builder/panel-builder/header/contacts/options.php:49
+#: customizer-builder/panel-builder/header/contacts/options.php:89
+#: customizer-builder/panel-builder/header/contacts/view.php:26
+msgid "Phone:"
+msgstr ""
+
+#: customizer-builder/panel-builder/footer/contacts/options.php:59
+#: customizer-builder/panel-builder/header/contacts/options.php:58
+msgid "Address"
+msgstr ""
+
+#: customizer-builder/panel-builder/footer/contacts/options.php:64
+#: customizer-builder/panel-builder/header/contacts/options.php:63
+msgid "Address:"
+msgstr ""
+
+#: customizer-builder/panel-builder/footer/contacts/options.php:77
+#: customizer-builder/panel-builder/footer/contacts/options.php:103
+#: customizer-builder/panel-builder/footer/contacts/options.php:130
+#: customizer-builder/panel-builder/footer/contacts/options.php:157
+#: customizer-builder/panel-builder/footer/contacts/options.php:184
+#: customizer-builder/panel-builder/footer/contacts/options.php:211
+#: customizer-builder/panel-builder/footer/contacts/options.php:238
+#: customizer-builder/panel-builder/header/contacts/options.php:76
+#: customizer-builder/panel-builder/header/contacts/options.php:102
+#: customizer-builder/panel-builder/header/contacts/options.php:129
+#: customizer-builder/panel-builder/header/contacts/options.php:156
+#: customizer-builder/panel-builder/header/contacts/options.php:183
+#: customizer-builder/panel-builder/header/contacts/options.php:210
+#: customizer-builder/panel-builder/header/contacts/options.php:237
+msgid "Link (optional)"
+msgstr ""
+
+#: customizer-builder/panel-builder/footer/contacts/options.php:117
+#: customizer-builder/panel-builder/header/contacts/options.php:116
+msgid "Mobile:"
+msgstr ""
+
+#: customizer-builder/panel-builder/footer/contacts/options.php:139
+#: customizer-builder/panel-builder/header/contacts/options.php:138
+msgid "Work Hours"
+msgstr ""
+
+#: customizer-builder/panel-builder/footer/contacts/options.php:144
+#: customizer-builder/panel-builder/header/contacts/options.php:143
+msgid "Opening hours"
+msgstr ""
+
+#: customizer-builder/panel-builder/footer/contacts/options.php:166
+#: customizer-builder/panel-builder/header/contacts/options.php:165
+msgid "Fax"
+msgstr ""
+
+#: customizer-builder/panel-builder/footer/contacts/options.php:171
+#: customizer-builder/panel-builder/header/contacts/options.php:170
+msgid "Fax:"
+msgstr ""
+
+#: customizer-builder/panel-builder/footer/contacts/options.php:220
+#: customizer-builder/panel-builder/header/contacts/options.php:219
+msgid "Website"
+msgstr ""
+
+#: customizer-builder/panel-builder/footer/contacts/options.php:225
+#: customizer-builder/panel-builder/header/contacts/options.php:224
+msgid "Website:"
+msgstr ""
+
+#: customizer-builder/panel-builder/footer/contacts/options.php:254
+#: customizer-builder/panel-builder/header/contacts/options.php:253
+msgid "Open Links In New Tab"
+msgstr ""
+
+#: customizer-builder/panel-builder/footer/contacts/options.php:264
+#: customizer-builder/panel-builder/footer/socials/options.php:56
+#: customizer-builder/panel-builder/header/contacts/options.php:263
+#: customizer-builder/panel-builder/header/socials/options.php:59
+msgid "Icons Size"
+msgstr ""
+
+#: customizer-builder/panel-builder/footer/contacts/options.php:274
+#: customizer-builder/panel-builder/footer/menu/options.php:54
+#: customizer-builder/panel-builder/footer/middle-row/options.php:401
+#: customizer-builder/panel-builder/header/contacts/options.php:273
+#: customizer-builder/panel-builder/header/menu/options.php:110
+msgid "Items Spacing"
+msgstr ""
+
+#: customizer-builder/panel-builder/footer/contacts/options.php:285
+#: customizer-builder/panel-builder/footer/socials/options.php:90
+#: customizer-builder/panel-builder/header/contacts/options.php:284
+#: customizer-builder/panel-builder/header/socials/options.php:93
+msgid "Icons Shape Type"
+msgstr ""
+
+#: customizer-builder/panel-builder/footer/contacts/options.php:293
+#: customizer-builder/panel-builder/footer/socials/options.php:98
+#: customizer-builder/panel-builder/header/contacts/options.php:292
+#: customizer-builder/panel-builder/header/socials/options.php:101
+msgid "Rounded"
+msgstr ""
+
+#: customizer-builder/panel-builder/footer/contacts/options.php:305
+#: customizer-builder/panel-builder/footer/socials/options.php:109
+#: customizer-builder/panel-builder/header/contacts/options.php:304
+#: customizer-builder/panel-builder/header/socials/options.php:112
+msgid "Shape Fill Type"
+msgstr ""
+
+#: customizer-builder/panel-builder/footer/contacts/options.php:312
+#: customizer-builder/panel-builder/footer/socials/options.php:116
+#: customizer-builder/panel-builder/header/contacts/options.php:311
+#: customizer-builder/panel-builder/header/socials/options.php:119
+#: customizer-builder/panel-builder/header/trigger/options.php:60
+msgid "Solid"
+msgstr ""
+
+#: customizer-builder/panel-builder/footer/contacts/options.php:330
+#: customizer-builder/panel-builder/footer/copyright/options.php:120
+#: customizer-builder/panel-builder/footer/menu/options.php:139
+#: customizer-builder/panel-builder/header/contacts/options.php:329
+#: customizer-builder/panel-builder/header/menu/options.php:155
+#: customizer-builder/panel-builder/header/menu/options.php:553
+#: customizer-builder/panel-builder/header/mobile-menu/options.php:66
+#: customizer-builder/panel-builder/header/text/options.php:119
+msgid "Font"
+msgstr ""
+
+#: customizer-builder/panel-builder/footer/contacts/options.php:345
+#: customizer-builder/panel-builder/footer/contacts/options.php:417
+#: customizer-builder/panel-builder/footer/contacts/options.php:486
+#: customizer-builder/panel-builder/header/button/options.php:221
+#: customizer-builder/panel-builder/header/button/options.php:405
+#: customizer-builder/panel-builder/header/cart/options.php:106
+#: customizer-builder/panel-builder/header/cart/options.php:227
+#: customizer-builder/panel-builder/header/contacts/options.php:344
+#: customizer-builder/panel-builder/header/contacts/options.php:514
+#: customizer-builder/panel-builder/header/contacts/options.php:661
+#: customizer-builder/panel-builder/header/logo/options.php:422
+#: customizer-builder/panel-builder/header/logo/options.php:568
+#: customizer-builder/panel-builder/header/menu/options.php:177
+#: customizer-builder/panel-builder/header/menu/options.php:359
+#: customizer-builder/panel-builder/header/middle-row/options.php:120
+#: customizer-builder/panel-builder/header/middle-row/options.php:188
+#: customizer-builder/panel-builder/header/middle-row/options.php:295
+#: customizer-builder/panel-builder/header/middle-row/options.php:401
+#: customizer-builder/panel-builder/header/search/options.php:85
+#: customizer-builder/panel-builder/header/socials/options.php:194
+#: customizer-builder/panel-builder/header/socials/options.php:339
+#: customizer-builder/panel-builder/header/text/options.php:134
+#: customizer-builder/panel-builder/header/text/options.php:171
+#: customizer-builder/panel-builder/header/trigger/options.php:116
+#: customizer-builder/panel-builder/header/trigger/options.php:242
+msgid "Default State"
+msgstr ""
+
+#: customizer-builder/panel-builder/footer/contacts/options.php:412
+#: customizer-builder/panel-builder/footer/contacts/options.php:423
+#: customizer-builder/panel-builder/footer/socials/options.php:77
+#: customizer-builder/panel-builder/footer/socials/options.php:218
+#: customizer-builder/panel-builder/header/contacts/options.php:509
+#: customizer-builder/panel-builder/header/contacts/options.php:538
+#: customizer-builder/panel-builder/header/contacts/options.php:569
+#: customizer-builder/panel-builder/header/contacts/options.php:599
+#: customizer-builder/panel-builder/header/socials/options.php:80
+#: customizer-builder/panel-builder/header/socials/options.php:189
+#: customizer-builder/panel-builder/header/socials/options.php:221
+#: customizer-builder/panel-builder/header/socials/options.php:252
+#: customizer-builder/panel-builder/header/socials/options.php:282
+msgid "Icons Color"
+msgstr ""
+
+#: customizer-builder/panel-builder/footer/contacts/options.php:474
+#: customizer-builder/panel-builder/footer/contacts/options.php:496
+#: customizer-builder/panel-builder/footer/socials/options.php:259
+#: customizer-builder/panel-builder/header/contacts/options.php:649
+#: customizer-builder/panel-builder/header/contacts/options.php:691
+#: customizer-builder/panel-builder/header/contacts/options.php:730
+#: customizer-builder/panel-builder/header/contacts/options.php:769
+#: customizer-builder/panel-builder/header/socials/options.php:327
+#: customizer-builder/panel-builder/header/socials/options.php:372
+#: customizer-builder/panel-builder/header/socials/options.php:410
+#: customizer-builder/panel-builder/header/socials/options.php:448
+msgid "Icons Background Color"
+msgstr ""
+
+#: customizer-builder/panel-builder/footer/contacts/options.php:478
+#: customizer-builder/panel-builder/footer/contacts/options.php:500
+#: customizer-builder/panel-builder/footer/socials/options.php:263
+#: customizer-builder/panel-builder/header/contacts/options.php:653
+#: customizer-builder/panel-builder/header/contacts/options.php:695
+#: customizer-builder/panel-builder/header/contacts/options.php:734
+#: customizer-builder/panel-builder/header/contacts/options.php:773
+#: customizer-builder/panel-builder/header/socials/options.php:331
+#: customizer-builder/panel-builder/header/socials/options.php:376
+#: customizer-builder/panel-builder/header/socials/options.php:414
+#: customizer-builder/panel-builder/header/socials/options.php:452
+msgid "Icons Border Color"
+msgstr ""
+
+#: customizer-builder/panel-builder/footer/copyright/config.php:3
+msgid "Copyright"
+msgstr ""
+
+#: customizer-builder/panel-builder/footer/copyright/options.php:22
+msgid "Copyright text"
+msgstr ""
+
+#: customizer-builder/panel-builder/footer/copyright/options.php:24
+#: customizer-builder/panel-builder/footer/copyright/view.php:31
+msgid ""
+"Copyright &copy; {current_year} {site_title} - Powered by {theme_author}"
+msgstr ""
+
+#: customizer-builder/panel-builder/footer/copyright/options.php:25
+msgid ""
+"You can insert some arbitrary HTML code tags: {current_year}, {site_title} "
+"and {theme_author}"
+msgstr ""
+
+#: customizer-builder/panel-builder/footer/copyright/view.php:44
+msgid "Theme Author"
+msgstr ""
+
+#: customizer-builder/panel-builder/footer/menu/config.php:4
+msgid "Footer Menu"
+msgstr ""
+
+#: customizer-builder/panel-builder/footer/menu/options.php:25
+#: customizer-builder/panel-builder/header/menu/options.php:25
+#: customizer-builder/panel-builder/header/mobile-menu/options.php:19
+msgid "Select Menu"
+msgstr ""
+
+#: customizer-builder/panel-builder/footer/menu/options.php:31
+#: customizer-builder/panel-builder/header/menu/options.php:31
+#: customizer-builder/panel-builder/header/mobile-menu/options.php:25
+msgid "Select menu..."
+msgstr ""
+
+#. translators: placeholder here means the actual URL.
+#: customizer-builder/panel-builder/footer/menu/options.php:35
+#: customizer-builder/panel-builder/header/mobile-menu/options.php:29
+msgid "Manage your menus in the %sMenus screen%s."
+msgstr ""
+
+#: customizer-builder/panel-builder/footer/menu/options.php:64
+#: customizer-builder/panel-builder/header/menu/options.php:137
+msgid "Stretch Menu"
+msgstr ""
+
+#: customizer-builder/panel-builder/footer/menu/options.php:68
+#: customizer-builder/panel-builder/header/menu/options.php:141
+msgid ""
+"Enabling this option will make the menu to stretch and fit the width of its "
+"parent column. "
+msgstr ""
+
+#: customizer-builder/panel-builder/footer/menu/options.php:110
+#: customizer-builder/panel-builder/footer/socials/options.php:185
+#: customizer-builder/panel-builder/header/button/options.php:189
+#: customizer-builder/panel-builder/header/logo/options.php:373
+#: customizer-builder/panel-builder/header/text/options.php:92
+msgid "Element Visibility"
+msgstr ""
+
+#: customizer-builder/panel-builder/footer/menu/options.php:174
+#: customizer-builder/panel-builder/header/menu/options.php:227
+#: customizer-builder/panel-builder/header/menu/options.php:234
+#: customizer-builder/panel-builder/header/menu/options.php:268
+#: customizer-builder/panel-builder/header/menu/options.php:274
+#: customizer-builder/panel-builder/header/menu/options.php:308
+#: customizer-builder/panel-builder/header/menu/options.php:314
+#: customizer-builder/panel-builder/header/menu/options.php:590
+#: customizer-builder/panel-builder/header/menu/options.php:621
+msgid "Hover/Active"
+msgstr ""
+
+#: customizer-builder/panel-builder/footer/middle-row/config.php:4
+msgid "Middle Row"
+msgstr ""
+
+#: customizer-builder/panel-builder/footer/middle-row/options.php:49
+msgid "Columns per row"
+msgstr ""
+
+#: customizer-builder/panel-builder/footer/middle-row/options.php:72
+#: customizer-builder/panel-builder/footer/middle-row/options.php:142
+#: customizer-builder/panel-builder/footer/middle-row/options.php:208
+#: customizer-builder/panel-builder/footer/middle-row/options.php:271
+#: customizer-builder/panel-builder/footer/middle-row/options.php:334
+msgid "Columns Layout"
+msgstr ""
+
+#: customizer-builder/panel-builder/footer/middle-row/options.php:111
+#: customizer-builder/panel-builder/footer/middle-row/options.php:123
+#: customizer-builder/panel-builder/footer/middle-row/options.php:177
+#: customizer-builder/panel-builder/footer/middle-row/options.php:189
+#: customizer-builder/panel-builder/footer/middle-row/options.php:240
+#: customizer-builder/panel-builder/footer/middle-row/options.php:252
+#: customizer-builder/panel-builder/footer/middle-row/options.php:303
+#: customizer-builder/panel-builder/footer/middle-row/options.php:315
+#: customizer-builder/panel-builder/footer/middle-row/options.php:366
+#: customizer-builder/panel-builder/footer/middle-row/options.php:378
+msgid "Stacked"
+msgstr ""
+
+#: customizer-builder/panel-builder/footer/middle-row/options.php:116
+#: customizer-builder/panel-builder/footer/middle-row/options.php:128
+#: customizer-builder/panel-builder/footer/middle-row/options.php:182
+#: customizer-builder/panel-builder/footer/middle-row/options.php:194
+#: customizer-builder/panel-builder/footer/middle-row/options.php:245
+#: customizer-builder/panel-builder/footer/middle-row/options.php:257
+#: customizer-builder/panel-builder/footer/middle-row/options.php:308
+#: customizer-builder/panel-builder/footer/middle-row/options.php:320
+#: customizer-builder/panel-builder/footer/middle-row/options.php:371
+#: customizer-builder/panel-builder/footer/middle-row/options.php:383
+msgid "Two Columns"
+msgstr ""
+
+#: customizer-builder/panel-builder/footer/middle-row/options.php:408
+msgid "Space between columns, elements and widgets."
+msgstr ""
+
+#: customizer-builder/panel-builder/footer/middle-row/options.php:416
+msgid "Row Vertical Spacing"
+msgstr ""
+
+#: customizer-builder/panel-builder/footer/middle-row/options.php:423
+msgid "Set the container's top and bottom inner spacing."
+msgstr ""
+
+#: customizer-builder/panel-builder/footer/middle-row/options.php:452
+msgid "Row Container Width"
+msgstr ""
+
+#: customizer-builder/panel-builder/footer/middle-row/options.php:459
+msgid "Fixed"
+msgstr ""
+
+#: customizer-builder/panel-builder/footer/middle-row/options.php:460
+msgid "Fluid"
+msgstr ""
+
+#: customizer-builder/panel-builder/footer/middle-row/options.php:469
+msgid "Row Visibility"
+msgstr ""
+
+#: customizer-builder/panel-builder/footer/middle-row/options.php:496
+msgid "Row Background"
+msgstr ""
+
+#: customizer-builder/panel-builder/footer/middle-row/options.php:508
+msgid "Row Top Divider"
+msgstr ""
+
+#: customizer-builder/panel-builder/footer/middle-row/options.php:528
+#: customizer-builder/panel-builder/header/middle-row/options.php:268
+msgid "Top Border Width"
+msgstr ""
+
+#: customizer-builder/panel-builder/footer/middle-row/options.php:537
+#: customizer-builder/panel-builder/footer/middle-row/options.php:578
+#: customizer-builder/panel-builder/header/middle-row/options.php:54
+#: customizer-builder/panel-builder/header/middle-row/options.php:277
+#: customizer-builder/panel-builder/header/middle-row/options.php:384
+msgid "Full Width"
+msgstr ""
+
+#: customizer-builder/panel-builder/footer/middle-row/options.php:549
+msgid "Row Bottom Divider"
+msgstr ""
+
+#: customizer-builder/panel-builder/footer/middle-row/options.php:569
+#: customizer-builder/panel-builder/header/middle-row/options.php:375
+msgid "Bottom Border Width"
+msgstr ""
+
+#: customizer-builder/panel-builder/footer/middle-row/options.php:598
+msgid "This divider will be placed between columns, elements and widgets."
+msgstr ""
+
+#: customizer-builder/panel-builder/footer/middle-row/options.php:622
+msgid "Widgets Title Font"
+msgstr ""
+
+#: customizer-builder/panel-builder/footer/middle-row/options.php:633
+msgid ""
+"\n"
+"\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t"
+msgstr ""
+
+#: customizer-builder/panel-builder/footer/middle-row/options.php:659
+msgid "Widgets Font"
+msgstr ""
+
+#: customizer-builder/panel-builder/footer/middle-row/options.php:669
+msgid "Widgets Font Color"
+msgstr ""
+
+#: customizer-builder/panel-builder/footer/middle-row/options.php:710
+msgid "Widgets Headings Font Color"
+msgstr ""
+
+#: customizer-builder/panel-builder/footer/options.php:5
+msgid "Enable Reveal Effect on"
+msgstr ""
+
+#: customizer-builder/panel-builder/footer/options.php:9
+msgid "This setting adds a nice reveal effect as you scroll down."
+msgstr ""
+
+#: customizer-builder/panel-builder/footer/socials/config.php:4
+#: customizer-builder/panel-builder/header/socials/config.php:4
+msgid "Socials"
+msgstr ""
+
+#. translators: placeholder here means the actual URL.
+#: customizer-builder/panel-builder/footer/socials/options.php:26
+msgid "You can configure social URLs %shere%s."
+msgstr ""
+
+#: customizer-builder/panel-builder/footer/socials/options.php:66
+#: customizer-builder/panel-builder/header/socials/options.php:69
+msgid "Icons Spacing"
+msgstr ""
+
+#: customizer-builder/panel-builder/footer/socials/options.php:85
+#: customizer-builder/panel-builder/header/socials/options.php:88
+msgid "Official"
+msgstr ""
+
+#: customizer-builder/panel-builder/footer/socials/options.php:129
+#: customizer-builder/panel-builder/header/socials/options.php:161
+msgid "Label Visibility"
+msgstr ""
+
+#: customizer-builder/panel-builder/footer/top-row/config.php:4
+#: customizer-builder/panel-builder/header/top-row/config.php:4
+msgid "Top Row"
+msgstr ""
+
+#: customizer-builder/panel-builder/footer/widget-area-1/config.php:4
+msgid "Widget 1"
+msgstr ""
+
+#: customizer-builder/panel-builder/footer/widget-area-2/config.php:4
+msgid "Widget 2"
+msgstr ""
+
+#: customizer-builder/panel-builder/footer/widget-area-3/config.php:4
+msgid "Widget 3"
+msgstr ""
+
+#: customizer-builder/panel-builder/footer/widget-area-4/config.php:4
+msgid "Widget 4"
+msgstr ""
+
+#: customizer-builder/panel-builder/footer/widget-area-5/config.php:4
+msgid "Widget 5"
+msgstr ""
+
+#: customizer-builder/panel-builder/footer/widget-area-6/config.php:4
+msgid "Widget 6"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/button/options.php:43
+msgid "Size"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/button/options.php:50
+msgid "Small"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/button/options.php:60
+#: customizer-builder/panel-builder/header/button/view.php:54
+msgid "Download"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/button/options.php:64
+msgid "URL"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/button/options.php:70
+msgid "Min Width "
+msgstr ""
+
+#: customizer-builder/panel-builder/header/button/options.php:79
+msgid "Open in new tab"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/button/options.php:85
+msgid "Set link to nofollow"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/button/options.php:91
+msgid "Set link attribute Sponsored"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/button/options.php:97
+msgid "Set link to Download"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/button/options.php:103
+msgid "Button Visibility"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/button/options.php:226
+#: customizer-builder/panel-builder/header/button/options.php:410
+#: customizer-builder/panel-builder/header/cart/options.php:111
+#: customizer-builder/panel-builder/header/cart/options.php:235
+#: customizer-builder/panel-builder/header/contacts/options.php:349
+#: customizer-builder/panel-builder/header/contacts/options.php:519
+#: customizer-builder/panel-builder/header/contacts/options.php:669
+#: customizer-builder/panel-builder/header/logo/options.php:427
+#: customizer-builder/panel-builder/header/logo/options.php:573
+#: customizer-builder/panel-builder/header/menu/options.php:182
+#: customizer-builder/panel-builder/header/menu/options.php:365
+#: customizer-builder/panel-builder/header/middle-row/options.php:125
+#: customizer-builder/panel-builder/header/middle-row/options.php:193
+#: customizer-builder/panel-builder/header/middle-row/options.php:300
+#: customizer-builder/panel-builder/header/middle-row/options.php:406
+#: customizer-builder/panel-builder/header/search/options.php:90
+#: customizer-builder/panel-builder/header/socials/options.php:200
+#: customizer-builder/panel-builder/header/socials/options.php:348
+#: customizer-builder/panel-builder/header/trigger/options.php:121
+#: customizer-builder/panel-builder/header/trigger/options.php:248
+msgid "Transparent State"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/button/options.php:235
+#: customizer-builder/panel-builder/header/button/options.php:419
+#: customizer-builder/panel-builder/header/cart/options.php:120
+#: customizer-builder/panel-builder/header/cart/options.php:245
+#: customizer-builder/panel-builder/header/contacts/options.php:358
+#: customizer-builder/panel-builder/header/contacts/options.php:528
+#: customizer-builder/panel-builder/header/contacts/options.php:679
+#: customizer-builder/panel-builder/header/logo/options.php:436
+#: customizer-builder/panel-builder/header/logo/options.php:582
+#: customizer-builder/panel-builder/header/menu/options.php:191
+#: customizer-builder/panel-builder/header/menu/options.php:375
+#: customizer-builder/panel-builder/header/middle-row/options.php:133
+#: customizer-builder/panel-builder/header/middle-row/options.php:201
+#: customizer-builder/panel-builder/header/middle-row/options.php:308
+#: customizer-builder/panel-builder/header/middle-row/options.php:414
+#: customizer-builder/panel-builder/header/search/options.php:99
+#: customizer-builder/panel-builder/header/socials/options.php:210
+#: customizer-builder/panel-builder/header/socials/options.php:359
+#: customizer-builder/panel-builder/header/trigger/options.php:130
+#: customizer-builder/panel-builder/header/trigger/options.php:258
+msgid "Sticky State"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/button/options.php:548
+msgid "Button Shadow"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/button/options.php:564
+msgid "Button Hover Shadow"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/button/options.php:599
+msgid "Padding"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/cart/options.php:63
+msgid "Icon Badge"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/cart/options.php:74
+msgid "Cart Total Visibility"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/cart/options.php:221
+#: customizer-builder/panel-builder/header/cart/options.php:256
+#: customizer-builder/panel-builder/header/cart/options.php:285
+#: customizer-builder/panel-builder/header/cart/options.php:315
+msgid "Badge Color"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/cart/options.php:366
+msgid "Cart Drawer"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/cart/options.php:384
+msgid "Cart Drawer Type"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/cart/options.php:395
+msgid "Dropdown"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/cart/options.php:400
+msgid "Off Canvas"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/cart/options.php:410
+#: customizer-builder/panel-builder/header/menu/options.php:524
+msgid "Dropdown Top Offset"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/cart/options.php:426
+msgid "Panel Reveal"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/cart/options.php:433
+#: customizer-builder/panel-builder/header/offcanvas/options.php:35
+msgid "Left Side"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/cart/options.php:434
+#: customizer-builder/panel-builder/header/offcanvas/options.php:36
+msgid "Right Side"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/cart/options.php:439
+#: customizer-builder/panel-builder/header/offcanvas/options.php:41
+msgid "Panel Width"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/cart/options.php:455
+msgid "Open Cart Automatically On"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/cart/options.php:462
+msgid "Automatically open the cart drawer after a product is added to cart."
+msgstr ""
+
+#: customizer-builder/panel-builder/header/cart/options.php:469
+msgid "Product Page"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/cart/options.php:587
+msgid "Panel Shadow"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/cart/options.php:606
+#: customizer-builder/panel-builder/header/offcanvas/options.php:105
+msgid "Panel Background"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/cart/options.php:622
+msgid "Panel Backdrop"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/cart/options.php:638
+#: customizer-builder/panel-builder/header/offcanvas/options.php:175
+#: customizer-builder/panel-builder/header/search/options.php:212
+msgid "Close Icon Color"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/cart/options.php:668
+#: customizer-builder/panel-builder/header/offcanvas/options.php:206
+#: customizer-builder/panel-builder/header/search/options.php:243
+msgid "Close Icon Background"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/cart/options.php:716
+#: customizer-builder/panel-builder/header/search/options.php:327
+#: customizer-builder/panel-builder/header/socials/options.php:137
+#: customizer-builder/panel-builder/header/text/options.php:242
+msgid "Item Visibility"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/cart/view.php:150
+msgid "Cart"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/logo/config.php:4
+#: customizer-builder/panel-builder/header/logo/options.php:22
+#: customizer-builder/panel-builder/header/logo/options.php:41
+msgid "Logo"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/logo/options.php:33
+msgid "Logo Style"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/logo/options.php:42
+msgid "Logo & title"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/logo/options.php:43
+msgid "Logo, title & tagline"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/logo/options.php:54
+msgid "Site Logo and Title Layout"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/logo/options.php:64
+msgid "Logo & Title"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/logo/options.php:69
+msgid "Title & Logo"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/logo/options.php:74
+msgid "Logo up Title"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/logo/options.php:79
+msgid "Logo Down Title"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/logo/options.php:92
+msgid "Site Logo, Title and Tagline Layout"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/logo/options.php:101
+msgid "Logo & Title Tagline"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/logo/options.php:106
+msgid "Title Tagline & Logo"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/logo/options.php:111
+msgid "Logo up Title Tagline"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/logo/options.php:116
+msgid "Logo Down Title Tagline"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/logo/options.php:120
+msgid "Title Logo Tagline"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/logo/options.php:134
+msgid "Transparent State Logo"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/logo/options.php:154
+msgid "Sticky State Logo"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/logo/options.php:172
+msgid "Logo Max-Width"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/logo/options.php:192
+msgid "Sticky State Shrink"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/logo/options.php:212
+msgid "Logo Height"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/logo/options.php:232
+#: customizer-builder/panel-builder/header/logo/options.php:404
+msgid "Site Title"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/logo/options.php:253
+msgid "Site Title Visibility"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/logo/options.php:281
+msgid "Site Tagline"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/logo/options.php:301
+msgid "Site Tagline Visibility"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/logo/options.php:326
+msgid "Configure Site Favicon from %shere%s."
+msgstr ""
+
+#: customizer-builder/panel-builder/header/logo/options.php:417
+#: customizer-builder/panel-builder/header/logo/options.php:446
+#: customizer-builder/panel-builder/header/logo/options.php:477
+#: customizer-builder/panel-builder/header/logo/options.php:507
+msgid "Site Title Color"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/logo/options.php:553
+msgid "Site Tagline Font"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/logo/options.php:563
+#: customizer-builder/panel-builder/header/logo/options.php:592
+#: customizer-builder/panel-builder/header/logo/options.php:614
+#: customizer-builder/panel-builder/header/logo/options.php:635
+msgid "Site Tagline Color"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/menu/config.php:4
+msgid "Menu 1"
+msgstr ""
+
+#. translators: placeholder here means the actual URL.
+#: customizer-builder/panel-builder/header/menu/options.php:35
+msgid "Manage your menu items in the %sMenus screen%s."
+msgstr ""
+
+#: customizer-builder/panel-builder/header/menu/options.php:46
+msgid "Top Level Options"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/menu/options.php:92
+msgid "Indicator Effect"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/menu/options.php:101
+msgid "Center to Sides"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/menu/options.php:102
+msgid "Left to Right"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/menu/options.php:125
+msgid "Items Height"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/menu/options.php:330
+msgid "Active Indicator Background"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/menu/options.php:353
+msgid "Hover/Active Indicator Color"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/menu/options.php:386
+#: customizer-builder/panel-builder/header/menu/options.php:406
+#: customizer-builder/panel-builder/header/menu/options.php:426
+msgid "Active Indicator Color"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/menu/options.php:468
+msgid "Dropdown Options"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/menu/options.php:477
+msgid "Items Hover Effect"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/menu/options.php:487
+msgid "Solid Color"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/menu/options.php:488
+msgid "Boxed Color"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/menu/options.php:494
+msgid "Inner Spacing"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/menu/options.php:507
+msgid "Dropdown Reveal Effect"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/menu/options.php:517
+msgid "Inner Reveal"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/menu/options.php:518
+msgid "Opacity"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/menu/options.php:534
+msgid "Dropdown Width"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/menu/options.php:598
+msgid "Items Background Color"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/menu/options.php:644
+msgid "Dropdown Shadow"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/menu/options.php:662
+msgid "Dropdown Border Radius"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/menu-secondary/config.php:4
+msgid "Menu 2"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/middle-row/config.php:4
+msgid "Main Row"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/middle-row/options.php:63
+msgid "Row Min Height"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/middle-row/options.php:73
+msgid "Sticky State Row Shrink"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/middle-row/options.php:90
+msgid "Row Max Height"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/middle-row/options.php:183
+#: customizer-builder/panel-builder/header/middle-row/options.php:210
+#: customizer-builder/panel-builder/header/middle-row/options.php:224
+#: customizer-builder/panel-builder/header/middle-row/options.php:239
+msgid "Top Border"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/mobile-menu/config.php:4
+msgid "Offcanvas Menu"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/mobile-menu/options.php:44
+msgid "Menu Type"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/mobile-menu/options.php:52
+msgid "Bordered"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/mobile-menu/options.php:113
+msgid "Dropdown Font Size"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/offcanvas/config.php:4
+msgid "Offcanvas"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/offcanvas/options.php:10
+msgid "Reaveal as"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/offcanvas/options.php:17
+msgid "Modal"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/offcanvas/options.php:18
+msgid "Side Panel"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/offcanvas/options.php:28
+msgid "Reveal From"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/offcanvas/options.php:125
+msgid "Panel Backgrop"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/options.php:4
+msgid "Global Header Options"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/options.php:6
+msgid ""
+"To get additional header options like %1$sTransparent and Sticky header "
+"settings%2$s, please install and activate %3$sRishi Companion%4$s plugin."
+msgstr ""
+
+#: customizer-builder/panel-builder/header/search/config.php:4
+#: customizer-builder/panel-builder/header/search/view.php:38
+#: customizer-builder/panel-builder/header/search/view.php:80 searchform.php:64
+msgid "Search"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/search/options.php:4
+msgid "Posts"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/search/options.php:6
+msgid "Products"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/search/options.php:57
+msgid "Search Through Criteria"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/search/options.php:58
+msgid "Choose in which post types do you want to perform searches."
+msgstr ""
+
+#: customizer-builder/panel-builder/header/search/options.php:201
+msgid "Icon Margin"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/search/options.php:274
+msgid "Modal Background"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/search/options.php:293
+msgid "Modal Font Color"
+msgstr ""
+
+#. translators: placeholder here means the actual URL.
+#: customizer-builder/panel-builder/header/socials/options.php:26
+msgid "You can add links to your social media profiles %shere%s."
+msgstr ""
+
+#: customizer-builder/panel-builder/header/text/config.php:4
+msgid "HTML"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/text/options.php:23
+#: customizer-builder/panel-builder/header/text/view.php:34
+msgid "Sample text"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/text/options.php:24
+msgid "You can add here HTML code."
+msgstr ""
+
+#: customizer-builder/panel-builder/header/text/options.php:31
+msgid "Container Maximum Width"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/text/options.php:45
+msgid "Underline Link"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/text/options.php:46
+msgid "Enable this option to underline the link"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/trigger/config.php:4
+msgid "Trigger"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/trigger/options.php:50
+msgid "Trigger Design"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/trigger/options.php:65
+msgid "Trigger Label"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/trigger/options.php:78
+msgid "Label Text"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/trigger/options.php:81
+#: customizer-builder/panel-builder/header/trigger/view.php:27
+msgid "Menu"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/trigger/options.php:87
+msgid "Label Alignment"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/trigger/options.php:94
+msgid "Left"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/trigger/options.php:95
+msgid "Right"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/trigger/options.php:112
+#: customizer-builder/panel-builder/header/trigger/options.php:140
+#: customizer-builder/panel-builder/header/trigger/options.php:169
+#: customizer-builder/panel-builder/header/trigger/options.php:197
+msgid "Trigger Color"
+msgstr ""
+
+#: customizer-builder/panel-builder/header/trigger/options.php:269
+#: customizer-builder/panel-builder/header/trigger/options.php:306
+#: customizer-builder/panel-builder/header/trigger/options.php:343
+msgid "Trigger Border Color"
+msgstr ""
+
+#: inc/custom-functions.php:57
+msgid "Primary"
+msgstr ""
+
+#: inc/custom-functions.php:488
+msgid "Palette Color 1"
+msgstr ""
+
+#: inc/custom-functions.php:494
+msgid "Palette Color 2"
+msgstr ""
+
+#: inc/custom-functions.php:500
+msgid "Palette Color 3"
+msgstr ""
+
+#: inc/custom-functions.php:506
+msgid "Palette Color 4"
+msgstr ""
+
+#: inc/custom-functions.php:512
+msgid "Palette Color 5"
+msgstr ""
+
+#: inc/custom-functions.php:518
+msgid "Palette Color 6"
+msgstr ""
+
+#: inc/custom-functions.php:524
+msgid "Palette Color 7"
+msgstr ""
+
+#: inc/custom-functions.php:530
+msgid "Palette Color 8"
+msgstr ""
+
+#: inc/custom-functions.php:646
+msgid "Browse Rishi Starter Templates"
+msgstr ""
+
+#: inc/custom-functions.php:651
+msgid "Install Rishi Starter Templates"
+msgstr ""
+
+#: inc/custom-functions.php:654
+msgid "Activate Rishi Starter Templates"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Rishi Theme"
+msgstr ""
+
+#: inc/custom-functions.php:1048
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: inc/custom-functions.php:1059
+msgid "Security Error, Please reload the page."
+msgstr ""
+
+#: inc/custom-functions.php:1062
+msgid "Security Error, Need higher Permissions to install plugin."
+msgstr ""
+
+#: inc/custom-functions.php:1120
+msgid "Error, plugin could not be installed, please install manually."
+msgstr ""
+
+#: inc/elementor-compatibility.php:110 inc/elementor-compatibility.php:498
+#: inc/elementor-compatibility.php:540
+msgid "Theme Color 1"
+msgstr ""
+
+#: inc/elementor-compatibility.php:115 inc/elementor-compatibility.php:503
+#: inc/elementor-compatibility.php:545
+msgid "Theme Color 2"
+msgstr ""
+
+#: inc/elementor-compatibility.php:120 inc/elementor-compatibility.php:508
+#: inc/elementor-compatibility.php:550
+msgid "Theme Color 3"
+msgstr ""
+
+#: inc/elementor-compatibility.php:125 inc/elementor-compatibility.php:513
+#: inc/elementor-compatibility.php:555
+msgid "Theme Color 4"
+msgstr ""
+
+#: inc/elementor-compatibility.php:130 inc/elementor-compatibility.php:518
+#: inc/elementor-compatibility.php:560
+msgid "Theme Color 5"
+msgstr ""
+
+#: inc/elementor-compatibility.php:135 inc/elementor-compatibility.php:523
+#: inc/elementor-compatibility.php:565
+msgid "Theme Color 6"
+msgstr ""
+
+#: inc/elementor-compatibility.php:140 inc/elementor-compatibility.php:145
+#: inc/elementor-compatibility.php:528 inc/elementor-compatibility.php:570
+msgid "Theme Color 7"
+msgstr ""
+
+#: inc/elementor-compatibility.php:533 inc/elementor-compatibility.php:575
+msgid "Theme Color 8"
+msgstr ""
+
+#: inc/elementor-compatibility.php:863
+msgid "Theme Global Colors"
+msgstr ""
+
+#: inc/elementor-compatibility.php:900
+msgid "Theme Accent"
+msgstr ""
+
+#: inc/elementor-compatibility.php:905
+msgid "Theme Accent - alt"
+msgstr ""
+
+#: inc/elementor-compatibility.php:910
+msgid "Strongest text"
+msgstr ""
+
+#: inc/elementor-compatibility.php:915
+msgid "Strong Text"
+msgstr ""
+
+#: inc/elementor-compatibility.php:920
+msgid "Medium text"
+msgstr ""
+
+#: inc/elementor-compatibility.php:925
+msgid "Subtle Text"
+msgstr ""
+
+#: inc/elementor-compatibility.php:930
+msgid "Subtle Background"
+msgstr ""
+
+#: inc/extras.php:122
+msgid "Tagged In"
+msgstr ""
+
+#: inc/extras.php:138
+msgid " min read"
+msgstr ""
+
+#. translators: %s: post title
+#: inc/extras.php:154
+msgid "Write a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/extras.php:525
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/extras.php:528
+msgid "says:"
+msgstr ""
+
+#: inc/extras.php:531
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: inc/extras.php:661
+msgid "Search Results for \"%s\""
+msgstr ""
+
+#: inc/extras.php:664 inc/extras.php:666 inc/extras.php:668 inc/extras.php:671
+#: inc/extras.php:673 inc/extras.php:676
+msgid "Y"
+msgstr ""
+
+#: inc/extras.php:666 inc/extras.php:668 inc/extras.php:673
+msgid "m"
+msgstr ""
+
+#: inc/extras.php:666 inc/extras.php:673
+msgid "F"
+msgstr ""
+
+#: inc/extras.php:668
+msgid "d"
+msgstr ""
+
+#: inc/extras.php:753
+msgid "Page %s"
+msgstr ""
+
+#: inc/extras.php:780
+msgid "404 Error - Page Not Found"
+msgstr ""
+
+#: inc/extras.php:783
+msgid " (Page %s)"
+msgstr ""
+
+#: inc/extras.php:996
+msgid "Showing %1$s of %2$s Results"
+msgstr ""
+
+#: inc/notice/notice.php:101 inc/notice/notice.php:142
+msgid "Thank you for installing Rishi!"
+msgstr ""
+
+#: inc/notice/notice.php:103
+msgid "We strongly recommend you to activate "
+msgstr ""
+
+#: inc/notice/notice.php:104
+msgid "Rishi Companion"
+msgstr ""
+
+#: inc/notice/notice.php:106
+msgid ""
+"plugin to get access to features like extensions, demo starter templates and "
+"many other essential features."
+msgstr ""
+
+#: inc/notice/notice.php:144
+msgid "To recieve free theme updates and latest features, "
+msgstr ""
+
+#: inc/notice/notice.php:145
+msgid "please Activate Rishi Theme"
+msgstr ""
+
+#: inc/template-functions.php:39
+msgid "Skip to content"
+msgstr ""
+
+#: inc/template-functions.php:173
+msgid "Previous"
+msgstr ""
+
+#: inc/template-functions.php:253
+msgid "View All Articles"
+msgstr ""
+
+#: inc/template-functions.php:392
+msgid "%1$s %2$s"
+msgstr ""
+
+#: inc/template-functions.php:514
+msgid "Browsing "
+msgstr ""
+
+#: inc/woocommerce-functions.php:59
+msgid "Shop Sidebar"
+msgstr ""
+
+#: inc/woocommerce-functions.php:61
+msgid "Sidebar displaying only in woocommerce pages."
+msgstr ""
+
+#: searchform.php:54
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:55
+msgid "Search Input"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content-archive.php:58 template-parts/content-archive.php:120
+#: template-parts/content-search.php:52 template-parts/content-search.php:114
+#: template-parts/content-single.php:52 template-parts/content.php:51
+#: template-parts/content.php:113
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: template-parts/content-archive.php:71 template-parts/content-archive.php:133
+#: template-parts/content-page.php:41 template-parts/content-search.php:65
+#: template-parts/content-search.php:127 template-parts/content.php:64
+#: template-parts/content.php:126
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:21
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:31
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:35
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content-page.php:55
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: updater/theme-updater-admin.php:228 updater/theme-updater-admin.php:287
+#: updater/theme-updater-admin.php:337
+msgid "An error occurred, please try again."
+msgstr ""
+
+#: updater/theme-updater-admin.php:253
+msgid "Your license key expired on %s."
+msgstr ""
+
+#: updater/theme-updater-admin.php:261
+msgid "Your license key has been disabled."
+msgstr ""
+
+#: updater/theme-updater-admin.php:266
+msgid "Invalid license."
+msgstr ""
+
+#: updater/theme-updater-admin.php:272
+msgid "Your license is not active for this URL."
+msgstr ""
+
+#: updater/theme-updater-admin.php:277
+msgid "This appears to be an invalid license key for %s."
+msgstr ""
+
+#: updater/theme-updater-admin.php:282
+msgid "Your license key has reached its activation limit."
+msgstr ""
+
+#: updater/theme-updater-admin.php:304
+msgid "Activation successful."
+msgstr ""
+
+#: updater/theme-updater.php:31
+msgid "Getting Started"
+msgstr ""
+
+#: updater/theme-updater.php:32
+msgid "Enter your theme license key."
+msgstr ""
+
+#: updater/theme-updater.php:33
+msgid "License Key"
+msgstr ""
+
+#: updater/theme-updater.php:34
+msgid "License Action"
+msgstr ""
+
+#: updater/theme-updater.php:35
+msgid "Deactivate License"
+msgstr ""
+
+#: updater/theme-updater.php:36
+msgid "Activate License"
+msgstr ""
+
+#: updater/theme-updater.php:37 updater/theme-updater.php:50
+msgid "License status is unknown."
+msgstr ""
+
+#: updater/theme-updater.php:38
+msgid "Renew?"
+msgstr ""
+
+#: updater/theme-updater.php:39
+msgid "unlimited"
+msgstr ""
+
+#: updater/theme-updater.php:40
+msgid "License key is active."
+msgstr ""
+
+#: updater/theme-updater.php:41
+msgid "Expires %s."
+msgstr ""
+
+#: updater/theme-updater.php:42
+msgid "Lifetime License."
+msgstr ""
+
+#: updater/theme-updater.php:43
+msgid "You have %1$s / %2$s sites activated."
+msgstr ""
+
+#: updater/theme-updater.php:44
+msgid "License key expired %s."
+msgstr ""
+
+#: updater/theme-updater.php:45
+msgid "License key has expired."
+msgstr ""
+
+#: updater/theme-updater.php:46
+msgid "License keys do not match."
+msgstr ""
+
+#: updater/theme-updater.php:47
+msgid "License is inactive."
+msgstr ""
+
+#: updater/theme-updater.php:48
+msgid "License key is disabled."
+msgstr ""
+
+#: updater/theme-updater.php:49
+msgid "Site is inactive."
+msgstr ""
+
+#: updater/theme-updater.php:51
+msgid ""
+"Updating this theme will lose any customizations you have made. 'Cancel' to "
+"stop, 'OK' to update."
+msgstr ""
+
+#: updater/theme-updater.php:52
+msgid ""
+"<strong>%1$s %2$s</strong> is available. <a href=\"%3$s\" class=\"thickbox\" "
+"title=\"%4$s\">Check out what's new</a> or <a href=\"%5$s\"%6$s>update "
+"now</a>."
+msgstr ""
+
+#: updater/theme-updater.php:59
+msgid "Nonce verification failed"
+msgstr ""
+
+#: woocommerce/cart/cart.php:31 woocommerce/cart/cart.php:62
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:32 woocommerce/cart/cart.php:82
+msgid "Price"
+msgstr ""
+
+#: woocommerce/cart/cart.php:33 woocommerce/cart/cart.php:88
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:34 woocommerce/cart/cart.php:110
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/cart/cart.php:35
+msgid "Action"
+msgstr ""
+
+#: woocommerce/cart/cart.php:77
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:116
+msgid "Remove product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:123 woocommerce/cart/mini-cart.php:48
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:143
+msgid "Coupon:"
+msgstr ""
+
+#: woocommerce/cart/cart.php:143
+msgid "Coupon code here..."
+msgstr ""
+
+#: woocommerce/cart/cart.php:143
+msgid "Apply coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:148
+msgid "Update cart"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:107
+msgid "No products in the cart."
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://rishitheme.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Rishi is a core vital optimized multi-purpose theme that is blazing fast, "
+"fully customizable and lightweight. It's perfect for blogs, agencies, firms, "
+"coaches, startups, education, shop, corporate, portfolios, business websites "
+"and eCommerce. It loads in less than a second and is responsive across all "
+"sizes of devices. Rishi is SEO optimized and Schema friendly to rank your "
+"website higher on search engines. Packed with tons of customization features,"
+" it is Gutenberg compatible, WooCommerce ready, Elementor compatible, RTL "
+"and translation ready."
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://profiles.wordpress.org/rishitheme/"
+msgstr ""
+
+#. translators: 1: comment count number.
+#: comments.php:36
+msgctxt "comments title"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: customizer-builder/includes/helpers.php:2020 inc/template-functions.php:477
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: customizer-builder/includes/helpers.php:2023 inc/template-functions.php:490
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: customizer-builder/includes/helpers.php:2026 inc/template-functions.php:503
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr ""
+
+#. translators: 1: found posts.
+#: inc/extras.php:999
+msgctxt "found posts"
+msgid "%s Result"
+msgid_plural "%s Results"
+msgstr[0] ""
+msgstr[1] ""
+
+#: searchform.php:7
+msgctxt "placeholder"
+msgid "Search"
+msgstr ""

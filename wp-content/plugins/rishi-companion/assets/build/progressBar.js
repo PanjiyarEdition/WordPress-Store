@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",(function(){var e,t,n=window.innerHeight,o=document.body.clientHeight,r=document.querySelector("#rt-progress-bar progress");e=o-n,null==r||r.setAttribute("max",e),window.addEventListener("scroll",(function(){t=window.scrollY,null==r||r.setAttribute("value",t)}))}));

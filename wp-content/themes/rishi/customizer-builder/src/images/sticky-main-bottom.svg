@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="247" height="70" viewBox="0 0 247 70">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_5" data-name="Rectangle 5" width="247" height="70" transform="translate(14 14)"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Rectangle_1281" data-name="Rectangle 1281" d="M4,0H241a4,4,0,0,1,4,4V235H0V4A4,4,0,0,1,4,0Z" transform="translate(15 15)" fill="#fff"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect id="Rectangle_4" data-name="Rectangle 4" width="46" height="3" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Sticky-header-4" transform="translate(-14 -14)" clip-path="url(#clip-path)">
+    <g id="Group_5823" data-name="Group 5823">
+      <g id="Rectangle_1243" data-name="Rectangle 1243" transform="translate(15 15)">
+        <path id="Path_5" data-name="Path 5" d="M4,0H241a4,4,0,0,1,4,4V235H0V4A4,4,0,0,1,4,0Z" fill="#fff"/>
+        <path id="Path_6" data-name="Path 6" d="M4-.5H241A4.5,4.5,0,0,1,245.5,4V235a.5.5,0,0,1-.5.5H0a.5.5,0,0,1-.5-.5V4A4.5,4.5,0,0,1,4-.5Z" fill="none" stroke="#566779" stroke-width="1"/>
+      </g>
+      <g id="Mask_Group_5" data-name="Mask Group 5" opacity="0.3" clip-path="url(#clip-path-2)">
+        <g id="Group_5817" data-name="Group 5817" transform="translate(17.828 36.147)">
+          <rect id="Rectangle_1247" data-name="Rectangle 1247" width="5.449" transform="translate(45.582 107.413)" fill="#566779" opacity="0.25"/>
+          <rect id="Rectangle_1248" data-name="Rectangle 1248" width="82.235" height="1.816" transform="translate(28.327 103.752)" fill="#566779" opacity="0.25"/>
+          <rect id="Rectangle_1249" data-name="Rectangle 1249" width="82.235" height="1.816" transform="translate(28.327 230.362)" fill="#566779" opacity="0.25"/>
+          <rect id="Rectangle_1250" data-name="Rectangle 1250" width="89.501" height="1.816" transform="translate(28.327 108.263)" fill="#566779" opacity="0.25"/>
+          <rect id="Rectangle_1251" data-name="Rectangle 1251" width="39.96" height="1.816" transform="translate(28.327 112.774)" fill="#566779" opacity="0.25"/>
+          <rect id="Rectangle_1252" data-name="Rectangle 1252" width="114.051" height="0.469" transform="translate(28.327 120.277)" fill="#566779" opacity="0.1"/>
+          <rect id="Rectangle_1253" data-name="Rectangle 1253" width="11.825" height="1.816" transform="translate(28.327 124.966)" fill="#566779" opacity="0.4"/>
+          <rect id="Rectangle_1254" data-name="Rectangle 1254" width="11.825" height="1.816" transform="translate(130.553 124.966)" fill="#566779" opacity="0.3"/>
+          <g id="Group_5815" data-name="Group 5815" transform="translate(87.448 87.031)" opacity="0.4">
+            <rect id="Rectangle_1255" data-name="Rectangle 1255" width="13" height="3" transform="translate(-0.275 -0.179)" fill="#566779"/>
+            <rect id="Rectangle_1256" data-name="Rectangle 1256" width="13" height="3" transform="translate(14.725 -0.179)" fill="#566779"/>
+          </g>
+          <g id="Group_5816" data-name="Group 5816" transform="translate(87.448 213.463)" opacity="0.4">
+            <rect id="Rectangle_1257" data-name="Rectangle 1257" width="13" height="2" transform="translate(-0.275 0.39)" fill="#566779"/>
+            <rect id="Rectangle_1258" data-name="Rectangle 1258" width="13" height="2" transform="translate(14.725 0.39)" fill="#566779"/>
+          </g>
+          <rect id="Rectangle_1259" data-name="Rectangle 1259" width="95.041" height="4.689" transform="translate(28.327 95.301)" fill="#566779" opacity="0.3"/>
+          <rect id="Rectangle_1260" data-name="Rectangle 1260" width="95.041" height="4.689" transform="translate(28.327 221.912)" fill="#566779" opacity="0.3"/>
+          <rect id="Rectangle_1261" data-name="Rectangle 1261" width="17" height="3" transform="translate(33.172 86.853)" fill="#566779" opacity="0.4"/>
+          <rect id="Rectangle_1262" data-name="Rectangle 1262" width="17" height="2" transform="translate(33.172 213.853)" fill="#566779" opacity="0.4"/>
+          <rect id="Rectangle_1263" data-name="Rectangle 1263" width="3" height="3" transform="translate(28.172 86.853)" fill="#566779" opacity="0.34"/>
+          <rect id="Rectangle_1264" data-name="Rectangle 1264" width="3" height="2" transform="translate(28.172 213.853)" fill="#566779" opacity="0.34"/>
+          <rect id="Rectangle_1265" data-name="Rectangle 1265" width="28" height="3" transform="translate(55.172 86.853)" fill="#566779" opacity="0.25"/>
+          <rect id="Rectangle_1266" data-name="Rectangle 1266" width="28" height="2" transform="translate(55.172 213.853)" fill="#566779" opacity="0.25"/>
+          <path id="Path_23079" data-name="Path 23079" d="M0,0V3.223" transform="translate(53.379 87.12) rotate(30)" fill="none" stroke="#707070" stroke-width="1" opacity="0.25"/>
+          <path id="Path_23080" data-name="Path 23080" d="M0,0V3.223" transform="translate(53.379 213.731) rotate(30)" fill="none" stroke="#707070" stroke-width="1" opacity="0.25"/>
+          <path id="Path_23081" data-name="Path 23081" d="M0,0H50.239V248.532H0Z" transform="translate(161.251 10)" fill="#566779" opacity="0.1"/>
+          <path id="Path_23082" data-name="Path 23082" d="M0,0H114.167V64.852H0Z" transform="translate(28.327 10)" fill="#566779" opacity="0.2"/>
+          <path id="Path_23083" data-name="Path 23083" d="M0,0H114.167V64.852H0Z" transform="translate(28.327 136.611)" fill="#566779" opacity="0.2"/>
+          <g id="picture_1_" data-name="picture (1)" transform="translate(68.655 29.695)" opacity="0.4">
+            <path id="Path_23084" data-name="Path 23084" d="M88.671,116.112A4.112,4.112,0,1,0,92.783,112a4.112,4.112,0,0,0-4.112,4.112Zm8.224,20.559H64l8.224-21.929,10.965,13.706,5.482-4.112Z" transform="translate(-64 -112)" fill="#fff"/>
+          </g>
+          <g id="picture_1_2" data-name="picture (1)" transform="translate(68.655 156.306)" opacity="0.4">
+            <path id="Path_23085" data-name="Path 23085" d="M88.671,116.112A4.112,4.112,0,1,0,92.783,112a4.112,4.112,0,0,0-4.112,4.112Zm8.224,20.559H64l8.224-21.929,10.965,13.706,5.482-4.112Z" transform="translate(-64 -112)" fill="#fff"/>
+          </g>
+          <rect id="Rectangle_1267" data-name="Rectangle 1267" width="17" height="4" transform="translate(28.172 79.853)" fill="#566779" opacity="0.4"/>
+          <rect id="Rectangle_1268" data-name="Rectangle 1268" width="17" height="3" transform="translate(28.172 206.853)" fill="#566779" opacity="0.4"/>
+          <rect id="Rectangle_1269" data-name="Rectangle 1269" width="17" height="4" transform="translate(47.172 79.853)" fill="#566779" opacity="0.4"/>
+          <rect id="Rectangle_1270" data-name="Rectangle 1270" width="17" height="3" transform="translate(47.172 206.853)" fill="#566779" opacity="0.4"/>
+          <rect id="Rectangle_1271" data-name="Rectangle 1271" width="13.13" height="0.469" transform="translate(30.202 81.277)" fill="#fff"/>
+          <rect id="Rectangle_1272" data-name="Rectangle 1272" width="13.13" height="0.469" transform="translate(30.202 207.888)" fill="#fff"/>
+          <rect id="Rectangle_1273" data-name="Rectangle 1273" width="13.13" height="0.469" transform="translate(48.959 81.277)" fill="#fff"/>
+          <rect id="Rectangle_1274" data-name="Rectangle 1274" width="13.13" height="0.469" transform="translate(48.959 207.888)" fill="#fff"/>
+          <path id="Path_23086" data-name="Path 23086" d="M0,0V3.223" transform="translate(86.204 87.12) rotate(30)" fill="none" stroke="#707070" stroke-width="1" opacity="0.26"/>
+          <path id="Path_23087" data-name="Path 23087" d="M0,0V3.223" transform="translate(86.204 213.731) rotate(30)" fill="none" stroke="#707070" stroke-width="1" opacity="0.26"/>
+          <rect id="Rectangle_1275" data-name="Rectangle 1275" width="114.051" height="0.469" transform="translate(28.327 246.888)" fill="#566779" opacity="0.1"/>
+          <rect id="Rectangle_1276" data-name="Rectangle 1276" width="11.825" height="1.816" transform="translate(28.327 251.577)" fill="#566779" opacity="0.4"/>
+          <rect id="Rectangle_1277" data-name="Rectangle 1277" width="11.825" height="1.816" transform="translate(130.553 251.577)" fill="#566779" opacity="0.3"/>
+          <rect id="Rectangle_1278" data-name="Rectangle 1278" width="5.449" transform="translate(45.582 234.024)" fill="#566779" opacity="0.25"/>
+          <rect id="Rectangle_1279" data-name="Rectangle 1279" width="89.501" height="1.816" transform="translate(28.327 234.874)" fill="#566779" opacity="0.25"/>
+          <rect id="Rectangle_1280" data-name="Rectangle 1280" width="39.96" height="1.816" transform="translate(28.327 239.385)" fill="#566779" opacity="0.25"/>
+        </g>
+      </g>
+      <g id="Group_5822" data-name="Group 5822">
+        <g id="Group_5821" data-name="Group 5821" transform="translate(0 -11)">
+          <rect id="Rectangle_1245" data-name="Rectangle 1245" width="245" height="17" transform="translate(15 56)" fill="#e0e3e7"/>
+          <g id="Repeat_Grid_52" data-name="Repeat Grid 52" transform="translate(28 63)" opacity="0.3" clip-path="url(#clip-path-3)">
+            <g id="Group_4" data-name="Group 4" transform="translate(-53 -2)">
+              <rect id="Rectangle_402" data-name="Rectangle 402" width="10" height="3" transform="translate(53 2)" fill="#566779"/>
+            </g>
+            <g id="Group_5" data-name="Group 5" transform="translate(-37 -2)">
+              <rect id="Rectangle_402-2" data-name="Rectangle 402" width="10" height="3" transform="translate(53 2)" fill="#566779"/>
+            </g>
+            <g id="Group_6" data-name="Group 6" transform="translate(-21 -2)">
+              <rect id="Rectangle_402-3" data-name="Rectangle 402" width="10" height="3" transform="translate(53 2)" fill="#566779"/>
+            </g>
+          </g>
+          <circle id="Ellipse_96" data-name="Ellipse 96" cx="1.5" cy="1.5" r="1.5" transform="translate(244 63)" fill="#566779" opacity="0.4"/>
+        </g>
+        <g id="Group_5818" data-name="Group 5818" transform="translate(0 -11)">
+          <path id="Rectangle_1160" data-name="Rectangle 1160" d="M4,0H241a4,4,0,0,1,4,4V30H0V4A4,4,0,0,1,4,0Z" transform="translate(15 26)" fill="#d1d6da"/>
+          <g id="Group_5808" data-name="Group 5808" transform="translate(0 12)">
+            <g id="Group_525" data-name="Group 525" transform="translate(28 -3)">
+              <g id="Group_524" data-name="Group 524">
+                <rect id="Rectangle_402-4" data-name="Rectangle 402" width="10" height="3" transform="translate(86 31)" fill="#566779" opacity="0.3"/>
+                <rect id="Rectangle_402-5" data-name="Rectangle 402" width="10" height="3" transform="translate(102 31)" fill="#566779" opacity="0.3"/>
+                <rect id="Rectangle_402-6" data-name="Rectangle 402" width="10" height="3" transform="translate(118 31)" fill="#566779" opacity="0.3"/>
+                <rect id="Rectangle_402-7" data-name="Rectangle 402" width="10" height="3" transform="translate(134 31)" fill="#566779" opacity="0.3"/>
+                <rect id="Rectangle_402-8" data-name="Rectangle 402" width="10" height="3" transform="translate(150 31)" fill="#566779" opacity="0.3"/>
+                <rect id="Rectangle_402-9" data-name="Rectangle 402" width="10" height="3" transform="translate(166 31)" fill="#566779" opacity="0.3"/>
+                <rect id="Rectangle_850" data-name="Rectangle 850" width="32" height="8" transform="translate(187 29)" fill="#566779" opacity="0.3"/>
+                <rect id="Rectangle_851" data-name="Rectangle 851" width="22" height="2" transform="translate(192 32)" fill="#fff"/>
+              </g>
+            </g>
+            <g id="Group_526" data-name="Group 526" transform="translate(-98 16)">
+              <rect id="Rectangle_405" data-name="Rectangle 405" width="33" height="13" rx="6.5" transform="translate(126 4)" fill="#566779" opacity="0.5"/>
+              <rect id="Rectangle_849" data-name="Rectangle 849" width="32" height="3" transform="translate(127 19)" fill="#566779" opacity="0.3"/>
+              <text id="Logo" transform="translate(133.032 13)" fill="#fff" font-size="7" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.06em"><tspan x="0" y="0">LOGO</tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

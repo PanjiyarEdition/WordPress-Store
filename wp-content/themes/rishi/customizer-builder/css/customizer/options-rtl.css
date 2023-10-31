@@ -1,0 +1,265 @@
+/**
+ * Rishi - v1.7.62
+ * 
+ * Copyright (c) 2021
+ * Licensed GPLv2+
+ */
+
+body.rtl .rt-color-picker-single:not(:last-child) {
+  margin-right: initial;
+  margin-left: 10px;
+}
+body.rtl .rt-color-picker-skins li:not(:last-child) {
+  margin-right: initial;
+  margin-left: 10px;
+}
+body.rtl .rt-color-picker-modal .wp-picker-holder .iris-slider {
+  margin-left: initial;
+  margin-right: 15px;
+}
+body.rtl .rt-option-spacing > span:not(:last-of-type) {
+  margin-right: initial;
+  margin-left: 4px;
+}
+body.rtl .rt-option-spacing .rt-spacing-controls {
+  margin-left: initial;
+  margin-right: 4px;
+}
+body.rtl .rt-control .rara-revert {
+  left: initial;
+  right: 0;
+  transform: translate3d(15px, 0, 0);
+}
+body.rtl .rt-control:hover .rara-revert:not([disabled]) {
+  transform: translate3d(20px, 0, 0);
+}
+body.rtl .rt-buttons-group li:first-child {
+  border-radius: 0 3px 3px 0;
+}
+body.rtl .rt-buttons-group li:last-child {
+  border-radius: 3px 0 0 3px;
+}
+body.rtl .rt-buttons-group li:not(:first-child) {
+  margin-left: initial;
+  margin-right: -1px;
+}
+body.rtl .rt-condition-type input {
+  padding: 0 30px 0 0;
+}
+body.rtl .rt-condition-type span {
+  left: initial;
+  right: 6px;
+}
+body.rtl .rt-slider {
+  margin-left: 14px;
+  margin-right: initial;
+}
+body.rtl .rt-slider span {
+  left: initial;
+  right: var(--position);
+}
+body.rtl .rt-slider div {
+  left: initial;
+  right: 0;
+}
+body.rtl .rt-slider:before {
+  left: initial;
+  right: 0;
+}
+body.rtl .rt-option-slider .rt-slider-input {
+  margin-left: initial;
+  margin-right: 7%;
+}
+body.rtl .rt-responsive-controls li {
+  margin-right: 0;
+}
+body.rtl .rt-responsive-controls li.rt-desktop {
+  margin-left: 18px;
+}
+body.rtl .rt-responsive-controls li.rt-tablet {
+  margin-left: 17px;
+}
+body.rtl .rt-select-input input {
+  --padding: 0 30px 0 0;
+}
+body.rtl .rt-select-input:after {
+  right: initial;
+  left: 8px;
+}
+body.rtl .rt-select-dropdown .rt-select-dropdown-item.selected:after {
+  right: initial;
+  left: 6px;
+}
+/* body.rtl .rt-options-container .rt-tabs > ul > li:not(:first-child) {
+  margin-left: initial;
+  margin-right: 7px;
+}
+/* body.rtl .rara-customizer-panel-option button {
+  right: initial;
+  left: -24px;
+} */ 
+body.rtl .rara-customizer-panel-option button:after {
+  content: "\f341";
+}
+body.rtl .rara-customizer-panel-option .rt-option-switch + button {
+  transform: translate3d(7px, 0, 0);
+}
+body.rtl .rt-panel.rt-click-allowed .rara-customizer-panel-option button {
+  transform: translate3d(0, 0, 0);
+}
+body.rtl .customize-panel-actions button {
+  padding: 0 0 0 24px;
+  border-left: 1px solid #ddd;
+  border-right: 4px solid #fff;
+}
+body.rtl .customize-panel-actions button:before {
+  content: "\f345";
+}
+body.rtl .customize-panel-actions button:hover {
+  border-right-color: var(--accent);
+}
+body.rtl .rt-option-switch {
+  margin-left: initial;
+  margin-right: auto;
+}
+body.rtl .rt-option-switch.rt-active span {
+  transform: translate3d(-20px, 0, 0);
+}
+body.rtl .rt-option-switch:before {
+  left: initial;
+  right: 7px;
+}
+body.rtl .rt-icon-picker-value > div {
+  margin-left: initial;
+  margin-right: 15px;
+}
+body.rtl .rt-modal-tabs li:not(:last-child) {
+  border-right: none;
+  border-left: 1px solid #eee;
+}
+body.rtl
+  .rt-background-modal
+  .rt-color-picker-modal
+  .rt-color-picker-skins
+  li:not(:last-child) {
+  margin-right: initial;
+  margin-left: 10px;
+}
+body.rtl .rt-attachment .actions > *:not(:last-child) {
+  margin-right: initial;
+  margin-left: 15px;
+}
+body.rtl .rt-radio-option input[type="radio"],
+body.rtl .rt-color-palettes li input[type="radio"],
+body.rtl .rt-option-checkbox input[type="checkbox"] {
+  margin: 0 0 0 8px;
+}
+body.rtl .rt-option-checkbox input[type="checkbox"]:checked:before {
+  margin: -2px -2px 0 0;
+}
+body.rtl .rt-radio-option[data-inline] label:not(:last-child) {
+  margin-right: initial;
+  margin-left: 15px;
+}
+body.rtl .rt-option-border > *:first-child {
+  margin-left: initial;
+  margin-right: 15px;
+}
+body.rtl .rt-box-shadow-values {
+  margin-right: initial;
+  margin-left: 15px;
+  padding-right: initial;
+  padding-left: 8px;
+}
+body.rtl .rt-box-shadow-values button {
+  margin-right: initial;
+  margin-left: 10px;
+  border-right: none;
+  border-left: 1px solid rgba(221, 221, 221, 0.5);
+}
+body.rtl .rt-ratio-predefined button {
+  margin-left: initial;
+  margin-right: 12px;
+}
+body.rtl .rt-ratio-preview .rt-ratio-key {
+  margin: 0 0 0 7px;
+  padding: 0 0 0 7px;
+  border-right: none;
+  border-left: 1px solid #ddd;
+}
+body.rtl .rt-ratio-preview .rt-width-key {
+  margin: 0 7px 0 0;
+  padding: 0 7px 0 0;
+  border-left: none;
+  border-right: 1px solid #ddd;
+}
+body.rtl .rt-typohraphy-value {
+  padding-right: initial;
+  padding-left: 8px;
+}
+body.rtl .rt-typohraphy-value > div {
+  padding-left: 0;
+  padding-right: 8px;
+}
+body.rtl .rt-typography-top .rt-weight {
+  margin-left: initial;
+  margin-right: 7%;
+}
+body.rtl .rt-typography-top .rt-font svg {
+  right: initial;
+  left: 8px;
+}
+body.rtl .rt-typography-top .rt-back {
+  margin-right: -44px;
+  margin-left: 12px;
+}
+body.rtl .rt-typography-top.rara-switch-panel .rt-back {
+  margin-right: 0;
+}
+body.rtl .rt-typography-variant ul li:first-child {
+  border-radius: 0 3px 3px 0;
+}
+body.rtl .rt-typography-variant ul li:last-child {
+  border-radius: 3px 0 0 3px;
+}
+body.rtl .rt-typography-variant ul li + li {
+  margin-left: initial;
+  margin-right: -1px;
+}
+body.rtl .rt-add-layer-controls button {
+  margin-left: initial !important;
+  margin-right: 10px !important;
+}
+/* body.rtl .rt-layer-controls > *:not(:last-child) {
+  border-right: none;
+  border-left: 1px solid var(--optionBorderColor);
+} */
+body.rtl .components-custom-gradient-picker__gradient-bar {
+  padding-left: 3px;
+  padding-right: 21px;
+}
+body.rtl .rt-gradient-tab .components-angle-picker-control__angle-circle {
+  margin-right: 0;
+  margin-left: 6px;
+}
+body.rtl .rt-gradient-tab .components-popover {
+  right: initial !important;
+}
+body.rtl .rt-option-modal {
+  left: var(--modal-x-offset);
+  right: initial;
+}
+body.rtl .rt-option-modal:before {
+  margin-left: 13px;
+}
+body.rtl.wp-customizer .rt-option-modal {
+  right: 12px;
+}
+body.rtl [data-reach-dialog-overlay] {
+  left: 0;
+  right: var(--modal-left, 160px);
+}
+.rt-select-dropdown {
+  right: initial;
+  left: var(--modal-x-offset);
+}

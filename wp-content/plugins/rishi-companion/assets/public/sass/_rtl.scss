@@ -1,0 +1,55 @@
+body.rtl{
+    .rt-search-box .search-form .search-submit {
+        right: auto;
+        left: 10px;
+    }
+    .rishi_sidebar_widget_popular_post ul.layout-type-1 li .post-thumbnail, 
+    .rishi_sidebar_widget_recent_post ul.layout-type-1 li .post-thumbnail,
+    .rishi-posts-tabs .posts-tab-content .grid .tab-content .post-thumbnail{
+        margin-right: 0;
+        margin-left: 20px;
+    }
+    .rishi_sidebar_widget_popular_post ul li .widget-entry-header .entry-meta .posted-on + .view-count, 
+    .rishi_sidebar_widget_popular_post ul li .widget-entry-header .entry-meta .posted-on + .comment-count, 
+    .rishi_sidebar_widget_recent_post ul li .widget-entry-header .entry-meta .posted-on + .view-count, 
+    .rishi_sidebar_widget_recent_post ul li .widget-entry-header .entry-meta .posted-on + .comment-count {
+        margin-left: 0;
+        margin-right: 12px;
+        padding-left: 0;
+        padding-right: 10px;
+    }
+    
+    .rishi_sidebar_widget_popular_post ul li .widget-entry-header .entry-meta .posted-on + .view-count::before, 
+    .rishi_sidebar_widget_popular_post ul li .widget-entry-header .entry-meta .posted-on + .comment-count::before, 
+    .rishi_sidebar_widget_recent_post ul li .widget-entry-header .entry-meta .posted-on + .view-count::before, 
+    .rishi_sidebar_widget_recent_post ul li .widget-entry-header .entry-meta .posted-on + .comment-count::before {
+        left: auto;
+        right: 0;
+    }
+
+    .rishi_sidebar_widget_popular_post ul li .widget-entry-header .cat-links a + a, 
+    .rishi_sidebar_widget_recent_post ul li .widget-entry-header .cat-links a + a {
+        margin-left: 0;
+        padding-left: 0;
+        margin-right: 12px;
+        padding-right: 12px;
+    }
+    
+    .rishi_sidebar_widget_popular_post ul li .widget-entry-header .cat-links a + a::before, 
+    .rishi_sidebar_widget_recent_post ul li .widget-entry-header .cat-links a + a::before {
+        left: auto;
+        right: 0;
+    }
+
+    .cookie-notification .container .rt-close.close, 
+    .cookie-notification .rt-container .rt-close.close {
+        right: auto;
+        left: 35px;
+    }
+    
+    .cookie-notification .container .rt-button.rt-accept, 
+    .cookie-notification .rt-container .rt-button.rt-accept {
+        margin-left: 0;
+        margin-right: 10px;
+    }
+}

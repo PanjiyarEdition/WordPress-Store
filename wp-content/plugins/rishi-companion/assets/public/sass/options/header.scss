@@ -1,0 +1,148 @@
+/***************** Header customizer setting **********/
+.rt-builder-conditions-modal,
+.ct-builder-conditions-modal {
+    background: #fff;
+    box-sizing: border-box;
+    box-shadow: 0 50px 300px rgba(92, 110, 128, 0.5);
+    display: block;
+    max-width: 600px;
+    margin: 0 auto;
+    outline: none;
+    padding: 45px;
+    width: 100%;
+
+    .close-button {
+        background: transparent;
+        border: none;
+        color: #292929;
+        cursor: pointer;
+        font-size: 24px;
+        line-height: 0;
+        opacity: 1;
+        padding: 15px;
+        position: absolute;
+        right: 5px;
+        top: 10px;
+        transition: opacity 0.15s ease;
+    }
+
+    .rt-modal-content,
+    .ct-modal-content {
+        font-family: 'Arial';
+        position: relative;
+
+        h2 {
+            color: #292929;
+            font-size: 1.6em;
+            font-weight: 700;
+            line-height: 1.5;
+        }
+
+        p {
+            color: rgba(41, 41, 41, 0.9);
+            font-size: 1.2em;
+            font-weight: 400;
+            line-height: 1.78em;
+            letter-spacing: 0.1px;
+            margin: 0 0 30px;
+        }
+
+        .rt-modal-scroll,
+        .ct-modal-scroll {
+            .rt-display-conditions {
+                border-top: 1px solid rgba(0, 0, 0, 0.1);
+                margin: 0;
+
+                .rt-condition-group {
+                    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+
+                    .rt-select-input {
+                        input {
+                            color: rgba(41, 41, 41, 0.9);
+                            border-radius: 0px;
+                            font-size: 14px;
+                            height: 40px;
+                            padding: var(--padding);
+
+                            &:hover {
+                                border-color: #5081F5;
+                            }
+
+                            &:focus {
+                                box-shadow: 0 0 0 1px #5081F5;
+                            }
+                        }
+
+                        &.rt-condition-type {
+                            span {
+                                top: 10px;
+                            }
+                        }
+                    }
+
+                    button {
+                        height: 40px;
+                    }
+                }
+
+                .rt-conditions-actions {
+                    display: flex;
+                    justify-content: center;
+                    margin-bottom: 0;
+                    padding: 0;
+
+                    .button {
+                        background: #ffffff;
+                        border-color: #5081F5;
+                        border-radius: 0px;
+                        color: #5081F5;
+                        font-size: 14px;
+                        font-weight: 400;
+                        height: 45px;
+                        letter-spacing: 0.5px;
+                        padding: 0 20px;
+                        transition: all ease-in 0.2s;
+                        width: auto;
+
+                        &:hover {
+                            background: #5081F5;
+                            border-color: #5081F5;
+                            border: 1px solid #5081F5;
+                            color: #fff;
+                        }
+
+                    }
+                }
+            }
+
+        }
+
+        .rt-modal-actions,
+        .ct-modal-actions {
+            .button-primary {
+                background: #5081F5;
+                border-color: #5081F5;
+                border: 1px solid #5081F5;
+                color: #fff;
+                border-radius: 0px;
+                font-size: 14px;
+                font-weight: 400;
+                height: 45px;
+                letter-spacing: 0.5px;
+                padding: 0 20px;
+                transition: all ease-in 0.2s;
+                width: auto;
+
+                &:hover {
+                    background: #ffffff;
+                    border-color: #5081F5;
+                    color: #5081F5;
+                }
+
+                &:focus {
+                    box-shadow: 0 0 0 1px #fff, 0 0 0 3px #5081f5;
+                }
+            }
+        }
+    }
+}

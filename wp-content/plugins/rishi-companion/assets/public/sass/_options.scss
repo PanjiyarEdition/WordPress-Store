@@ -1,0 +1,30 @@
+@import 'options/display-conditions';
+@import 'options/animated-checkbox';
+@import 'options/import-export';
+@import "options/reset.scss";
+@import "options/header.scss";
+
+.toplevel_page_rt-dashboard {
+	.wp-menu-image img {
+		max-width: 18px;
+		height: auto;
+	}
+
+	a[href*='rt-dashboard-pricing'] {
+		display: none !important;
+	}
+}
+
+// .activate-license.rishi-companion {
+// 	display: none !important;
+// }
+
+[data-slug='rishi-companion'] {
+	.upgrade {
+		display: none;
+	}
+}
+
+.fs-field-beta_program {
+	display: none;
+}

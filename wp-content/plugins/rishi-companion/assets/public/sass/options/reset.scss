@@ -1,0 +1,79 @@
+/****** Reset Option Setting ********/
+
+[data-reach-dialog-overlay] {
+    background: rgba(0, 0, 0, 0.5) !important;
+}
+
+.rara-reset-options{
+    &.rara-admin-modal{
+        border-radius: 0;
+        font-family: "Arial";
+        min-height: 255px;
+        width: 496px;
+        padding: 45px;
+    }
+
+    .rara-modal-content {
+        display: block;
+        h2 {
+            color: #292929;
+            font-size: 1.6em;
+            font-weight: 700;
+            line-height: 1.5;
+        }
+
+        p {
+            color: rgba(41, 41, 41, 0.9);
+            font-size: 1.2em;
+            font-weight: 400;
+            line-height: 1.78em;
+            letter-spacing: 0.1px;
+            margin-bottom: 30px;
+        }
+    }
+
+    .rara-modal-actions {
+        &.has-divider{
+            display: flex;
+            justify-content: center;
+            margin-bottom: 0;
+            padding: 0;
+        }
+        &:before {
+            display: none;
+        }
+
+        .button {
+            background: #ffffff;
+            border-color: #5081F5;
+            border-radius: 0px;
+            color: #5081F5;
+            font-size: 14px;
+            font-weight: 400;
+            letter-spacing: 0.5px;
+            padding: 0 20px;
+            transition: all ease-in 0.2s;
+            width: auto;
+            &:hover{
+                background: #5081F5;
+                border-color: #5081F5;
+                color: #fff;
+            }
+            &:focus {
+                box-shadow: 0 0 0 1px #fff, 0 0 0 3px #5081f5;
+            }
+            &.button-primary {
+                background: #5081F5;
+                border-color: #5081F5;
+                border-width: 1px;
+                border-style: solid;
+                color: #fff;
+                &:hover{
+                    background: #ffffff;
+                    border-color: #5081F5;
+                    color: #5081F5;
+                }
+            }
+        }
+    }
+}

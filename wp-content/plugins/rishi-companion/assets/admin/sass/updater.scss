@@ -1,0 +1,28 @@
+#rsh-msgned {
+    padding: 3px 20px !important;
+
+    p {
+        display: flex;
+        align-items: center;
+    }
+}
+
+#rishi-cmp-license-key {
+    max-width: 300px;
+    margin: 0 15px;
+}
+
+.updatingMsg {
+    .shSpinr {
+        &::before {
+            animation: rotation 2s infinite linear;
+            color: #d63638;
+            content: "\f463";
+            display: inline-block;
+            font: normal 20px/1 dashicons;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+            vertical-align: top;
+        }
+    }
+}
